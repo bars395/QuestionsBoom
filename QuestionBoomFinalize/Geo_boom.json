@@ -1,0 +1,1669 @@
+{
+    "Questions":
+    [
+     {
+	   "question":"Сколько звёзд изображено на флаге Евросоюза?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "12",
+	   "answers": [ {
+			  "1":"12",
+			  "2":"11",
+			  "3":"8"
+			}
+			] 
+},
+ 
+{
+	   "question":"В какой стране существует традиция, согласно которой невеста не должна радоваться свадьбе?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Во Франции",
+	   "answers": [ {
+			  "1":"В Германии",
+			  "2":"Во Франции",
+			  "3":"В Италии"
+			}
+			]
+	 },
+ {
+	   "question":"Столицей какого государства является город Вильнюс?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Литва",
+	   "answers": [ {
+			  "1":"Латвия",
+			  "2":"Эстония",
+			  "3":"Литва"
+			}
+			]
+	 },
+ {
+	   "question":"Где в Европе находится Диснейленд?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "во Франции",
+	   "answers": [ {
+			  "1":"во Франции",
+			  "2":"в Люксембурге",
+			  "3":"в Германии"
+			}
+			]
+	 },
+ {
+	   "question":"Какого цвета нет во флаге Люксембурга?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "жёлтого",
+	   "answers": [ {
+			  "1":"голубого",
+			  "2":"жёлтого",
+			  "3":"красного"
+			}
+			]
+	 },
+ {
+	   "question":"Какое государство НЕ относится к Европе?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Марокко",
+	   "answers": [ {
+			  "1":"Сан-Марино",
+			  "2":"Марокко",
+			  "3":"Черногория"
+			}
+			]
+	 },
+{
+	   "question":"Современная столица этой страны – Токио, назовите первую по времени столицу.",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Нара",
+	   "answers": [ {
+			  "1":"Нара",
+			  "2":"Пара",
+			  "3":"Кара"
+			}
+			]
+	 },
+{
+	   "question":"Современная столица – Вашингтон, а вот в период становления независимости столица этой страны находилась временно в другом городе. В каком ?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Принстон",
+	   "answers": [ {
+			  "1":"Принстон",
+			  "2":"Беркли",
+			  "3":"Гарвард"
+			}
+			]
+	 },
+ 
+ 
+ {
+	   "question":"Какой язык использован для официального девиза Испании?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Латинский",
+	   "answers": [ {
+			  "1":"Испанский",
+			  "2":"Латинский",
+			  "3":"Итальянский"
+			}
+			]
+	 },
+ {
+	   "question":"В скольких частях света расположена Испания?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "2",
+	   "answers": [ {
+			  "1":"2",
+			  "2":"1",
+			  "3":"3"
+			}
+			]
+	 },
+ {
+	   "question":"Какие острова являются частью Испании?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Канары",
+	   "answers": [ {
+			  "1":"Канары",
+			  "2":"Гавайи",
+			  "3":"Сейшелы"
+			}
+			]
+	 }, {
+	   "question":"У какой из этих стран в числе официальных языков нет испанского?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Бразилия",
+	   "answers": [ {
+			  "1":"Бразилия",
+			  "2":"Гондурас",
+			  "3":"Аргентина"
+			}
+			]
+	 },
+{
+	   "question":"Какая валюта является официальной в Испании?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Евро",
+	   "answers": [ {
+			  "1":"Евро",
+			  "2":"Испанский доллар",
+			  "3":"Франк КФА"
+			}
+			]
+	 },
+ {
+	   "question":"Форма правления в какой стране сходна с испанской?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Великобритании",
+	   "answers": [ {
+			  "1":"Великобритании",
+			  "2":"Португалии",
+			  "3":"США"
+			}
+			]
+	 },
+ {
+	   "question":"Какие реки в Африке называют \"вади\", в Австралии – \"крики\"?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "реки пустынь и полупустынь",
+	   "answers": [ {
+			  "1":"реки пустынь и полупустынь",
+			  "2":"реки, текущие вспять",
+			  "3":"реки, меняющие русло"
+			}
+			]
+	 },
+ {
+	   "question":"Чем отличаются от других рек реки Конго (Африка) и Амазонка (Южная Америка)?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "паводок два раза в году",
+	   "answers": [ {
+			  "1":"паводок два раза в году",
+			  "2":"часто меняют свои русла",
+			  "3":"часть русла этих рек находится под землей"
+			}
+			]
+	 },
+ {
+	   "question":"Что такое \"поророка\" или \"амазуну\", периодически повторяющиеся на реке Амазонка?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "волна морского прилива",
+	   "answers": [ {
+			  "1":"волна морского прилива",
+			  "2":"паводковые разливы",
+			  "3":"усыхание притоков реки"
+			}
+			]
+	 },
+ {
+	   "question":"Какая крупная река Средней Азии раньше часто меняла свое русло, \"блуждая\" по пустыне Кызылкум и теряя там свою воду?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Сырдарья",
+	   "answers": [ {
+			  "1":"Сырдарья",
+			  "2":"Талас",
+			  "3":"Карадарья"
+			}
+			]
+	 },
+ {
+	   "question":"Как называются реки с чистой водой повышенной жесткости и постоянной температурой, которые текут под землей?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "карстовые реки",
+	   "answers": [ {
+			  "1":"карстовые реки",
+			  "2":"пещерные реки",
+			  "3":"каменные реки"
+			}
+			]
+	 },
+ {
+	   "question":"Какое название носят пятнадцать рек России?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Белая",
+	   "answers": [ {
+			  "1":"Белая",
+			  "2":"Черная",
+			  "3":"Новая"
+			}
+			]
+	 }, {
+	   "question":"Какая из перечисленных рек НЕ протекает в России?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Оранжевая",
+	   "answers": [ {
+			  "1":"Оранжевая",
+			  "2":"Синяя",
+			  "3":"Желтая"
+			}
+			]
+	 },
+{
+	   "question":"По какому озеру, расположенному в пустыне, можно пройти пешком, как по зеркалу?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "озеро Арыс",
+	   "answers": [ {
+			  "1":"озеро Арыс",
+			  "2":"озеро Кокунор",
+			  "3":"озеро Балхаш"
+			}
+			]
+	 },
+ {
+	   "question":"Где на планете день всегда равен ночи, а дважды в год солнце бывает в зените?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "экватор",
+	   "answers": [ {
+			  "1":"экватор",
+			  "2":"мыс Доброй Надежды",
+			  "3":"Северный полюс"
+			}
+			]
+	 },
+ {
+	   "question":"Какой дождь выпал в 1974 году в пригороде Ашхабада?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "из лягушек",
+	   "answers": [ {
+			  "1":"из лягушек",
+			  "2":"соленый дождь",
+			  "3":"из монет"
+			}
+			]
+	 },
+ {
+	   "question":"Какой формы молнии НЕ существует?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "спиральная",
+	   "answers": [ {
+			  "1":"спиральная",
+			  "2":"ракетная",
+			  "3":"четочная"
+			}
+			]
+	 },
+
+ {
+	   "question":"Где расположен Южный полюс?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "В Антарктике",
+	   "answers": [ {
+			  "1":"В Антарктике",
+			  "2":"В Южной Америке",
+			  "3":"В Арктике"
+			}
+			]
+	 },
+ {
+	   "question":"Где живут белые медведи?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "в Арктике",
+	   "answers": [ {
+			  "1":"в Арктике",
+			  "2":"в Африке",
+			  "3":"в Антарктике"
+			}
+			]
+	 }, {
+	   "question":"Какая часть айсберга скрыта под водой?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "до 90%",
+	   "answers": [ {
+			  "1":"до 90%",
+			  "2":"до 60%",
+			  "3":"до 10%"
+			}
+			]
+	 },
+{
+	   "question":"Что такое Антарктида?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "материк",
+	   "answers": [ {
+			  "1":"материк",
+			  "2":"остров",
+			  "3":"море"
+			}
+			]
+	 },
+ {
+	   "question":"Дожди не выпадали в Антарктиде уже ...",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "2 миллиона лет",
+	   "answers": [ {
+			  "1":"2 миллиона лет",
+			  "2":"500 тысяч лет",
+			  "3":"11 лет"
+			}
+			]
+	 },
+ {
+	   "question":"Какой океан омывает Антарктиду?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Южный океан",
+	   "answers": [ {
+			  "1":"Южный океан",
+			  "2":"Северный Ледовитый океан",
+			  "3":"Тихий океан"
+			}
+			]
+	 },
+ {
+	   "question":"Самая низкая температура на Земле была зафиксирована на станции ...",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "«Восток»",
+	   "answers": [ {
+			  "1":"«Восток»",
+			  "2":"«Союз»",
+			  "3":"«Мирный»"
+			}
+			]
+	 },
+ {
+	   "question":"Как зовут единственного человека, родившегося в Антарктиде?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Эмилио Маркос Палма",
+	   "answers": [ {
+			  "1":"Роберт Скотт",
+			  "2":"Михаил Лазарев",
+			  "3":"Эмилио Маркос Палма"
+			}
+			]
+	 },
+ {
+	   "question":"Сколько процентов запасов пресной воды на планете содержит Антарктика?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "70%",
+	   "answers": [ {
+			  "1":"70%",
+			  "2":"50%",
+			  "3":"30%"
+			}
+			]
+	 },
+ {
+	   "question":"Сколько слогов в названии столицы Мадагаскара?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "6",
+	   "answers": [ {
+			  "1":"6",
+			  "2":"7",
+			  "3":"5"
+			}
+			]
+}, 
+ {
+	   "question":"Какой город является столицей Папуа – Новой Гвинеи?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Порт-Морсби",
+	   "answers": [ {
+			  "1":"Порт-Морсби",
+			  "2":"Маданг",
+			  "3":"Лаэ"
+			}
+			]
+	 },
+ {
+	   "question":"Этот город является столицей государства Соломоновы Острова.",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Хониара",
+	   "answers": [ {
+			  "1":"Гизо",
+			  "2":"Хониара",
+			  "3":"Норо"
+			}
+			]
+	 },
+ {
+	   "question":"Столица Украины?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Киев",
+	   "answers": [ {
+			  "1":"Киев",
+			  "2":"Вена",
+			  "3":"Москва"
+			}
+			]
+	 },
+ {
+	   "question":"Как называется известный одесский рынок?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Привоз",
+	   "answers": [ {
+			  "1":"Привоз",
+			  "2":"Ярмарка",
+			  "3":"Базар"
+			}
+			]
+	 },
+ {
+	   "question":"Самая высокая гора Украины?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Говерла",
+	   "answers": [ {
+			  "1":"Говерла",
+			  "2":"Лыса Гора",
+			  "3":"Карпат"
+			}
+			]
+	 },
+ {
+	   "question":"На какой реке стоит Киев?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Днепр",
+	   "answers": [ {
+			  "1":"Днепр",
+			  "2":"Днестр",
+			  "3":"Десна"
+			}
+			]
+	 },
+{
+	   "question":"Какое государство граничит с Украиной?",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Словакия",
+	   "answers": [ {
+			  "1":"Словакия",
+			  "2":"Болгария",
+			  "3":"Турция"
+			}
+			]
+	 },
+ {
+	   "question":"Столица Белоруссии:",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Минск",
+	   "answers": [ {
+			  "1":"Минск",
+			  "2":"Вильнюс",
+			  "3":"Кишинёв"
+			}
+			]
+	 },
+ {
+	   "question":"Столица Туркмении:",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Ашхабад",
+	   "answers": [ {
+			  "1":"Ашхабад",
+			  "2":"Анкара",
+			  "3":"Астана"
+			}
+			]
+	 },
+ {
+	   "question":"Столица Норвегии:",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Осло",
+	   "answers": [ {
+			  "1":"Осло",
+			  "2":"Лиссабон",
+			  "3":"Стокгольм"
+			}
+			]
+	 },
+ {
+	   "question":"Столица Сирии:",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Дамаск",
+	   "answers": [ {
+			  "1":"Дамаск",
+			  "2":"Триполи",
+			  "3":"Лусака"
+			}
+			]
+	 },
+ {
+	   "question":"Столица Ирландии:",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Дублин",
+	   "answers": [ {
+			  "1":"Дублин",
+			  "2":"Рейкьявик",
+			  "3":"Амстердам"
+			}
+			]
+	 },
+ {
+	   "question":"Столица Грузии:",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Тбилиси",
+	   "answers": [ {
+			  "1":"Тбилиси",
+			  "2":"Братислава",
+			  "3":"Любляна"
+			}
+			]
+	 },
+{
+	   "question":"Столица Таджикистана:",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Душанбе",
+	   "answers": [ {
+			  "1":"Душанбе",
+			  "2":"Худжанд",
+			  "3":"Ташкент"
+			}
+			]
+	 }, 
+{
+	   "question":"Столица Кении:",
+	   "category":"geography",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Найроби",
+	   "answers": [ {
+			  "1":"Найроби",
+			  "2":"Мале",
+			  "3":"Валетта"
+			}
+			]
+		 },
+{
+    "question":"Столица Испании...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Мадрид",
+    "answers": [{
+     "1":"Мадрид",
+     "2":"Барселона",
+     "3":"Рим"
+   }
+   ]
+  },
+{
+    "question":"Столица США...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Вашингтон",
+    "answers": [{
+     "1":"Нью-Йорк",
+     "2":"Лос-Анджелес",
+     "3":"Вашингтон"
+   }
+   ]
+  },
+{
+    "question":"Столица Канады...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Оттава",
+    "answers": [{
+     "1":"Оттава",
+     "2":"Торонто",
+     "3":"Ванкувер"
+   }
+   ]
+  },
+{
+    "question":"Столица Мексики...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Мехико",
+    "answers": [{
+     "1":"Мехико",
+     "2":"Гуадалахара",
+     "3":"Леон"
+   }
+   ]
+  },
+{
+    "question":"Столица Германии...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Берлин",
+    "answers": [{
+     "1":"Гамбург",
+     "2":"Берлин",
+     "3":"Мюнхен"
+   }
+   ]
+  },
+{
+    "question":"Столица Франции...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Париж",
+    "answers": [{
+     "1":"Ницца",
+     "2":"Канны",
+     "3":"Париж"
+   }
+   ]
+  },
+{
+    "question":"Столица Италии...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Рим",
+    "answers": [{
+     "1":"Милан",
+     "2":"Рим",
+     "3":"Геноа"
+   }
+   ]
+  },
+{
+    "question":"Столица России...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Москва",
+    "answers": [{
+     "1":"Санкт - Петербург",
+     "2":"Москва",
+     "3":"Екатеринбург"
+   }
+   ]
+  },
+{
+    "question":"Столица Китая...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Пекин",
+    "answers": [{
+     "1":"Пекин",
+     "2":"Гонг - Конг",
+     "3":"Шанхай"
+   }
+   ]
+  },
+{
+    "question":"Столица Австралии...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Канберра",
+    "answers": [{
+     "1":"Сидней",
+     "2":"Канберра",
+     "3":"Мельборн"
+   }
+   ]
+  },
+{
+    "question":"Столица Бразилии...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Бразилиа",
+    "answers": [{
+     "1":"Сан-Паулу",
+     "2":"Бразилиа",
+     "3":"Рио-Де-Жанейро"
+   }
+   ]
+  },
+{
+    "question":"Столица Индии...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Нью-Дели",
+    "answers": [{
+     "1":"Мумбай",
+     "2":"Нью-Дели",
+     "3":"Колката"
+   }
+   ]
+  },
+
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"71",
+    "rightAnswer": "Италия",
+    "answers": [{
+     "1":"Италия",
+     "2":"Франция",
+     "3":"Испания"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"72",
+    "rightAnswer": "Италия",
+    "answers": [{
+     "1":"Румыния",
+     "2":"Италия",
+     "3":"Мексика"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"73",
+    "rightAnswer": "Испания",
+    "answers": [{
+     "1":"Италия",
+     "2":"Аргентина",
+     "3":"Испания"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"74",
+    "rightAnswer": "Австралия",
+    "answers": [{
+     "1":"Новая Зеландия",
+     "2":"Австралия",
+     "3":"Англия"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"75",
+    "rightAnswer": "Австралия",
+    "answers": [{
+     "1":"Великобритания",
+     "2":"США",
+     "3":"Австралия"
+   }
+ ]
+ },
+{
+    "question":"Какой остров/острова представлены на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"76",
+    "rightAnswer": "Остров Пасхи",
+    "answers": [{
+     "1":"Остров Пасхи",
+     "2":"Мальдивы",
+     "3":"Мадагаскар"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"77",
+    "rightAnswer": "Китай",
+    "answers": [{
+     "1":"Китай",
+     "2":"Россия",
+     "3":"Индия"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"78",
+    "rightAnswer": "ОАЕ",
+    "answers": [{
+     "1":"ОАЕ",
+     "2":"США",
+     "3":"Китай"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"79",
+    "rightAnswer": "Франция",
+    "answers": [{
+     "1":"Германия",
+     "2":"Франция",
+     "3":"Португалия"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"80",
+    "rightAnswer": "Франция",
+    "answers": [{
+     "1":"Нидерланды",
+     "2":"Италия",
+     "3":"Франция"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"81",
+    "rightAnswer": "США",
+    "answers": [{
+     "1":"США",
+     "2":"Канада",
+     "3":"Монако"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"82",
+    "rightAnswer": "Казахстан",
+    "answers": [{
+     "1":"Казахстан",
+     "2":"Монголия",
+     "3":"Узбекистан"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"83",
+    "rightAnswer": "Мексика",
+    "answers": [{
+     "1":"Италия",
+     "2":"Мексика",
+     "3":"Болгария"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"84",
+    "rightAnswer": "Мексика",
+    "answers": [{
+     "1":"Мексика",
+     "2":"Колумбия",
+     "3":"Уругвай"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"85",
+    "rightAnswer": "США",
+    "answers": [{
+     "1":"Великобритания",
+     "2":"Франция",
+     "3":"США"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"86",
+    "rightAnswer": "Китай",
+    "answers": [{
+     "1":"Индия",
+     "2":"Китай",
+     "3":"Казахстан"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"87",
+    "rightAnswer": "Россия",
+    "answers": [{
+     "1":"Россия",
+     "2":"Германия",
+     "3":"Швеция"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"88",
+    "rightAnswer": "Бразилия",
+    "answers": [{
+     "1":"Аргентина",
+     "2":"Колумбия",
+     "3":"Бразилия"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"89",
+    "rightAnswer": "Египет",
+    "answers": [{
+     "1":"Сирия",
+     "2":"Ирак",
+     "3":"Египет"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"90",
+    "rightAnswer": "Испания",
+    "answers": [{
+     "1":"Испания",
+     "2":"Македония",
+     "3":"Черногория"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"91",
+    "rightAnswer": "США",
+    "answers": [{
+     "1":"США",
+     "2":"Канада",
+     "3":"Англия"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"92",
+    "rightAnswer": "Германия",
+    "answers": [{
+     "1":"Германия",
+     "2":"Индия",
+     "3":"Португалия"
+   }
+ ]
+ },
+{
+    "question":"Цветные скалы Чжанъе Данксиа. Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"93",
+    "rightAnswer": "Китай",
+    "answers": [{
+     "1":"Монголия",
+     "2":"Китай",
+     "3":"Индия"
+   }
+ ]
+ },
+{
+    "question":"Большая голубая дыра. Угадай где",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"94",
+    "rightAnswer": "Белиз. Центральная Америка",
+    "answers": [{
+     "1":"Мальдивские острова",
+     "2":"Белиз. Центральная Америка",
+     "3":"Средеземное море"
+   }
+ ]
+ },
+{
+    "question":"Пещера горной реки. Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"96",
+    "rightAnswer": "Вьетнам",
+    "answers": [{
+     "1":"Корея",
+     "2":"Вьетнам",
+     "3":"Мексика"
+   }
+ ]
+ },
+{
+    "question":"Ледяная пещера под ледником. Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"97",
+    "rightAnswer": "США",
+    "answers": [{
+     "1":"Россия",
+     "2":"Гренландия",
+     "3":"США"
+   }
+ ]
+ },
+{
+    "question":"Каппадокия. Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"98",
+    "rightAnswer": "Турция",
+    "answers": [{
+     "1":"Турция",
+     "2":"Монголия",
+     "3":"Армения"
+   }
+ ]
+ },
+{
+    "question":"Море Звезд на острове Ваадху. Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"99",
+    "rightAnswer": "Мальдивские острова",
+    "answers": [{
+     "1":"Сейшельские острова",
+     "2":"Гаваи",
+     "3":"Мальдивские острова"
+   }
+ ]
+ },
+{
+    "question":"Язык Тролля. Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"100",
+    "rightAnswer": "Норвегия",
+    "answers": [{
+     "1":"Швейцария",
+     "2":"Швеция",
+     "3":"Норвегия"
+   }
+ ]
+ },
+{
+    "question":"Пляжи Белой гавани. Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"101",
+    "rightAnswer": "Австралия",
+    "answers": [{
+     "1":"Малайзия",
+     "2":"Гаваи",
+     "3":"Австралия"
+   }
+ ]
+ },
+{
+    "question":"Большой Каньон в ... Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"102",
+    "rightAnswer": "Аризоне (США)",
+    "answers": [{
+     "1":"Аризоне (США)",
+     "2":"Камчатке (Россия)",
+     "3":"Новой Зеландии"
+   }
+ ]
+ },
+{
+    "question":"Тоннель любви. Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"103",
+    "rightAnswer": "Украина",
+    "answers": [{
+     "1":"Украина",
+     "2":"Румыния",
+     "3":"Словакия"
+   }
+ ]
+ },
+{
+    "question":"Заколдованный колодец. Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"104",
+    "rightAnswer": "Бразилия",
+    "answers": [{
+     "1":"Чили",
+     "2":"Бразилия",
+     "3":"Южная Африка"
+   }
+ ]
+ },
+{
+    "question":"Каньон Антилопы. Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"105",
+    "rightAnswer": "США",
+    "answers": [{
+     "1":"Бразилия",
+     "2":"Перу",
+     "3":"США"
+   }
+ ]
+ },
+{
+    "question":"Фингалова пещера. Угадай где!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"106",
+    "rightAnswer": "Шотландия",
+    "answers": [{
+     "1":"Шотландия",
+     "2":"Чили",
+     "3":"Китай"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"107",
+    "rightAnswer": "Южно-Африканская Республика",
+    "answers": [{
+     "1":"Южно-Африканская Республика",
+     "2":"Болгария",
+     "3":"Объденённые Арабские Эмираты"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"108",
+    "rightAnswer": "Новая Зеландия",
+    "answers": [{
+     "1":"Новая Зеландия",
+     "2":"Чили",
+     "3":"Шотландия"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"109",
+    "rightAnswer": "Турция",
+    "answers": [{
+     "1":"Тунис",
+     "2":"Турция",
+     "3":"Таиланд"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"110",
+    "rightAnswer": "Греция",
+    "answers": [{
+     "1":"Швеция",
+     "2":"Финляндия",
+     "3":"Греция"
+   }
+ ]
+ },
+{
+    "question":"Какая страна представлена на изображении?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"111",
+    "rightAnswer": "Колумбия",
+    "answers": [{
+     "1":"Армения",
+     "2":"Перу",
+     "3":"Колумбия"
+   }
+			]
+	 },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"130",
+     "rightAnswer": "Бельгия",
+     "answers": [ {
+                 "1":"Бельгия",
+                 "2":"Германия",
+                 "3":"Канада"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"131",
+     "rightAnswer": "Аргентина",
+     "answers": [ {
+                 "1":"Бразилия",
+                 "2":"Аргентина",
+                 "3":"Уругвай"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"132",
+     "rightAnswer": "Бразилия",
+     "answers": [ {
+                 "1":"Бразилия",
+                 "2":"Аргентина",
+                 "3":"Уругвай"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"133",
+     "rightAnswer": "Северная Корея",
+     "answers": [ {
+                 "1":"Китай",
+                 "2":"Южная Корея",
+                 "3":"Северная Корея"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"134",
+     "rightAnswer": "Южная Корея",
+     "answers": [ {
+                 "1":"Китай",
+                 "2":"Южная Корея",
+                 "3":"Северная Корея"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"135",
+     "rightAnswer": "Украина",
+     "answers": [ {
+                 "1":"Белорусь",
+                 "2":"Украина",
+                 "3":"Молдова"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"136",
+     "rightAnswer": "Белорусь",
+     "answers": [ {
+                 "1":"Белорусь",
+                 "2":"Литва",
+                 "3":"Латвия"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"137",
+     "rightAnswer": "Китай",
+     "answers": [ {
+                 "1":"Китай",
+                 "2":"Пакистан",
+                 "3":"Индия"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"138",
+     "rightAnswer": "Болгария",
+     "answers": [ {
+                 "1":"Болгария",
+                 "2":"Венгрия",
+                 "3":"Польша"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"139",
+     "rightAnswer": "Германия",
+     "answers": [ {
+                 "1":"Бельгия",
+                 "2":"Польша",
+                 "3":"Германия"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"140",
+     "rightAnswer": "Япония",
+     "answers": [ {
+                 "1":"Япония",
+                 "2":"Южная Корея",
+                 "3":"Китай"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"141",
+     "rightAnswer": "Россия",
+     "answers": [ {
+                 "1":"Франция",
+                 "2":"Россия",
+                 "3":"Нидерланды"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"142",
+     "rightAnswer": "Польша",
+     "answers": [ {
+                 "1":"Словения",
+                 "2":"Словакия",
+                 "3":"Польша"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"143",
+     "rightAnswer": "Канада",
+     "answers": [ {
+                 "1":"США",
+                 "2":"Канада",
+                 "3":"Мексика"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"144",
+     "rightAnswer": "Армения",
+     "answers": [ {
+                 "1":"Белорусь",
+                 "2":"Румыния",
+                 "3":"Армения"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"145",
+     "rightAnswer": "Израиль",
+     "answers": [ {
+                 "1":"Израиль",
+                 "2":"Индия",
+                 "3":"Мексика"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"146",
+     "rightAnswer": "Куба",
+     "answers": [ {
+                 "1":"Куба",
+                 "2":"Мексика",
+                 "3":"Бразилия"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"147",
+     "rightAnswer": "Латвия",
+     "answers": [ {
+                 "1":"Литва",
+                 "2":"Латвия",
+                 "3":"Норвегия"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"148",
+     "rightAnswer": "Литва",
+     "answers": [ {
+                 "1":"Латвия",
+                 "2":"Финляндия",
+                 "3":"Литва"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"149",
+     "rightAnswer": "Молдова",
+     "answers": [ {
+                 "1":"Молдова",
+                 "2":"Македония",
+                 "3":"Черногория"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"150",
+     "rightAnswer": "Нидерланды",
+     "answers": [ {
+                 "1":"Нидерланды",
+                 "2":"Франция",
+                 "3":"Россия"
+                 }
+                 ]
+     },
+     {
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"151",
+     "rightAnswer": "Норвегия",
+     "answers": [ {
+                 "1":"Норвегия",
+                 "2":"Финляндия",
+                 "3":"Швеция"
+                 }
+                 ]
+     },
+     { 
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"152",
+     "rightAnswer": "Финляндия",
+     "answers": [ {
+                 "1":"Норвегия",
+                 "2":"Финляндия",
+                 "3":"Швеция"
+                 }
+                 ]
+     },
+     { 
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"153",
+     "rightAnswer": "Швеция",
+     "answers": [ {
+                 "1":"Норвегия",
+                 "2":"Финляндия",
+                 "3":"Швеция"
+                 }
+                 ]
+     },
+     { 
+     "question":"Флаг какой страны представлен на изображении?",
+     "category":"geograhpy",
+     "isImage":true,
+     "imagePath":"154",
+     "rightAnswer": "Панама",
+     "answers": [ {
+                 "1":"Гондурас",
+                 "2":"Панама",
+                 "3":"Чили"
+                 }
+                 ]
+     }
+     
+     ]
+}
+
+
+
+
+
+
+
+
+
+

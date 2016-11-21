@@ -1,0 +1,816 @@
+﻿{
+   "Questions":[
+      {
+         "question":"How many people have Apple founded?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Three",
+         "answers":[
+            {
+               "1":"One",
+               "2":"Two",
+               "3":"Three"
+            }
+         ]
+      },
+      {
+         "question":"Insert the missing name. Steve Jobs and Johnathan Ayva have the same average name — ...",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Paul",
+         "answers":[
+            {
+               "1":"Steve",
+               "2":"Paul",
+               "3":"John"
+            }
+         ]
+      },
+      {
+         "question":"Original computer Apple 1 was sold for...",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"$666.66",
+         "answers":[
+            {
+               "1":"$444.44",
+               "2":"$555.55",
+               "3":"$666.66"
+            }
+         ]
+      },
+      {
+         "question":"Insert the missing word. Apple Store which is on the Fifth Avenue in Manhattan (it is a  transparent cube), is considered one of the most ... sights in the world.",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"photographed",
+         "answers":[
+            {
+               "1":"photographed",
+               "2":"visited",
+               "3":"fashionable"
+            }
+         ]
+      },
+      {
+         "question":"Steve Jobs tried also ... and called it one of three major things which he did in his life.",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"LSD",
+         "answers":[
+            {
+               "1":"Methamphetamine",
+               "2":"Coke",
+               "3":"LSD"
+            }
+         ]
+      },
+      {
+         "question":"Insert the missing name. Before founding Apple, Steve Jobs had worked in...",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Atari",
+         "answers":[
+            {
+               "1":"Atari",
+               "2":"Starbucks",
+               "3":"Microsoft"
+            }
+         ]
+      },
+      {
+         "question":"Insert the missing word. Steve Jobs was...",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Buddhist",
+         "answers":[
+            {
+               "1":"Buddhist",
+               "2":"Muslim",
+               "3":"Christian"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of Steve Jobs's father ?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Abdulfattakh Dzhandali",
+         "answers":[
+            {
+               "1":"Kulsum Abdoul",
+               "2":"Karim Abdul-Jabbar",
+               "3":"Abdulfattakh Dzhandali"
+            }
+         ]
+      },
+      {
+         "question":"Steve Jobs met Steve Voznyak when Jobs was ... , and  Voznyak was 21 years old.",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"16",
+         "answers":[
+            {
+               "1":"14",
+               "2":"16",
+               "3":"18"
+            }
+         ]
+      },
+      {
+         "question":"Insert the missing word. Steve Jobs denied paternity to the ... child.",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"first",
+         "answers":[
+            {
+               "1":"first",
+               "2":"second",
+               "3":"third"
+            }
+         ]
+      },
+      {
+         "question":"Jobs sold the apartments in New York to the lead singer...",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Bono's U2",
+         "answers":[
+            {
+               "1":"Bill Gates",
+               "2":"commercial bank",
+               "3":"Bono's U2"
+            }
+         ]
+      },
+      {
+         "question":"To whom  did Steve Jobs provide in use the mansion in the Californian Woodside in 1998?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Bill Clinton",
+         "answers":[
+            {
+               "1":"Jonathan Ive",
+               "2":"Mike Taysan",
+               "3":"Bill Clinton"
+            }
+         ]
+      },
+      {
+         "question":"What is the foundation date of the company \"Apple\"?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"First of April",
+         "answers":[
+            {
+               "1":"The twenty-third of March",
+               "2":"Tenth of January",
+               "3":"First of April"
+            }
+         ]
+      },
+      {
+         "question":"What share price of Apple was in 2001?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Less than $8",
+         "answers":[
+            {
+               "1":"Less than $8",
+               "2":"Less than $350",
+               "3":"Less than $700"
+            }
+         ]
+      },
+      {
+         "question":"Apple II became the most long-playing computer of Apple. During what time was it possible to buy?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"11 years",
+         "answers":[
+            {
+               "1":"3 years",
+               "2":"7 years",
+               "3":"11 years"
+            }
+         ]
+      },
+      {
+         "question":"The time which shown on all pictures of devices and on the official site of Apple is the same. What time is shown on iOS-devices?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"9:41",
+         "answers":[
+            {
+               "1":"9:41",
+               "2":"12:00",
+               "3":"21:45"
+            }
+         ]
+      },
+      {
+         "question":"The time which shown on all pictures of devices and on the official site of Apple is the same. What time is shown on  Mac?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"10:50",
+         "answers":[
+            {
+               "1":"9:35",
+               "2":"10:50",
+               "3":"21:45"
+            }
+         ]
+      },
+      {
+         "question":"The director of the well-known advertising Macintosh in 1984 and also made movies: \"Alien\" and \"Gladiator\" is ...",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ridley Scott",
+         "answers":[
+            {
+               "1":"Zac Sneider",
+               "2":"Tim Burton",
+               "3":"Ridley Scott"
+            }
+         ]
+      },
+      {
+         "question":"What salary had Steve Jobs received in 2009?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"1$",
+         "answers":[
+            {
+               "1":"1$",
+               "2":"5.000.000$",
+               "3":"71.000.000.00$"
+            }
+         ]
+      },
+      {
+         "question":"Where did Steve Jobs meet his future wife?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"At Stanford",
+         "answers":[
+            {
+               "1":"At Harvard",
+               "2":"At Oxford",
+               "3":"At Stanford"
+            }
+         ]
+      },
+      {
+         "question":"Who awarded Steve Jobs with the National medal of technologies?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ronald Reagan",
+         "answers":[
+            {
+               "1":"Ronald Reagan",
+               "2":"Barack Obama",
+               "3":"Dzhorsh Bush"
+            }
+         ]
+      },
+      {
+         "question":"The polo-neck, blue jeans 501 were invariable clothes elements of Steve Jobs, and ...",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Sneakers",
+         "answers":[
+            {
+               "1":"Shoes",
+               "2":"Slippers",
+               "3":"Sneakers"
+            }
+         ]
+      },
+      {
+         "question":"In 1974 Steve Jobs went to travel in search of an enlightenment. Where did he go?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"India",
+         "answers":[
+            {
+               "1":"China",
+               "2":"India",
+               "3":"Thailand"
+            }
+         ]
+      },
+      {
+         "question":"Steve Jobs adored apples, but it was possible to see something another. What was it?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Sushi",
+         "answers":[
+            {
+               "1":"Pizza",
+               "2":"Sushi",
+               "3":"A pork stake"
+            }
+         ]
+      },
+      {
+         "question":"Insert the missing word. According to Analysts, capitalization of Apple can reach up to ... of dollars.",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Trillion",
+         "answers":[
+            {
+               "1":"Trillion",
+               "2":"5 Trillions",
+               "3":"10 trillions"
+            }
+         ]
+      },
+      {
+         "question":"Since what year has \"Apple\" been carried out retails?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"2001",
+         "answers":[
+            {
+               "1":"1998",
+               "2":"2000",
+               "3":"2001"
+            }
+         ]
+      },
+      {
+         "question":"Traditionnaly there is the updating of the main products of Apple. How often does it happen?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Annually",
+         "answers":[
+            {
+               "1":"Once a month",
+               "2":"Annually",
+               "3":"Time in 3 years"
+            }
+         ]
+      },
+      {
+         "question":"Statistically, the average user of the personal computer spends till 50 o'clock in a year, solving technical problems. How much time does the average user of Mac spend?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"5 hours",
+         "answers":[
+            {
+               "1":"5 hours",
+               "2":"26 hours",
+               "3":"55 hours"
+            }
+         ]
+      },
+      {
+         "question":"What did Steve Jobs present each Apple employee for free after the first presentation?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Iphone",
+         "answers":[
+            {
+               "1":"Iphone",
+               "2":"Apples",
+               "3":"Cookies"
+            }
+         ]
+      },
+      {
+         "question":"The code name iPod was...",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"\"Dulcimer\"",
+         "answers":[
+            {
+               "1":"\"Dulci\"",
+               "2":"\"Dulcime\"",Antoni van Leeuwenhoek
+               "3":"\"Dulcimer\""
+            }
+         ]
+      },
+      {
+         "question":" Gonzo, Jedi, Malibu, Peter Pan, Rosebud and Yikes are the code names of ...",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Mac",
+         "answers":[
+            {
+               "1":"Ipod",
+               "2":"Ipad",
+               "3":"Mac"
+            }
+         ]
+      },
+      {
+         "question":"What was the first image which was shown on Macintosh?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Scrooge Makdak",
+         "answers":[
+            {
+               "1":"Scrooge Makdak",
+               "2":"Steve Jobs",
+               "3":"The Statue of Liberty"
+            }
+         ]
+      },
+      {
+         "question":"When was the first Online shop \"Apple\" opened?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"on November 10, 1997",
+         "answers":[
+            {
+               "1":"on November 10, 1997",
+               "2":"on January 20, 2001",
+               "3":"on March 23, 2002"
+            }
+         ]
+      },
+      {
+         "question":"In what cities were the first retail shops Apple opened?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Virginia and California",
+         "answers":[
+            {
+               "1":"Virginia and California",
+               "2":"Florida and Texas",
+               "3":"Michigan and Nevada"
+            }
+         ]
+      },
+      {
+         "question":"What suit was Steve Jobs dressed in the first fancy-dress party of Apple in honor of the Halloween?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jesus Christ",
+         "answers":[
+            {
+               "1":"Jesus Christ",
+               "2":"Buddha",
+               "3":"Godzillas"
+            }
+         ]
+      },
+      {
+         "question":"Once Steve Jobs appealed in NASA to give it management over...",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"A space shuttle",
+         "answers":[
+            {
+               "1":"System of computers",
+               "2":"The satellite in an orbit",
+               "3":"A space shuttle"
+            }
+         ]
+      },
+      {
+         "question":"To raise money for the campaign launch, Jobs had to sell his van and something else. At that time, it costed more than the car. What was it?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Calculator",
+         "answers":[
+            {
+               "1":"House",
+               "2":"Sports car",
+               "3":"Calculator"
+            }
+         ]
+      },
+      {
+         "question":"Who was represented on the first logo of Apple?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"301",
+         "rightAnswer":"Isaac Newton",
+         "answers":[
+            {
+               "1":"Isaac Newton",
+               "2":"Leonardo Da Vinci",
+               "3":"Ferdinand Magellan"
+            }
+         ]
+      },
+      {
+         "question":"What is represented in the picture?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"302",
+         "rightAnswer":"The first logo of Apple",
+         "answers":[
+            {
+               "1":"The first logo of Apple",
+               "2":"The second logo of Apple",
+               "3":"The third logo of Apple"
+            }
+         ]
+      },
+      {
+         "question":"It has been a logo of Apple for 22 years. When was it replaced with one-color option?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"303",
+         "rightAnswer":"1998",
+         "answers":[
+            {
+               "1":"1987",
+               "2":"1998",
+               "3":"2003"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this person?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"304",
+         "rightAnswer":"steve Wozniak",
+         "answers":[
+            {
+               "1":"steve Wozniak",
+               "2":"Steve Jobs",
+               "3":"Tim Cook"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this person?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"305",
+         "rightAnswer":"Tim Cook",
+         "answers":[
+            {
+               "1":"Steve Wozniak",
+               "2":"Phil Schiller",
+               "3":"Tim Cook"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this person?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"306",
+         "rightAnswer":"Steve Jobs",
+         "answers":[
+            {
+               "1":"Steve Jobs",
+               "2":"Phil Schiller",
+               "3":"Tim Cook"
+            }
+         ]
+      },
+      {
+         "question":"Who is represented in this photo?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"307",
+         "rightAnswer":"Steve Jobs and Steve Wozniak",
+         "answers":[
+            {
+               "1":"Steve Jobs and John Voznyak",
+               "2":"Steve Jobs and Steve Wozniak",
+               "3":"John Jobs and Steve Voznyak"
+            }
+         ]
+      },
+      {
+         "question":"How is this invention called?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"308",
+         "rightAnswer":"Apple QuickTake 100",
+         "answers":[
+            {
+               "1":"First Ipod",
+               "2":"Apple QuickTake 100",
+               "3":"Macintosh"
+            }
+         ]
+      },
+      {
+         "question":"What is represented in the picture?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"310",
+         "rightAnswer":"A new campus of Apple",
+         "answers":[
+            {
+               "1":"A new campus of Apple",
+               "2":"Pentagon",
+               "3":"A new amusement park"
+            }
+         ]
+      },
+      {
+         "question":"How is this invention called?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"311",
+         "rightAnswer":"Macintosh",
+         "answers":[
+            {
+               "1":"Macintosh",
+               "2":"Macbook air",
+               "3":"Macbook pro"
+            }
+         ]
+      },
+      {
+         "question":"How is this invention called?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"312",
+         "rightAnswer":"Macbook",
+         "answers":[
+            {
+               "1":"Macbook",
+               "2":"IMac",
+               "3":"Ipod"
+            }
+         ]
+      },
+      {
+         "question":"How is this invention called?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"313",
+         "rightAnswer":"Imac",
+         "answers":[
+            {
+               "1":"Macbook Air",
+               "2":"Macbook Pro",
+               "3":"Imac"
+            }
+         ]
+      },
+      {
+         "question":"How is this invention called?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"314",
+         "rightAnswer":"Ipad",
+         "answers":[
+            {
+               "1":"Ipod",
+               "2":"Ipad",
+               "3":"Iphone"
+            }
+         ]
+      },
+      {
+         "question":"How is this invention called?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"315",
+         "rightAnswer":"Apple watch",
+         "answers":[
+            {
+               "1":"Ipod",
+               "2":"Macintosh",
+               "3":"Apple watch"
+            }
+         ]
+      },
+      {
+         "question":"How is this invention called?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"316",
+         "rightAnswer":"Iphone 3GS",
+         "answers":[
+            {
+               "1":"Iphone 3GS",
+               "2":"Iphone 4S",
+               "3":"Iphone 5S"
+            }
+         ]
+      },
+      {
+         "question":"How is this invention called?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"317",
+         "rightAnswer":"Iphone 4S",
+         "answers":[
+            {
+               "1":"Iphone 3GS",
+               "2":"Iphone 4S",
+               "3":"Iphone 6S"
+            }
+         ]
+      },
+      {
+         "question":"How is this invention called?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"318",
+         "rightAnswer":"Iphone 5S",
+         "answers":[
+            {
+               "1":"Iphone 4S",
+               "2":"Iphone 5S",
+               "3":"Iphone 6S"
+            }
+         ]
+      },
+      {
+         "question":"How is this invention called?",
+         "category":"Apple",
+         "isImage":true,
+         "imagePath":"319",
+         "rightAnswer":"Iphone 6S",
+         "answers":[
+            {
+               "1":"Iphone 6S",
+               "2":"Ipad Pro",
+               "3":"Iphone 5S"
+            }
+         ]
+      },
+      {
+         "question":"Count. In 2009 the company Apple sold 40 million iPhones: it was sold 4853 devices in one hour , in one minute – 76. How many iPhones were sold in one second?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"1.27 iPhone",
+         "answers":[
+            {
+               "1":"1.03 iPhone",
+               "2":"1.27 iPhone",
+               "3":"2.5 iPhone"
+            }
+         ]
+      },
+      {
+         "question":"The first iPhones were released in the USA. When did it occur?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"on June 29, 2007",
+         "answers":[
+            {
+               "1":"on March 21, 2004",
+               "2":"June 29, 2007",
+               "3":"on December 31, 2009"
+            }
+         ]
+      },
+      {
+         "question":"What is the sum of iTunes accounts?",
+         "category":"Apple",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"More than 800 million",
+         "answers":[
+            {
+               "1":"More than 100 million",
+               "2":"More than 350 million",
+               "3":"More than 800 million"
+            }
+         ]
+      }
+   ]
+}

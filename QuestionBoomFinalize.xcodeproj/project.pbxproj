@@ -1,0 +1,716 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8618D656FB92B041438AF80A /* Pods_QuestionBoomFinalize.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3060A07475CC4574D7AC56F6 /* Pods_QuestionBoomFinalize.framework */; };
+		ED1831A21DA27EC4008B3067 /* Game Menu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ED1831A11DA27EC4008B3067 /* Game Menu.mp3 */; };
+		ED219FCC1D8DAFE700D6F6C9 /* Music_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FC01D8DAFE700D6F6C9 /* Music_boom.json */; };
+		ED219FCD1D8DAFE700D6F6C9 /* Sport_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FC11D8DAFE700D6F6C9 /* Sport_boom.json */; };
+		ED219FCE1D8DAFE700D6F6C9 /* Apple_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FC21D8DAFE700D6F6C9 /* Apple_boom.json */; };
+		ED219FCF1D8DAFE700D6F6C9 /* Geo_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FC31D8DAFE700D6F6C9 /* Geo_boom.json */; };
+		ED219FD01D8DAFE700D6F6C9 /* History_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FC41D8DAFE700D6F6C9 /* History_boom.json */; };
+		ED219FD11D8DAFE700D6F6C9 /* Literature_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FC51D8DAFE700D6F6C9 /* Literature_boom.json */; };
+		ED219FD21D8DAFE700D6F6C9 /* Movie_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FC61D8DAFE700D6F6C9 /* Movie_boom.json */; };
+		ED219FD31D8DAFE700D6F6C9 /* Nature_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FC71D8DAFE700D6F6C9 /* Nature_boom.json */; };
+		ED219FD41D8DAFE700D6F6C9 /* Figure_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FC81D8DAFE700D6F6C9 /* Figure_boom.json */; };
+		ED219FD51D8DAFE700D6F6C9 /* Science_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FC91D8DAFE700D6F6C9 /* Science_boom.json */; };
+		ED219FD61D8DAFE700D6F6C9 /* Astro_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FCA1D8DAFE700D6F6C9 /* Astro_boom.json */; };
+		ED219FD71D8DAFE700D6F6C9 /* Meal_boom.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FCB1D8DAFE700D6F6C9 /* Meal_boom.json */; };
+		ED219FE51D8DB06700D6F6C9 /* Apple_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FD91D8DB06700D6F6C9 /* Apple_boom_eng.json */; };
+		ED219FE61D8DB06700D6F6C9 /* Astro_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FDA1D8DB06700D6F6C9 /* Astro_boom_eng.json */; };
+		ED219FE71D8DB06700D6F6C9 /* Figure_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FDB1D8DB06700D6F6C9 /* Figure_boom_eng.json */; };
+		ED219FE81D8DB06700D6F6C9 /* Geo_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FDC1D8DB06700D6F6C9 /* Geo_boom_eng.json */; };
+		ED219FE91D8DB06700D6F6C9 /* History_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FDD1D8DB06700D6F6C9 /* History_boom_eng.json */; };
+		ED219FEA1D8DB06700D6F6C9 /* Literature_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FDE1D8DB06700D6F6C9 /* Literature_boom_eng.json */; };
+		ED219FEB1D8DB06700D6F6C9 /* Meal_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FDF1D8DB06700D6F6C9 /* Meal_boom_eng.json */; };
+		ED219FEC1D8DB06700D6F6C9 /* Movie_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FE01D8DB06700D6F6C9 /* Movie_boom_eng.json */; };
+		ED219FED1D8DB06700D6F6C9 /* Music_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FE11D8DB06700D6F6C9 /* Music_boom_eng.json */; };
+		ED219FEE1D8DB06700D6F6C9 /* Nature_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FE21D8DB06700D6F6C9 /* Nature_boom_eng.json */; };
+		ED219FEF1D8DB06700D6F6C9 /* Science_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FE31D8DB06700D6F6C9 /* Science_boom_eng.json */; };
+		ED219FF01D8DB06700D6F6C9 /* Sport_boom_eng.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FE41D8DB06700D6F6C9 /* Sport_boom_eng.json */; };
+		ED219FF41D8DB0FA00D6F6C9 /* LevelsData.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FF21D8DB0FA00D6F6C9 /* LevelsData.json */; };
+		ED219FF51D8DB0FA00D6F6C9 /* SingleData.json in Resources */ = {isa = PBXBuildFile; fileRef = ED219FF31D8DB0FA00D6F6C9 /* SingleData.json */; };
+		ED2616871D8D97160076E1EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2616861D8D97160076E1EC /* AppDelegate.swift */; };
+		ED26168F1D8D97160076E1EC /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED26168E1D8D97160076E1EC /* GameViewController.swift */; };
+		ED2616921D8D97160076E1EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED2616901D8D97160076E1EC /* Main.storyboard */; };
+		ED2616941D8D97160076E1EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED2616931D8D97160076E1EC /* Assets.xcassets */; };
+		ED2616971D8D97160076E1EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED2616951D8D97160076E1EC /* LaunchScreen.storyboard */; };
+		ED3EB80D1D8D9CA500FA453A /* StartGameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB80C1D8D9CA500FA453A /* StartGameScene.swift */; };
+		ED3EB8201D8D9D8C00FA453A /* AnswerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB80E1D8D9D8C00FA453A /* AnswerButton.swift */; };
+		ED3EB8211D8D9D8C00FA453A /* ArcadeGameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB80F1D8D9D8C00FA453A /* ArcadeGameScene.swift */; };
+		ED3EB8221D8D9D8C00FA453A /* ArcadeLevel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB8101D8D9D8C00FA453A /* ArcadeLevel.swift */; };
+		ED3EB8231D8D9D8C00FA453A /* ArcadeLevelSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB8111D8D9D8C00FA453A /* ArcadeLevelSelector.swift */; };
+		ED3EB8241D8D9D8C00FA453A /* ArcadeSubLevel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB8121D8D9D8C00FA453A /* ArcadeSubLevel.swift */; };
+		ED3EB8251D8D9D8C00FA453A /* ArcadeSubLevelScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB8131D8D9D8C00FA453A /* ArcadeSubLevelScene.swift */; };
+		ED3EB8261D8D9D8C00FA453A /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB8141D8D9D8C00FA453A /* Extensions.swift */; };
+		ED3EB8271D8D9D8C00FA453A /* ImageFromText.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB8151D8D9D8C00FA453A /* ImageFromText.swift */; };
+		ED3EB8281D8D9D8C00FA453A /* PlayModeSelect.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB8161D8D9D8C00FA453A /* PlayModeSelect.swift */; };
+		ED3EB8291D8D9D8C00FA453A /* SettingsScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB8171D8D9D8C00FA453A /* SettingsScene.swift */; };
+		ED3EB82A1D8D9D8C00FA453A /* ShopGameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB8181D8D9D8C00FA453A /* ShopGameScene.swift */; };
+		ED3EB82B1D8D9D8C00FA453A /* SingleGameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB8191D8D9D8C00FA453A /* SingleGameScene.swift */; };
+		ED3EB82C1D8D9D8C00FA453A /* SinglePlayLevel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB81A1D8D9D8C00FA453A /* SinglePlayLevel.swift */; };
+		ED3EB82D1D8D9D8C00FA453A /* SinglePlayLevelSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB81B1D8D9D8C00FA453A /* SinglePlayLevelSelector.swift */; };
+		ED3EB82E1D8D9D8C00FA453A /* SpriteScroll.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB81C1D8D9D8C00FA453A /* SpriteScroll.swift */; };
+		ED3EB82F1D8D9D8C00FA453A /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB81E1D8D9D8C00FA453A /* SwiftyJSON.swift */; };
+		ED3EB8301D8D9D8C00FA453A /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB81F1D8D9D8C00FA453A /* Timer.swift */; };
+		ED3EB8411D8DA27500FA453A /* ARCGPathFromString.m in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB83E1D8DA27500FA453A /* ARCGPathFromString.m */; };
+		ED3EB8421D8DA27500FA453A /* UIBezierPath+TextPaths.m in Sources */ = {isa = PBXBuildFile; fileRef = ED3EB8401D8DA27500FA453A /* UIBezierPath+TextPaths.m */; };
+		ED3EB8491D8DA6CE00FA453A /* click button.wav in Resources */ = {isa = PBXBuildFile; fileRef = ED3EB8441D8DA6CE00FA453A /* click button.wav */; };
+		ED3EB84B1D8DA6CE00FA453A /* Music in game.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ED3EB8461D8DA6CE00FA453A /* Music in game.mp3 */; };
+		ED3EB84C1D8DA6CE00FA453A /* RIGHT ANSWER.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = ED3EB8471D8DA6CE00FA453A /* RIGHT ANSWER.mp3 */; };
+		ED3EB84D1D8DA6CE00FA453A /* wrongAnswer.wav in Resources */ = {isa = PBXBuildFile; fileRef = ED3EB8481D8DA6CE00FA453A /* wrongAnswer.wav */; };
+		ED97D5291D8EBC85007D8C5C /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED97D5281D8EBC85007D8C5C /* StoreKit.framework */; };
+		ED97D52B1D8EBC8E007D8C5C /* GameKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED97D52A1D8EBC8E007D8C5C /* GameKit.framework */; };
+		EDDB5C2F1D8DAE1100FD07FD /* LocalizableStrings.strings in Resources */ = {isa = PBXBuildFile; fileRef = EDDB5C311D8DAE1100FD07FD /* LocalizableStrings.strings */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3060A07475CC4574D7AC56F6 /* Pods_QuestionBoomFinalize.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QuestionBoomFinalize.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		95EDAE0D034163215CCBD802 /* Pods-QuestionBoomFinalize.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuestionBoomFinalize.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QuestionBoomFinalize/Pods-QuestionBoomFinalize.debug.xcconfig"; sourceTree = "<group>"; };
+		A5A1BA9E4ACC89716187915D /* Pods-QuestionBoomFinalize.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QuestionBoomFinalize.release.xcconfig"; path = "Pods/Target Support Files/Pods-QuestionBoomFinalize/Pods-QuestionBoomFinalize.release.xcconfig"; sourceTree = "<group>"; };
+		ED1831A11DA27EC4008B3067 /* Game Menu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Game Menu.mp3"; sourceTree = "<group>"; };
+		ED219FC01D8DAFE700D6F6C9 /* Music_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Music_boom.json; sourceTree = "<group>"; };
+		ED219FC11D8DAFE700D6F6C9 /* Sport_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Sport_boom.json; sourceTree = "<group>"; };
+		ED219FC21D8DAFE700D6F6C9 /* Apple_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Apple_boom.json; sourceTree = "<group>"; };
+		ED219FC31D8DAFE700D6F6C9 /* Geo_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Geo_boom.json; sourceTree = "<group>"; };
+		ED219FC41D8DAFE700D6F6C9 /* History_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = History_boom.json; sourceTree = "<group>"; };
+		ED219FC51D8DAFE700D6F6C9 /* Literature_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Literature_boom.json; sourceTree = "<group>"; };
+		ED219FC61D8DAFE700D6F6C9 /* Movie_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Movie_boom.json; sourceTree = "<group>"; };
+		ED219FC71D8DAFE700D6F6C9 /* Nature_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Nature_boom.json; sourceTree = "<group>"; };
+		ED219FC81D8DAFE700D6F6C9 /* Figure_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Figure_boom.json; sourceTree = "<group>"; };
+		ED219FC91D8DAFE700D6F6C9 /* Science_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Science_boom.json; sourceTree = "<group>"; };
+		ED219FCA1D8DAFE700D6F6C9 /* Astro_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Astro_boom.json; sourceTree = "<group>"; };
+		ED219FCB1D8DAFE700D6F6C9 /* Meal_boom.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Meal_boom.json; sourceTree = "<group>"; };
+		ED219FD91D8DB06700D6F6C9 /* Apple_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Apple_boom_eng.json; sourceTree = "<group>"; };
+		ED219FDA1D8DB06700D6F6C9 /* Astro_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Astro_boom_eng.json; sourceTree = "<group>"; };
+		ED219FDB1D8DB06700D6F6C9 /* Figure_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Figure_boom_eng.json; sourceTree = "<group>"; };
+		ED219FDC1D8DB06700D6F6C9 /* Geo_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Geo_boom_eng.json; sourceTree = "<group>"; };
+		ED219FDD1D8DB06700D6F6C9 /* History_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = History_boom_eng.json; sourceTree = "<group>"; };
+		ED219FDE1D8DB06700D6F6C9 /* Literature_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Literature_boom_eng.json; sourceTree = "<group>"; };
+		ED219FDF1D8DB06700D6F6C9 /* Meal_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Meal_boom_eng.json; sourceTree = "<group>"; };
+		ED219FE01D8DB06700D6F6C9 /* Movie_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Movie_boom_eng.json; sourceTree = "<group>"; };
+		ED219FE11D8DB06700D6F6C9 /* Music_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Music_boom_eng.json; sourceTree = "<group>"; };
+		ED219FE21D8DB06700D6F6C9 /* Nature_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Nature_boom_eng.json; sourceTree = "<group>"; };
+		ED219FE31D8DB06700D6F6C9 /* Science_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Science_boom_eng.json; sourceTree = "<group>"; };
+		ED219FE41D8DB06700D6F6C9 /* Sport_boom_eng.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Sport_boom_eng.json; sourceTree = "<group>"; };
+		ED219FF21D8DB0FA00D6F6C9 /* LevelsData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LevelsData.json; sourceTree = "<group>"; };
+		ED219FF31D8DB0FA00D6F6C9 /* SingleData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SingleData.json; sourceTree = "<group>"; };
+		ED2616831D8D97160076E1EC /* QuestionBoomFinalize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuestionBoomFinalize.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED2616861D8D97160076E1EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		ED26168E1D8D97160076E1EC /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		ED2616911D8D97160076E1EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		ED2616931D8D97160076E1EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		ED2616961D8D97160076E1EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		ED2616981D8D97160076E1EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED3EB80C1D8D9CA500FA453A /* StartGameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartGameScene.swift; sourceTree = "<group>"; };
+		ED3EB80E1D8D9D8C00FA453A /* AnswerButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnswerButton.swift; sourceTree = "<group>"; };
+		ED3EB80F1D8D9D8C00FA453A /* ArcadeGameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArcadeGameScene.swift; sourceTree = "<group>"; };
+		ED3EB8101D8D9D8C00FA453A /* ArcadeLevel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArcadeLevel.swift; sourceTree = "<group>"; };
+		ED3EB8111D8D9D8C00FA453A /* ArcadeLevelSelector.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArcadeLevelSelector.swift; sourceTree = "<group>"; };
+		ED3EB8121D8D9D8C00FA453A /* ArcadeSubLevel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArcadeSubLevel.swift; sourceTree = "<group>"; };
+		ED3EB8131D8D9D8C00FA453A /* ArcadeSubLevelScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArcadeSubLevelScene.swift; sourceTree = "<group>"; };
+		ED3EB8141D8D9D8C00FA453A /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		ED3EB8151D8D9D8C00FA453A /* ImageFromText.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageFromText.swift; sourceTree = "<group>"; };
+		ED3EB8161D8D9D8C00FA453A /* PlayModeSelect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayModeSelect.swift; sourceTree = "<group>"; };
+		ED3EB8171D8D9D8C00FA453A /* SettingsScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsScene.swift; sourceTree = "<group>"; };
+		ED3EB8181D8D9D8C00FA453A /* ShopGameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShopGameScene.swift; sourceTree = "<group>"; };
+		ED3EB8191D8D9D8C00FA453A /* SingleGameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleGameScene.swift; sourceTree = "<group>"; };
+		ED3EB81A1D8D9D8C00FA453A /* SinglePlayLevel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SinglePlayLevel.swift; sourceTree = "<group>"; };
+		ED3EB81B1D8D9D8C00FA453A /* SinglePlayLevelSelector.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SinglePlayLevelSelector.swift; sourceTree = "<group>"; };
+		ED3EB81C1D8D9D8C00FA453A /* SpriteScroll.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpriteScroll.swift; sourceTree = "<group>"; };
+		ED3EB81D1D8D9D8C00FA453A /* SwiftyJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwiftyJSON.h; sourceTree = "<group>"; };
+		ED3EB81E1D8D9D8C00FA453A /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		ED3EB81F1D8D9D8C00FA453A /* Timer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
+		ED3EB83C1D8DA27500FA453A /* QuestionBoomFinalize-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QuestionBoomFinalize-Bridging-Header.h"; sourceTree = "<group>"; };
+		ED3EB83D1D8DA27500FA453A /* ARCGPathFromString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ARCGPathFromString.h; sourceTree = "<group>"; };
+		ED3EB83E1D8DA27500FA453A /* ARCGPathFromString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ARCGPathFromString.m; sourceTree = "<group>"; };
+		ED3EB83F1D8DA27500FA453A /* UIBezierPath+TextPaths.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBezierPath+TextPaths.h"; sourceTree = "<group>"; };
+		ED3EB8401D8DA27500FA453A /* UIBezierPath+TextPaths.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBezierPath+TextPaths.m"; sourceTree = "<group>"; };
+		ED3EB8441D8DA6CE00FA453A /* click button.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "click button.wav"; sourceTree = "<group>"; };
+		ED3EB8461D8DA6CE00FA453A /* Music in game.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Music in game.mp3"; sourceTree = "<group>"; };
+		ED3EB8471D8DA6CE00FA453A /* RIGHT ANSWER.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "RIGHT ANSWER.mp3"; sourceTree = "<group>"; };
+		ED3EB8481D8DA6CE00FA453A /* wrongAnswer.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = wrongAnswer.wav; sourceTree = "<group>"; };
+		ED97D5281D8EBC85007D8C5C /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		ED97D52A1D8EBC8E007D8C5C /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
+		EDDB5C241D8DAC5F00FD07FD /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
+		EDDB5C251D8DAC5F00FD07FD /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		EDDB5C301D8DAE1100FD07FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/LocalizableStrings.strings; sourceTree = "<group>"; };
+		EDDB5C321D8DAE1200FD07FD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/LocalizableStrings.strings; sourceTree = "<group>"; };
+		EDDB5C331D8DAE1300FD07FD /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LocalizableStrings.strings; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ED2616801D8D97160076E1EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ED97D52B1D8EBC8E007D8C5C /* GameKit.framework in Frameworks */,
+				8618D656FB92B041438AF80A /* Pods_QuestionBoomFinalize.framework in Frameworks */,
+				ED97D5291D8EBC85007D8C5C /* StoreKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		966CAD7DACF8338E2E1CC7C7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				ED97D52A1D8EBC8E007D8C5C /* GameKit.framework */,
+				ED97D5281D8EBC85007D8C5C /* StoreKit.framework */,
+				3060A07475CC4574D7AC56F6 /* Pods_QuestionBoomFinalize.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ED219FD81D8DB01900D6F6C9 /* RusBase */ = {
+			isa = PBXGroup;
+			children = (
+				ED219FC01D8DAFE700D6F6C9 /* Music_boom.json */,
+				ED219FC11D8DAFE700D6F6C9 /* Sport_boom.json */,
+				ED219FC21D8DAFE700D6F6C9 /* Apple_boom.json */,
+				ED219FC31D8DAFE700D6F6C9 /* Geo_boom.json */,
+				ED219FC41D8DAFE700D6F6C9 /* History_boom.json */,
+				ED219FC51D8DAFE700D6F6C9 /* Literature_boom.json */,
+				ED219FC61D8DAFE700D6F6C9 /* Movie_boom.json */,
+				ED219FC71D8DAFE700D6F6C9 /* Nature_boom.json */,
+				ED219FC81D8DAFE700D6F6C9 /* Figure_boom.json */,
+				ED219FC91D8DAFE700D6F6C9 /* Science_boom.json */,
+				ED219FCA1D8DAFE700D6F6C9 /* Astro_boom.json */,
+				ED219FCB1D8DAFE700D6F6C9 /* Meal_boom.json */,
+			);
+			name = RusBase;
+			sourceTree = "<group>";
+		};
+		ED219FF11D8DB07200D6F6C9 /* EngBase */ = {
+			isa = PBXGroup;
+			children = (
+				ED219FD91D8DB06700D6F6C9 /* Apple_boom_eng.json */,
+				ED219FDA1D8DB06700D6F6C9 /* Astro_boom_eng.json */,
+				ED219FDB1D8DB06700D6F6C9 /* Figure_boom_eng.json */,
+				ED219FDC1D8DB06700D6F6C9 /* Geo_boom_eng.json */,
+				ED219FDD1D8DB06700D6F6C9 /* History_boom_eng.json */,
+				ED219FDE1D8DB06700D6F6C9 /* Literature_boom_eng.json */,
+				ED219FDF1D8DB06700D6F6C9 /* Meal_boom_eng.json */,
+				ED219FE01D8DB06700D6F6C9 /* Movie_boom_eng.json */,
+				ED219FE11D8DB06700D6F6C9 /* Music_boom_eng.json */,
+				ED219FE21D8DB06700D6F6C9 /* Nature_boom_eng.json */,
+				ED219FE31D8DB06700D6F6C9 /* Science_boom_eng.json */,
+				ED219FE41D8DB06700D6F6C9 /* Sport_boom_eng.json */,
+			);
+			name = EngBase;
+			sourceTree = "<group>";
+		};
+		ED219FF61D8DB10200D6F6C9 /* GameData */ = {
+			isa = PBXGroup;
+			children = (
+				ED219FF21D8DB0FA00D6F6C9 /* LevelsData.json */,
+				ED219FF31D8DB0FA00D6F6C9 /* SingleData.json */,
+			);
+			name = GameData;
+			sourceTree = "<group>";
+		};
+		ED26167A1D8D97160076E1EC = {
+			isa = PBXGroup;
+			children = (
+				ED2616851D8D97160076E1EC /* QuestionBoomFinalize */,
+				ED2616841D8D97160076E1EC /* Products */,
+				FF55CB1879775CC633E9F705 /* Pods */,
+				966CAD7DACF8338E2E1CC7C7 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		ED2616841D8D97160076E1EC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				ED2616831D8D97160076E1EC /* QuestionBoomFinalize.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		ED2616851D8D97160076E1EC /* QuestionBoomFinalize */ = {
+			isa = PBXGroup;
+			children = (
+				ED219FF61D8DB10200D6F6C9 /* GameData */,
+				ED219FF11D8DB07200D6F6C9 /* EngBase */,
+				ED219FD81D8DB01900D6F6C9 /* RusBase */,
+				ED3EB84E1D8DA6D200FA453A /* Music */,
+				ED3EB8431D8DA28400FA453A /* Obj-C */,
+				ED3EB8311D8D9E9600FA453A /* Custom Classes */,
+				ED3EB8321D8D9EAF00FA453A /* Scenes */,
+				ED3EB81D1D8D9D8C00FA453A /* SwiftyJSON.h */,
+				ED3EB81E1D8D9D8C00FA453A /* SwiftyJSON.swift */,
+				ED2616861D8D97160076E1EC /* AppDelegate.swift */,
+				ED26168E1D8D97160076E1EC /* GameViewController.swift */,
+				ED2616901D8D97160076E1EC /* Main.storyboard */,
+				ED2616931D8D97160076E1EC /* Assets.xcassets */,
+				ED2616951D8D97160076E1EC /* LaunchScreen.storyboard */,
+				ED2616981D8D97160076E1EC /* Info.plist */,
+				EDDB5C311D8DAE1100FD07FD /* LocalizableStrings.strings */,
+			);
+			path = QuestionBoomFinalize;
+			sourceTree = "<group>";
+		};
+		ED3EB8311D8D9E9600FA453A /* Custom Classes */ = {
+			isa = PBXGroup;
+			children = (
+				ED3EB80E1D8D9D8C00FA453A /* AnswerButton.swift */,
+				ED3EB8101D8D9D8C00FA453A /* ArcadeLevel.swift */,
+				ED3EB8121D8D9D8C00FA453A /* ArcadeSubLevel.swift */,
+				ED3EB8141D8D9D8C00FA453A /* Extensions.swift */,
+				ED3EB8151D8D9D8C00FA453A /* ImageFromText.swift */,
+				ED3EB81A1D8D9D8C00FA453A /* SinglePlayLevel.swift */,
+				ED3EB81C1D8D9D8C00FA453A /* SpriteScroll.swift */,
+				ED3EB81F1D8D9D8C00FA453A /* Timer.swift */,
+				ED3EB83C1D8DA27500FA453A /* QuestionBoomFinalize-Bridging-Header.h */,
+			);
+			name = "Custom Classes";
+			sourceTree = "<group>";
+		};
+		ED3EB8321D8D9EAF00FA453A /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				ED3EB80F1D8D9D8C00FA453A /* ArcadeGameScene.swift */,
+				ED3EB8111D8D9D8C00FA453A /* ArcadeLevelSelector.swift */,
+				ED3EB8131D8D9D8C00FA453A /* ArcadeSubLevelScene.swift */,
+				ED3EB8161D8D9D8C00FA453A /* PlayModeSelect.swift */,
+				ED3EB8171D8D9D8C00FA453A /* SettingsScene.swift */,
+				ED3EB8181D8D9D8C00FA453A /* ShopGameScene.swift */,
+				ED3EB8191D8D9D8C00FA453A /* SingleGameScene.swift */,
+				ED3EB81B1D8D9D8C00FA453A /* SinglePlayLevelSelector.swift */,
+				ED3EB80C1D8D9CA500FA453A /* StartGameScene.swift */,
+			);
+			name = Scenes;
+			sourceTree = "<group>";
+		};
+		ED3EB8431D8DA28400FA453A /* Obj-C */ = {
+			isa = PBXGroup;
+			children = (
+				ED3EB83D1D8DA27500FA453A /* ARCGPathFromString.h */,
+				ED3EB83E1D8DA27500FA453A /* ARCGPathFromString.m */,
+				ED3EB83F1D8DA27500FA453A /* UIBezierPath+TextPaths.h */,
+				ED3EB8401D8DA27500FA453A /* UIBezierPath+TextPaths.m */,
+			);
+			name = "Obj-C";
+			sourceTree = "<group>";
+		};
+		ED3EB84E1D8DA6D200FA453A /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				ED1831A11DA27EC4008B3067 /* Game Menu.mp3 */,
+				ED3EB8441D8DA6CE00FA453A /* click button.wav */,
+				ED3EB8461D8DA6CE00FA453A /* Music in game.mp3 */,
+				ED3EB8471D8DA6CE00FA453A /* RIGHT ANSWER.mp3 */,
+				ED3EB8481D8DA6CE00FA453A /* wrongAnswer.wav */,
+			);
+			name = Music;
+			sourceTree = "<group>";
+		};
+		FF55CB1879775CC633E9F705 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				95EDAE0D034163215CCBD802 /* Pods-QuestionBoomFinalize.debug.xcconfig */,
+				A5A1BA9E4ACC89716187915D /* Pods-QuestionBoomFinalize.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ED2616821D8D97160076E1EC /* QuestionBoomFinalize */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ED26169B1D8D97160076E1EC /* Build configuration list for PBXNativeTarget "QuestionBoomFinalize" */;
+			buildPhases = (
+				B2BB60B63850E4190D2FB585 /* [CP] Check Pods Manifest.lock */,
+				ED26167F1D8D97160076E1EC /* Sources */,
+				ED2616801D8D97160076E1EC /* Frameworks */,
+				ED2616811D8D97160076E1EC /* Resources */,
+				B02055F3AA46C952FEA1F6EF /* [CP] Embed Pods Frameworks */,
+				9577C5EE22867D83513FEB9D /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = QuestionBoomFinalize;
+			productName = QuestionBoomFinalize;
+			productReference = ED2616831D8D97160076E1EC /* QuestionBoomFinalize.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ED26167B1D8D97160076E1EC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0800;
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = "Кирилл";
+				TargetAttributes = {
+					ED2616821D8D97160076E1EC = {
+						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 862X485NQ5;
+						LastSwiftMigration = 0800;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.GameCenter = {
+								enabled = 1;
+							};
+							com.apple.InAppPurchase = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = ED26167E1D8D97160076E1EC /* Build configuration list for PBXProject "QuestionBoomFinalize" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				ru,
+			);
+			mainGroup = ED26167A1D8D97160076E1EC;
+			productRefGroup = ED2616841D8D97160076E1EC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ED2616821D8D97160076E1EC /* QuestionBoomFinalize */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ED2616811D8D97160076E1EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ED219FEE1D8DB06700D6F6C9 /* Nature_boom_eng.json in Resources */,
+				ED219FD71D8DAFE700D6F6C9 /* Meal_boom.json in Resources */,
+				ED3EB84D1D8DA6CE00FA453A /* wrongAnswer.wav in Resources */,
+				ED2616921D8D97160076E1EC /* Main.storyboard in Resources */,
+				ED219FF41D8DB0FA00D6F6C9 /* LevelsData.json in Resources */,
+				ED219FD51D8DAFE700D6F6C9 /* Science_boom.json in Resources */,
+				ED219FE91D8DB06700D6F6C9 /* History_boom_eng.json in Resources */,
+				ED219FCC1D8DAFE700D6F6C9 /* Music_boom.json in Resources */,
+				ED219FD21D8DAFE700D6F6C9 /* Movie_boom.json in Resources */,
+				ED2616941D8D97160076E1EC /* Assets.xcassets in Resources */,
+				ED1831A21DA27EC4008B3067 /* Game Menu.mp3 in Resources */,
+				ED219FCD1D8DAFE700D6F6C9 /* Sport_boom.json in Resources */,
+				ED219FE51D8DB06700D6F6C9 /* Apple_boom_eng.json in Resources */,
+				ED219FCE1D8DAFE700D6F6C9 /* Apple_boom.json in Resources */,
+				ED219FD61D8DAFE700D6F6C9 /* Astro_boom.json in Resources */,
+				ED219FE81D8DB06700D6F6C9 /* Geo_boom_eng.json in Resources */,
+				ED219FED1D8DB06700D6F6C9 /* Music_boom_eng.json in Resources */,
+				ED219FEA1D8DB06700D6F6C9 /* Literature_boom_eng.json in Resources */,
+				ED3EB84B1D8DA6CE00FA453A /* Music in game.mp3 in Resources */,
+				ED219FD11D8DAFE700D6F6C9 /* Literature_boom.json in Resources */,
+				ED3EB84C1D8DA6CE00FA453A /* RIGHT ANSWER.mp3 in Resources */,
+				ED219FEB1D8DB06700D6F6C9 /* Meal_boom_eng.json in Resources */,
+				ED219FD31D8DAFE700D6F6C9 /* Nature_boom.json in Resources */,
+				EDDB5C2F1D8DAE1100FD07FD /* LocalizableStrings.strings in Resources */,
+				ED3EB8491D8DA6CE00FA453A /* click button.wav in Resources */,
+				ED219FE61D8DB06700D6F6C9 /* Astro_boom_eng.json in Resources */,
+				ED219FF01D8DB06700D6F6C9 /* Sport_boom_eng.json in Resources */,
+				ED219FE71D8DB06700D6F6C9 /* Figure_boom_eng.json in Resources */,
+				ED219FD41D8DAFE700D6F6C9 /* Figure_boom.json in Resources */,
+				ED219FEC1D8DB06700D6F6C9 /* Movie_boom_eng.json in Resources */,
+				ED219FEF1D8DB06700D6F6C9 /* Science_boom_eng.json in Resources */,
+				ED219FD01D8DAFE700D6F6C9 /* History_boom.json in Resources */,
+				ED2616971D8D97160076E1EC /* LaunchScreen.storyboard in Resources */,
+				ED219FF51D8DB0FA00D6F6C9 /* SingleData.json in Resources */,
+				ED219FCF1D8DAFE700D6F6C9 /* Geo_boom.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		9577C5EE22867D83513FEB9D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-QuestionBoomFinalize/Pods-QuestionBoomFinalize-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B02055F3AA46C952FEA1F6EF /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-QuestionBoomFinalize/Pods-QuestionBoomFinalize-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B2BB60B63850E4190D2FB585 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ED26167F1D8D97160076E1EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ED3EB8211D8D9D8C00FA453A /* ArcadeGameScene.swift in Sources */,
+				ED3EB8291D8D9D8C00FA453A /* SettingsScene.swift in Sources */,
+				ED3EB82E1D8D9D8C00FA453A /* SpriteScroll.swift in Sources */,
+				ED3EB82F1D8D9D8C00FA453A /* SwiftyJSON.swift in Sources */,
+				ED3EB8201D8D9D8C00FA453A /* AnswerButton.swift in Sources */,
+				ED3EB8251D8D9D8C00FA453A /* ArcadeSubLevelScene.swift in Sources */,
+				ED3EB8241D8D9D8C00FA453A /* ArcadeSubLevel.swift in Sources */,
+				ED3EB8421D8DA27500FA453A /* UIBezierPath+TextPaths.m in Sources */,
+				ED3EB8221D8D9D8C00FA453A /* ArcadeLevel.swift in Sources */,
+				ED3EB8301D8D9D8C00FA453A /* Timer.swift in Sources */,
+				ED3EB8281D8D9D8C00FA453A /* PlayModeSelect.swift in Sources */,
+				ED3EB8411D8DA27500FA453A /* ARCGPathFromString.m in Sources */,
+				ED3EB80D1D8D9CA500FA453A /* StartGameScene.swift in Sources */,
+				ED3EB8231D8D9D8C00FA453A /* ArcadeLevelSelector.swift in Sources */,
+				ED3EB82B1D8D9D8C00FA453A /* SingleGameScene.swift in Sources */,
+				ED3EB82D1D8D9D8C00FA453A /* SinglePlayLevelSelector.swift in Sources */,
+				ED3EB82C1D8D9D8C00FA453A /* SinglePlayLevel.swift in Sources */,
+				ED3EB82A1D8D9D8C00FA453A /* ShopGameScene.swift in Sources */,
+				ED26168F1D8D97160076E1EC /* GameViewController.swift in Sources */,
+				ED3EB8261D8D9D8C00FA453A /* Extensions.swift in Sources */,
+				ED3EB8271D8D9D8C00FA453A /* ImageFromText.swift in Sources */,
+				ED2616871D8D97160076E1EC /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		ED2616901D8D97160076E1EC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ED2616911D8D97160076E1EC /* Base */,
+				EDDB5C241D8DAC5F00FD07FD /* ru */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		ED2616951D8D97160076E1EC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ED2616961D8D97160076E1EC /* Base */,
+				EDDB5C251D8DAC5F00FD07FD /* ru */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		EDDB5C311D8DAE1100FD07FD /* LocalizableStrings.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EDDB5C301D8DAE1100FD07FD /* Base */,
+				EDDB5C321D8DAE1200FD07FD /* en */,
+				EDDB5C331D8DAE1300FD07FD /* ru */,
+			);
+			name = LocalizableStrings.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		ED2616991D8D97160076E1EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Kyrylo Baranov (YGKC4RRH3N)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Kyrylo Baranov (YGKC4RRH3N)";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		ED26169A1D8D97160076E1EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Kyrylo Baranov (YGKC4RRH3N)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Kyrylo Baranov (YGKC4RRH3N)";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ED26169C1D8D97160076E1EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 95EDAE0D034163215CCBD802 /* Pods-QuestionBoomFinalize.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Kyrylo Baranov (YGKC4RRH3N)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 862X485NQ5;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = QuestionBoomFinalize/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.DreamAndGame.QuestionsBoom;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "QuestionBoomFinalize/QuestionBoomFinalize-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		ED26169D1D8D97160076E1EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A5A1BA9E4ACC89716187915D /* Pods-QuestionBoomFinalize.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Kyrylo Baranov (YGKC4RRH3N)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 862X485NQ5;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
+				INFOPLIST_FILE = QuestionBoomFinalize/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.DreamAndGame.QuestionsBoom;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "QuestionBoomFinalize/QuestionBoomFinalize-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		ED26167E1D8D97160076E1EC /* Build configuration list for PBXProject "QuestionBoomFinalize" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ED2616991D8D97160076E1EC /* Debug */,
+				ED26169A1D8D97160076E1EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ED26169B1D8D97160076E1EC /* Build configuration list for PBXNativeTarget "QuestionBoomFinalize" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ED26169C1D8D97160076E1EC /* Debug */,
+				ED26169D1D8D97160076E1EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = ED26167B1D8D97160076E1EC /* Project object */;
+}

@@ -1,0 +1,1011 @@
+﻿{
+	"Questions":
+		[
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"130",
+	   "rightAnswer": "Belgium",
+	   "answers": [ {
+			  "1":"Belgium",
+			  "2":"Germany",
+			  "3":"Canada"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"131",
+	   "rightAnswer": "Argentina",
+	   "answers": [ {
+			  "1":"Brazil",
+			  "2":"Argentina",
+			  "3":"Uruguay"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"132",
+	   "rightAnswer": "Brazil",
+	   "answers": [ {
+			  "1":"Brazil",
+			  "2":"Argentina",
+			  "3":"Uruguay"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"133",
+	   "rightAnswer": "North Korea",
+	   "answers": [ {
+			  "1":"China",
+			  "2":"South Korea",
+			  "3":"North Korea"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"134",
+	   "rightAnswer": "South Korea",
+	   "answers": [ {
+			  "1":"China",
+			  "2":"South Korea",
+			  "3":"North Korea"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"135",
+	   "rightAnswer": "Ukraine",
+	   "answers": [ {
+			  "1":"Belarus",
+			  "2":"Ukraine",
+			  "3":"Moldova"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"136",
+	   "rightAnswer": "Belarus",
+	   "answers": [ {
+			  "1":"Belarus",
+			  "2":"Lithuania",
+			  "3":"Latvia"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"137",
+	   "rightAnswer": "China",
+	   "answers": [ {
+			  "1":"China",
+			  "2":"Pakistan",
+			  "3":"India"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"138",
+	   "rightAnswer": "Bulgaria",
+	   "answers": [ {
+			  "1":"Bulgaria",
+			  "2":"Hungary",
+			  "3":"Poland"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"139",
+	   "rightAnswer": "Germany",
+	   "answers": [ {
+			  "1":"Belgium",
+			  "2":"Poland",
+			  "3":"Germany"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"140",
+	   "rightAnswer": "Japan",
+	   "answers": [ {
+			  "1":"Japan",
+			  "2":"South Korea",
+			  "3":"China"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"141",
+	   "rightAnswer": "Russia",
+	   "answers": [ {
+			  "1":"France",
+			  "2":"Russia",
+			  "3":"Netherlands"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"142",
+	   "rightAnswer": "Poland",
+	   "answers": [ {
+			  "1":"Slovenia",
+			  "2":"Slovakia",
+			  "3":"Poland"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"143",
+	   "rightAnswer": "Canada",
+	   "answers": [ {
+			  "1":"USA",
+			  "2":"Canada",
+			  "3":"Mexico"
+			}
+			]
+	 },
+{ 
+	   "question":"Флаг какой страны представлен на изображении?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"144",
+	   "rightAnswer": "Armenia",
+	   "answers": [ {
+			  "1":"Belarus",
+			  "2":"Romania",
+			  "3":"Armenia"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"145",
+	   "rightAnswer": "Israel",
+	   "answers": [ {
+			  "1":"Israel",
+			  "2":"India",
+			  "3":"Mexico"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"146",
+	   "rightAnswer": "Cuba",
+	   "answers": [ {
+			  "1":"Cuba",
+			  "2":"Mexico",
+			  "3":"Brazil"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"147",
+	   "rightAnswer": "Latvia",
+	   "answers": [ {
+			  "1":"Norway",
+			  "2":"Lithuania",
+			  "3":"Latvia"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"148",
+	   "rightAnswer": "Lithuania",
+	   "answers": [ {
+			  "1":"Latvia",
+			  "2":"Finland",
+			  "3":"Lithuania"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"149",
+	   "rightAnswer": "Moldova",
+	   "answers": [ {
+			  "1":"Moldova",
+			  "2":"Macedonia",
+			  "3":"Montenegro"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"150",
+	   "rightAnswer": "Netherlands",
+	   "answers": [ {
+			  "1":"Netherlands",
+			  "2":"France",
+			  "3":"Russia"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"151",
+	   "rightAnswer": "Norway",
+	   "answers": [ {
+			  "1":"Norway",
+			  "2":"Finland",
+			  "3":"Sweden"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"152",
+	   "rightAnswer": "Finland",
+	   "answers": [ {
+			  "1":"Norway",
+			  "2":"Finland",
+			  "3":"Sweden"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"153",
+	   "rightAnswer": "Sweden",
+	   "answers": [ {
+			 "1":"Norway",
+			  "2":"Finland",
+			  "3":"Sweden"
+			}
+			]
+	 },
+{ 
+	   "question":"What country is represented in the image?",
+	   "category":"geograhpy",
+	   "isImage":true,
+	   "imagePath":"154",
+	   "rightAnswer": "Panama",
+	   "answers": [ {
+			  "1":"Honduras",
+			  "2":"Panama",
+			  "3":"Chile"
+			}
+			]
+	 },
+{
+    "question":"The capital of Spain is...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Madrid",
+    "answers": [{
+     "1":"Madrid",
+     "2":"Barcelona",
+     "3":"Rome"
+   }
+   ]
+  },
+{
+    "question":"The capital of USA is ...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Washington",
+    "answers": [{
+     "1":"New York",
+     "2":"Los-Angeles",
+     "3":"Washington"
+   }
+   ]
+  },
+{
+    "question":"The capital of Canada is ...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Ottawa",
+    "answers": [{
+     "1":"Ottawa",
+     "2":"Toronto",
+     "3":"Vancouver"
+   }
+   ]
+  },
+{
+    "question":"The capital of Mexico is ...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Mexico City",
+    "answers": [{
+     "1":"Mexico City",
+     "2":"Guadalajara",
+     "3":"Leon"
+   }
+   ]
+  },
+{
+    "question":"The capital of Germany is ...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Berlin",
+    "answers": [{
+     "1":"Hamburg",
+     "2":"Berlin",
+     "3":"Munich"
+   }
+   ]
+  },
+{
+    "question":"The capital of France is...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Paris",
+    "answers": [{
+     "1":"Nice",
+     "2":"Cannes",
+     "3":"Paris"
+   }
+   ]
+  },
+{
+    "question":"The capital of Italy is...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Rome",
+    "answers": [{
+     "1":"Milan",
+     "2":"Rome",
+     "3":"Genoa"
+   }
+   ]
+  },
+{
+    "question":"The capital of Russia is...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Moscow",
+    "answers": [{
+     "1":"St. Petersburg",
+     "2":"Moscow",
+     "3":"Ekaterinburg"
+   }
+   ]
+  },
+{
+    "question":"The capital of China is...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Beijing",
+    "answers": [{
+     "1":"Beijing",
+     "2":"Chendu",
+     "3":"Shanghai"
+   }
+   ]
+  },
+{
+    "question":"The capital of Australia is...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Canberra",
+    "answers": [{
+     "1":"Sydney",
+     "2":"Canberra",
+     "3":"Melbourne"
+   }
+   ]
+  },
+{
+    "question":"The capital of Brazil is...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Brasilia",
+    "answers": [{
+     "1":"Sao Paulo",
+     "2":"Brasilia",
+     "3":"Rio de Janeiro"
+   }
+   ]
+  },
+{
+    "question":"The capital of India is...",
+    "category": "geography",
+    "isImage": false,
+    "imagePath":"",
+    "rightAnswer": "Delhi",
+    "answers": [{
+     "1":"Mumbai",
+     "2":"Delhi",
+     "3":"Karnataka"
+   }
+   ]
+  },
+
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"71",
+    "rightAnswer": "Italy",
+    "answers": [{
+     "1":"Italy",
+     "2":"France",
+     "3":"Spain"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"72",
+    "rightAnswer": "Italy",
+    "answers": [{
+     "1":"Romania",
+     "2":"Italy",
+     "3":"Mexico"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"73",
+    "rightAnswer": "Spain",
+    "answers": [{
+     "1":"Italy",
+     "2":"Argentina",
+     "3":"Spain"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"74",
+    "rightAnswer": "Australia",
+    "answers": [{
+     "1":"New Zeland",
+     "2":"Australia",
+     "3":"England"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"75",
+    "rightAnswer": "Australia",
+    "answers": [{
+     "1":"Great Britain",
+     "2":"USA",
+     "3":"Australia"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"76",
+    "rightAnswer": "Easter Island",
+    "answers": [{
+     "1":"Easter Island",
+     "2":"Maldives",
+     "3":"Thailand"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"77",
+    "rightAnswer": "China",
+    "answers": [{
+     "1":"China",
+     "2":"Russia",
+     "3":"India"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"78",
+    "rightAnswer": "UAE",
+    "answers": [{
+     "1":"UAE",
+     "2":"USA",
+     "3":"China"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"79",
+    "rightAnswer": "France",
+    "answers": [{
+     "1":"Germany",
+     "2":"France",
+     "3":"Portugal"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"80",
+    "rightAnswer": "France",
+    "answers": [{
+     "1":"Netherlands",
+     "2":"Italy",
+     "3":"France"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"81",
+    "rightAnswer": "USA",
+    "answers": [{
+     "1":"USA",
+     "2":"Canada",
+     "3":"Monaco"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"82",
+    "rightAnswer": "Kazakhstan",
+    "answers": [{
+     "1":"Kazakhstan",
+     "2":"Mongolia",
+     "3":"Uzbekistan"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"83",
+    "rightAnswer": "Mexico",
+    "answers": [{
+     "1":"Italy",
+     "2":"Mexico",
+     "3":"Hungary"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"84",
+    "rightAnswer": "Mexico",
+    "answers": [{
+     "1":"Mexico",
+     "2":"Colombia",
+     "3":"Uruguay"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"85",
+    "rightAnswer": "USA",
+    "answers": [{
+     "1":"Great Britain",
+     "2":"France",
+     "3":"USA"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"86",
+    "rightAnswer": "China",
+    "answers": [{
+     "1":"India",
+     "2":"China",
+     "3":"Kazakhstan"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"87",
+    "rightAnswer": "Russia",
+    "answers": [{
+     "1":"Russia",
+     "2":"Germany",
+     "3":"Sweden"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"88",
+    "rightAnswer": "Brazil",
+    "answers": [{
+     "1":"Argentina",
+     "2":"Colombia",
+     "3":"Brazil"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"89",
+    "rightAnswer": "Egypt",
+    "answers": [{
+     "1":"Syria",
+     "2":"Iraq",
+     "3":"Egypt"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"90",
+    "rightAnswer": "Spain",
+    "answers": [{
+     "1":"Spain",
+     "2":"Macedonia",
+     "3":"Montenegro"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"91",
+    "rightAnswer": "USA",
+    "answers": [{
+     "1":"USA",
+     "2":"Canada",
+     "3":"England"
+   }
+ ]
+ },
+{
+    "question":"What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath":"92",
+    "rightAnswer": "Germany",
+    "answers": [{
+     "1":"Germany",
+     "2":"India",
+     "3":"Portugal"
+   }
+ ]
+ },
+{
+    "question": "Color rocks of Chzhanje Danksia. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "93",
+    "rightAnswer": "China",
+    "answers": [{
+     "1": "Mongolia",
+     "2": "China",
+     "3": "India"
+   }
+ ]
+ },
+{
+    "question": "Big blue hole. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "94",
+    "rightAnswer": "Belize. Central America",
+    "answers": [{
+     "1": "Maldives",
+     "2": "Belize. Central America",
+     "3": "Mediterranean Sea"
+   }
+ ]
+ },
+{
+    "question": "Cave of the mountain river. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "96",
+    "rightAnswer": "Vietnam",
+    "answers": [{
+     "1": "Korea",
+     "2": "Vietnam",
+     "3": "Mexico"
+   }
+ ]
+ },
+{
+    "question": "An ice cave under a glacier. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "97",
+    "rightAnswer": "USA",
+    "answers": [{
+     "1": "Russia",
+     "2": "Greenland",
+     "3": "USA"
+   }
+ ]
+ },
+{
+    "question": "Cappadocia. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "98",
+    "rightAnswer": "Turkey",
+    "answers": [{
+     "1": "Turkey",
+     "2": "Mongolia",
+     "3": "Armenia"
+   }
+ ]
+ },
+{
+    "question": "The sea of Stars on Vaadkhu's island. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "99",
+    "rightAnswer": "Maldives",
+    "answers": [{
+     "1": "Seychelles",
+     "2": "Hawaii",
+     "3": "Maldives"
+   }
+ ]
+ },
+{
+    "question": "Troll's language. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "100",
+    "rightAnswer": "Norway",
+    "answers": [{
+     "1": "Switzerland",
+     "2": "Sweden",
+     "3": "Norway"
+   }
+ ]
+ },
+{
+    "question": "Beaches of White harbor. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "101",
+    "rightAnswer": "Australia",
+    "answers": [{
+     "1": "Malaysia",
+     "2": "Hawaii",
+     "3": "Australia"
+   }
+ ]
+ },
+{
+    "question": "Grand Canyon in... Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "102",
+    "rightAnswer": "Arizona (USA)",
+    "answers": [{
+     "1": "Arizona (USA)",
+     "2": "Kamchatka (Russia)",
+     "3": "New Zealand"
+   }
+ ]
+ },
+{
+    "question": "Love tunnel. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "103",
+    "rightAnswer": "Ukraine",
+    "answers": [{
+     "1": "Ukraine",
+     "2": "Romania",
+     "3": "Slovakia"
+   }
+ ]
+ },
+{
+    "question": "The bewitched well. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "104",
+    "rightAnswer": "Brazil",
+    "answers": [{
+     "1": "Chile",
+     "2": "Brazil",
+     "3": "South Africa"
+   }
+ ]
+ },
+{
+    "question": "Canyon of the Antelope. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "105",
+    "rightAnswer": "USA",
+    "answers": [{
+     "1": "Brazil",
+     "2": "Peru",
+     "3": "USA"
+   }
+ ]
+ },
+{
+    "question": "Fingal's Cave. Guess where!",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "106",
+    "rightAnswer": "Scotland",
+    "answers": [{
+     "1": "Scotland",
+     "2": "Chile",
+     "3": "China"
+   }
+ ]
+ },
+{
+    "question": "What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "107",
+    "rightAnswer": "Republic of South Africa",
+    "answers": [{
+     "1": "Republic of South Africa",
+     "2": "Bulgaria",
+     "3": "United Arab Emirates"
+   }
+ ]
+ },
+{
+    "question": "What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "108",
+    "rightAnswer": "New Zealand",
+    "answers": [{
+     "1": "New Zealand",
+     "2": "Chile",
+     "3": "Scotland"
+   }
+ ]
+ },
+{
+    "question": "What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "109",
+    "rightAnswer": "Turkey",
+    "answers": [{
+     "1": "Tunisia",
+     "2": "Turkey",
+     "3": "Thailand"
+   }
+ ]
+ },
+{
+    "question": "What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "110",
+    "rightAnswer": "Greece",
+    "answers": [{
+     "1": "Sweden",
+     "2": "Finland",
+     "3": "Greece"
+   }
+ ]
+ },
+{
+    "question": "What country is represented in the image?",
+    "category": "geography",
+    "isImage": true,
+    "imagePath": "111",
+    "rightAnswer": "Colombia",
+    "answers": [{
+     "1": "Armenia",
+     "2": "Peru",
+     "3": "Colombia"
+ 			}
+			]
+
+
+	 
+		 }
+	]
+}
+ 

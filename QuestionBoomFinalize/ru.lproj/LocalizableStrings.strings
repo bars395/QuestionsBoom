@@ -1,0 +1,106 @@
+/*
+ LocalizableStrings.strings
+ Questionsboom
+ 
+ CreatedbyКириллon10.08.16.
+ Copyright©2016Кирилл.Allrightsreserved.
+ */
+
+/*ARCADE*/
+Arcade="arcade_rus";
+LEVEL_ONE="1Level_rus";
+LEVEL_TWO="2Level_rus";
+LEVEL_THREE="3Level_rus";
+LEVEL_FOUR="4Level_rus";
+LEVEL_FIVE="5Level_rus";
+LEVEL_SIX="6Level_rus";
+LEVEL_SEVEN="7Level_rus";
+LEVEL_EIGHT="8Level_rus";
+LEVEL_NINE="9Level_rus";
+LEVEL_TEN="10Level_rus";
+
+MUSIC="music_rus";
+PLAY="play_rus";
+SETTINGS="settings_rus";
+SOUND="soundLabel_rus";
+PASS="passLabel_rus";
+
+/*SINGLEPLAY*/
+SINGLE_PLAY="singlePlay_rus";
+APPLE_BOOM="Apple_boom_rus";
+ASTRO_BOOM="Astro_boom_rus";
+FIGURE_BOOM="Figure_boom_rus";
+GENERAL_BOOM="General_boom_rus";
+GEO_BOOM="Geo_boom_rus";
+HISTORY_BOOM="History_boom_rus";
+LITERATURE_BOOM="Literature_boom_rus";
+MEAL_BOOM="Meal_boom_rus";
+MOVIE_BOOM="Movie_boom_rus";
+MUSIC_BOOM="Music_boom_rus";
+NATURE_BOOM="Nature_boom_rus";
+SCIENCE_BOOM="Science_boom_rus";
+SPORT_BOOM="Sport_boom_rus";
+
+/*ENDGAME*/
+COINS="coins_rus";
+EXCELLENT="excellent_rus";
+FAILED="failed_rus";
+HEARTBONUS="heartBonus_rus";
+LEVEL_BONUS="levelBonus_rus";
+LEVEL_COMPLETED="levelCompleted_rus";
+MEDAL_BONUS="medalBonus_rus";
+TIME_BONUS="timeBonus_rus";
+TOTAL="total_rus";
+NOT_BAD="notBad_rus";
+SCORE="score_rus";
+TIME="time_rus";
+TOTAL_COINS="totalCoins_rus";
+WELL_DONE="wellDone_rus";
+YOUR_TIME="yourTime_rus";
+
+/*LEVELPURCHASE*/
+PURCHASE_NO="buttonPurchaseNo_rus";
+PURCHASE_NO_TAPPED="buttonPurchaseNoTapped_rus";
+PURCHASE_YES="buttonPurchaseYes_rus";
+PURCHASE_YES_TAPPED="buttonPurchaseYesTapped_rus";
+PURCHASE_FRAME="purchaseFrame_rus";
+
+/*DATABASE*/
+
+Nature_boom="Nature_boom";
+Figure_boom="Figure_boom";
+Literature_boom="Literature_boom";
+Movie_boom="Movie_boom";
+Music_boom="Music_boom";
+Science_boom="Science_boom";
+Apple_boom="Apple_boom";
+Astro_boom="Astro_boom";
+General_boom="General_boom";
+Geo_boom="Geo_boom";
+History_boom="History_boom";
+Meal_boom="Meal_boom";
+Sport_boom="Sport_boom";
+
+/*SOCIAL*/
+
+ARCADE_SOC="Мой счет в аркаде в \"Questions boom\" ";
+ARCADE_SOC2=" ! Сможешь набрать больше?";
+SINGLE_SOC="Мой новый рекорд в одиночной игре в рубрике ";
+SINGLE_SOC2=". #QuestionsBoom";
+SINGLE_SOC3="";
+
+
+/*IAP*/
+IAPERR="Ошибка загрузки In-app-purhcases";
+MSG="Вы действительно хотите купить ";
+OK="Купить";
+CANCEL="Отмена";
+END_PURCHASE="Спасибо за покупку";
+END_FAIL_PURCHASE="Произошла ошибка";
+RESTORE_PURCHASE="RestoreRus";
+RESTORE_PURCHASE_LABEL="Восст.";
+
+
+
+
+

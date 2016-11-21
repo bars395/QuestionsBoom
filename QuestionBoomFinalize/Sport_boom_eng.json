@@ -1,0 +1,1278 @@
+{
+   "Questions":[
+      {
+         "question":"How many players have to begin a match in soccer?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"22",
+         "answers":[
+            {
+               "1":"20",
+               "2":"22",
+               "3":"23"
+            }
+         ]
+      },
+      {
+         "question":"Soccer. What team has won the Champions League more often than others?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"\"Real Madrid\"",
+         "answers":[
+            {
+               "1":"\"Barcelona\"",
+               "2":"\"Manchester United\"",
+               "3":"\"Real Madrid\""
+            }
+         ]
+      },
+      {
+         "question":"Soccer. What team has won the Champions League in 2016?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"\"Real Madrid\"",
+         "answers":[
+            {
+               "1":"\"Barcelona\"",
+               "2":"\"Bayern\"",
+               "3":"\"Real Madrid\""
+            }
+         ]
+      },
+      {
+         "question":"Soccer. What team has won the Champions League in 2015?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"\"Barcelona\"",
+         "answers":[
+            {
+               "1":"\"Barcelona\"",
+               "2":"\"Juventus\"",
+               "3":"\"Bayern\""
+            }
+         ]
+      },
+      {
+         "question":"Soccer. Who won the prize \"Ballon d'Or\" more often than others?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Lionel Messi",
+         "answers":[
+            {
+               "1":"Lionel Messi",
+               "2":"Cristiano Ronaldo",
+               "3":"Zinadine Zidane"
+            }
+         ]
+      },
+      {
+         "question":"Soccer. The most titled club of the Premier league of England is ...",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Liverpool",
+         "answers":[
+            {
+               "1":"Liverpool",
+               "2":"Manchester United",
+               "3":"Arsenal"
+            }
+         ]
+      },
+      {
+         "question":"Soccer. Trusting the press, how many millions did Real Madrid spend for to buy Gareth Bale?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"100 million euros",
+         "answers":[
+            {
+               "1":"50 million euros",
+               "2":"100 million euros",
+               "3":"75 million euros"
+            }
+         ]
+      },
+      {
+         "question":"where was the Football chant \"Ole-Ole-Ole\" undertaken from?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Spain",
+         "answers":[
+            {
+               "1":"Italy",
+               "2":"Portugal",
+               "3":"Spain"
+            }
+         ]
+      },
+      {
+         "question":"The longest soccer match was played on August 13, 1981 by two Irish teams of football club \"Kallinafersi\" Kerry. The winner came to light only through …",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"65 hours 1 minutes",
+         "answers":[
+            {
+               "1":"65 hours 1 minutes",
+               "2":"13 hours 25 minutes",
+               "3":"43 hours 41 minutes"
+            }
+         ]
+      },
+      {
+         "question":"Soccer. What must referee show the soccer player for simulation?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"A yellow card",
+         "answers":[
+            {
+               "1":"A yellow card",
+               "2":"A red card",
+               "3":"The oral prevention"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. How many players can't compete in tennis during one match?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"3 players",
+         "answers":[
+            {
+               "1":"2 players",
+               "2":"3 players",
+               "3":"4 players"
+            }
+         ]
+      },
+      {
+         "question":"The width of the court for game 2 versus 2 is ...?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"10,97",
+         "answers":[
+            {
+               "1":"8,23",
+               "2":"10,97",
+               "3":"11, 49"
+            }
+         ]
+      },
+      {
+         "question":"What helps to play tennis?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Racket",
+         "answers":[
+            {
+               "1":"Racket",
+               "2":"Bat",
+               "3":"Club"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. What is the name of Federer?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Roger",
+         "answers":[
+            {
+               "1":"Roger",
+               "2":"Raphael",
+               "3":"Thomas"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. What is the name of the famous tennis-player Sharapova?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Maria",
+         "answers":[
+            {
+               "1":"Maria",
+               "2":"Mariana",
+               "3":"Marina"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. The handle and a roundish rim with the tense strings, what is it?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Racket",
+         "answers":[
+            {
+               "1":"A grid on a tennis court",
+               "2":"Racket",
+               "3":"Such in tennis isn't present"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. How many games are there in 1 set?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"6 or 7",
+         "answers":[
+            {
+               "1":"2 or 3",
+               "2":"4 or 5",
+               "3":"6 or 7"
+            }
+         ]
+      },
+      {
+         "question":"How many tournaments does \"Grand Slam tournament\" include?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"4 tournaments",
+         "answers":[
+            {
+               "1":"4 tournaments",
+               "2":"10 tournaments",
+               "3":"100 tournaments"
+            }
+         ]
+      },
+      {
+         "question":"Tennis.In the Ancient Greece and Rome there was a game reminding modern tennis. How was it called?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"\"Dzhidoko\"",
+         "answers":[
+            {
+               "1":"\"Pinten\"",
+               "2":"\"Sudoko\"",
+               "3":"\"Dzhidoko\""
+            }
+         ]
+      },
+      {
+         "question":"Tennis. The first tennis ball was made from wood, then it was made from …",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Leather",
+         "answers":[
+            {
+               "1":"Leather",
+               "2":"Leaves",
+               "3":"Branches"
+            }
+         ]
+      },
+      {
+         "question":"In ancient Egypt tennis was …",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Religious practices",
+         "answers":[
+            {
+               "1":"Festive ceremonies",
+               "2":"Religious practices",
+               "3":"Ceremonies before death"
+            }
+         ]
+      },
+      {
+         "question":"What country is the tennis homeland?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"England",
+         "answers":[
+            {
+               "1":"England",
+               "2":"France",
+               "3":"Greece"
+            }
+         ]
+      },
+      {
+         "question":"What was appeared among tennis players, named by the ten-times winner of Grand Slam tournaments, Frenchman Rene Lacoste in 1926.",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Polo-necks",
+         "answers":[
+            {
+               "1":"White cut-offs",
+               "2":"Tennis gaiters",
+               "3":"Polo-necks"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. Who is the tennis world star?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Rafael Nadal",
+         "answers":[
+            {
+               "1":"Rafael Nadal",
+               "2":"Alexander Lacazette",
+               "3":"Kobe Bryant"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. Who is the tennis world star?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Novak Djokovic",
+         "answers":[
+            {
+               "1":"Alexander Ovechkin",
+               "2":"Novak Djokovic",
+               "3":"Raul Gonsalez"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. Who is the tennis world star?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Roger Federer",
+         "answers":[
+            {
+               "1":"Tiger Woods",
+               "2":"Roger Federer",
+               "3":"Thierry Henry"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. 9 of 10 balls for tennis are made in …",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Asia",
+         "answers":[
+            {
+               "1":"Europe",
+               "2":"South America",
+               "3":"Asia"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. How many tennis balls are annually made in the world?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"300 million",
+         "answers":[
+            {
+               "1":"300 million",
+               "2":"300 thousand",
+               "3":"30 thousand"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. What rubber is used for producing tennis balls?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Vulcanized",
+         "answers":[
+            {
+               "1":"Wheel",
+               "2":"Vulcanized",
+               "3":"Elastic"
+            }
+         ]
+      },
+      {
+         "question":"Tennis. How much time did the longest match last in the tennis history ?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"More than 11 hours",
+         "answers":[
+            {
+               "1":"More than 5 hours",
+               "2":"More than 7 hours",
+               "3":"More than 11 hours"
+            }
+         ]
+      },
+      {
+         "question":"Hockey. The first professional ice-hockey team was formed in …",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"1904 in Canada",
+         "answers":[
+            {
+               "1":"1847 in the USA",
+               "2":"1904 in Canada",
+               "3":"1927 in Sweden"
+            }
+         ]
+      },
+      {
+         "question":"Hockey. Where do the hockey players enter who become owners of the Stanley Cup, gold medals of Winter Olimpic games and World cup?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"\"Triple gold club\"",
+         "answers":[
+            {
+               "1":"\"Triple gold club\"",
+               "2":"\"Trebl\"",
+               "3":"\"A three times gold club\""
+            }
+         ]
+      },
+      {
+         "question":"Hockey. In 2000 Martin Brodeur is the goalkeeper \"Devils\" took New Jersey the Stanley Cup to the cinema in order ....:",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"To eat popcorn",
+         "answers":[
+            {
+               "1":"To show the girl",
+               "2":"To drink Cola",
+               "3":"To eat popcorn"
+            }
+         ]
+      },
+      {
+         "question":"Hockey. The puck is made from...:",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Rubbers",
+         "answers":[
+            {
+               "1":"Metal",
+               "2":"Rubbers",
+               "3":"Alloy of metals"
+            }
+         ]
+      },
+      {
+         "question":"Hockey. What do people do with a puck before game?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Freeze",
+         "answers":[
+            {
+               "1":"Heat",
+               "2":"Freeze",
+               "3":"Nothing"
+            }
+         ]
+      },
+      {
+         "question":"Hockey. The first ice-hockey teams were consisted from nine people, then from seven and only in 1904 there were...",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"6 people",
+         "answers":[
+            {
+               "1":"4 people",
+               "2":"6 people",
+               "3":"9 people"
+            }
+         ]
+      },
+      {
+         "question":"What country is the homeland of the Olympic Games?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Greece",
+         "answers":[
+            {
+               "1":"Egypt",
+               "2":"Italy",
+               "3":"Greece"
+            }
+         ]
+      },
+      {
+         "question":"And what competition was held in the final of the Olympic Games in Ancient Greece?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Wrestling",
+         "answers":[
+            {
+               "1":"Fight on swords",
+               "2":"Fight with lions",
+               "3":"Wrestling"
+            }
+         ]
+      },
+      {
+         "question":"At the beginning of the century this sport was included into the program of the Olympic Games. What kind of sport was it which consists of group weighing?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pulling rope",
+         "answers":[
+            {
+               "1":"Rowing",
+               "2":"Pulling rope",
+               "3":"Mass fight"
+            }
+         ]
+      },
+      {
+         "question":"Who had the right to be participate in the Olympic Games in Ancient Greece?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Free Greek citizens",
+         "answers":[
+            {
+               "1":"Only foreigners ",
+               "2":"Slaves",
+               "3":"Free Greek citizens"
+            }
+         ]
+      },
+      {
+         "question":"Olympic Games in Ancient Greece. How often do the Olympic Games go off?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Each four years",
+         "answers":[
+            {
+               "1":"Each two years",
+               "2":"Each four years",
+               "3":"Each 6 years"
+            }
+         ]
+      },
+      {
+         "question":"How many targets does the biathlonist have to get?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"5 targets",
+         "answers":[
+            {
+               "1":"2 targets",
+               "2":"5 targets",
+               "3":"15 targets"
+            }
+         ]
+      },
+      {
+         "question":"What is the penalty loop extent in biathlon?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"150 meters",
+         "answers":[
+            {
+               "1":"500 meters",
+               "2":"350 meters",
+               "3":"150 meters"
+            }
+         ]
+      },
+      {
+         "question":"What type of firing doesn't exist in biathlon?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Sitting",
+         "answers":[
+            {
+               "1":"Lying",
+               "2":"Sitting",
+               "3":"Standing"
+            }
+         ]
+      },
+      {
+         "question":"In what country is cricket a popular sport?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"India",
+         "answers":[
+            {
+               "1":"China",
+               "2":"Russia",
+               "3":"India"
+            }
+         ]
+      },
+      {
+         "question":"How long does the cricket match last?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"About five days",
+         "answers":[
+            {
+               "1":"Of an hour to two",
+               "2":"About 5 hours",
+               "3":"About five days"
+            }
+         ]
+      },
+      {
+         "question":"What maximum quantity of points can be gathered in bowling?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"300",
+         "answers":[
+            {
+               "1":"200",
+               "2":"300",
+               "3":"400"
+            }
+         ]
+      },
+      {
+         "question":"How many players can play from one team in volleyball?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"6 players",
+         "answers":[
+            {
+               "1":"9 players",
+               "2":"6 players",
+               "3":"4 players"
+            }
+         ]
+      },
+      {
+         "question":"How many points is it standardly necessary for a victory to score playing volleyball?",
+         "category":"sport",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"25 points",
+         "answers":[
+            {
+               "1":"30 points",
+               "2":"25 points",
+               "3":"21 points"
+            }
+         ]
+      },
+      {
+         "question":"Who is this guy?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"1",
+         "rightAnswer":"Mike Tyson",
+         "answers":[
+            {
+               "1":"Muhammad Ali",
+               "2":"Mike Tyson",
+               "3":"Mayweather"
+            }
+         ]
+      },
+      {
+         "question":"How is this sport called?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"2",
+         "rightAnswer":"Biathlon",
+         "answers":[
+            {
+               "1":"Thriathlon",
+               "2":"Pentalon",
+               "3":"Biathlon"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this tennis player?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"4",
+         "rightAnswer":"Rafael Nadal",
+         "answers":[
+            {
+               "1":"Rafael Nadal",
+               "2":"Roger Federer",
+               "3":"Novak Djokovic"
+            }
+         ]
+      },
+      {
+         "question":"For what national team does this player play?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"5",
+         "rightAnswer":"Colombia",
+         "answers":[
+            {
+               "1":"Colombia",
+               "2":"Peru",
+               "3":"Mexico"
+            }
+         ]
+      },
+      {
+         "question":"For what national team does this guy play?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"6",
+         "rightAnswer":"Belgium",
+         "answers":[
+            {
+               "1":"Switzerland",
+               "2":"England",
+               "3":"Belgium"
+            }
+         ]
+      },
+      {
+         "question":"What sport is represented by this athlete?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"7",
+         "rightAnswer":"Tennis",
+         "answers":[
+            {
+               "1":"Soccer",
+               "2":"Tennis",
+               "3":"Hockey"
+            }
+         ]
+      },
+      {
+         "question":"What should you do if you are here?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"8",
+         "rightAnswer":"Play bowling",
+         "answers":[
+            {
+               "1":"Play poker",
+               "2":"Play bowling",
+               "3":"Play chess"
+            }
+         ]
+      },
+      {
+         "question":"What sport is represented by this athlete?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"9",
+         "rightAnswer":"Golf",
+         "answers":[
+            {
+               "1":"Tennis",
+               "2":"Golf",
+               "3":"Soccer"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this boxer?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"10",
+         "rightAnswer":"Floyd Mayweather, Jr.",
+         "answers":[
+            {
+               "1":"Floyd Mayweather, Jr.",
+               "2":"Timothy Bradley",
+               "3":"Jesse Vargas"
+            }
+         ]
+      },
+      {
+         "question":"What club did he play in before he was bought by Barcelona?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"11",
+         "rightAnswer":"Santos",
+         "answers":[
+            {
+               "1":"Internasional",
+               "2":"Vasco De Gama",
+               "3":"Santos"
+            }
+         ]
+      },
+      {
+         "question":"In which national team does he play?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"12",
+         "rightAnswer":"Uruguay",
+         "answers":[
+            {
+               "1":"Uruguay",
+               "2":"Argentina",
+               "3":"Colombia"
+            }
+         ]
+      },
+      {
+         "question":"What kind of sport do you see in the picture?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"13",
+         "rightAnswer":"Beach volleyball",
+         "answers":[
+            {
+               "1":"Beach soccer",
+               "2":"Beach volleyball",
+               "3":"Beach handball"
+            }
+         ]
+      },
+      {
+         "question":"In what sport doesn't she have the equal?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"14",
+         "rightAnswer":"Tennis",
+         "answers":[
+            {
+               "1":"Volleyball",
+               "2":"Tennis",
+               "3":"Firing from onions"
+            }
+         ]
+      },
+      {
+         "question":"In what national team does this hockey player play?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"15",
+         "rightAnswer":"Russia",
+         "answers":[
+            {
+               "1":"Russia",
+               "2":"USA",
+               "3":"Canada"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this guy's girlfriend?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"16",
+         "rightAnswer":"Shakira",
+         "answers":[
+            {
+               "1":"Cameron Diaz",
+               "2":"Jenifer Lopez",
+               "3":"Shakira"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of a basketball player on the left?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"17",
+         "rightAnswer":"Mikel Jordan",
+         "answers":[
+            {
+               "1":"Mikel Jordan",
+               "2":"Cobi Braynt",
+               "3":"Shaquille O'Neill"
+            }
+         ]
+      },
+      {
+         "question":"What is the nickname of this tennis-player?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"18",
+         "rightAnswer":"\"The Siberian siren\"",
+         "answers":[
+            {
+               "1":"\"The Siberian siren\"",
+               "2":"\"East princess\"",
+               "3":"\"Queen of tennis\""
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this hockey player?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"19",
+         "rightAnswer":"Alexander Ovechkin",
+         "answers":[
+            {
+               "1":"Alexander Ovechkin",
+               "2":"Evgeny Malkin",
+               "3":"Dag Harwin"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this player?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"20",
+         "rightAnswer":"Loukas Moura",
+         "answers":[
+            {
+               "1":"Loukas Silva",
+               "2":"Loukas Moura",
+               "3":"Loukas Gonsalez"
+            }
+         ]
+      },
+      {
+         "question":"In what national team does he play?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"21",
+         "rightAnswer":"Germany",
+         "answers":[
+            {
+               "1":"Sweden",
+               "2":"Germany",
+               "3":"France"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this football player?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"22",
+         "rightAnswer":"Gareth Bale",
+         "answers":[
+            {
+               "1":"Gareth Bale",
+               "2":"Gareth Barry",
+               "3":"James Milner"
+            }
+         ]
+      },
+      {
+         "question":"In what club did this football player once play?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"23",
+         "rightAnswer":"Bayern",
+         "answers":[
+            {
+               "1":"Manchester United",
+               "2":"Liverpool",
+               "3":"Bayern"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this hockey player?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"24",
+         "rightAnswer":"Evgeny Malkin",
+         "answers":[
+            {
+               "1":"Alexander Ovechkin",
+               "2":"Evgeny Malkin",
+               "3":"Dmitry Kulikov"
+            }
+         ]
+      },
+      {
+         "question":"What sport is represented by this athlete?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"25",
+         "rightAnswer":"Soccer",
+         "answers":[
+            {
+               "1":"Tennis",
+               "2":"Soccer",
+               "3":"Boxing"
+            }
+         ]
+      },
+      {
+         "question":"How did the fight between these two fighters christen?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"26",
+         "rightAnswer":"\"Fight of a century\"",
+         "answers":[
+            {
+               "1":"\"Fight of year\"",
+               "2":"\"Fight of decade\"",
+               "3":"\"Fight of a century\""
+            }
+         ]
+      },
+      {
+         "question":"What country is represented by this tennis player?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"29",
+         "rightAnswer":"Switzerland",
+         "answers":[
+            {
+               "1":"Sweden",
+               "2":"France",
+               "3":"Switzerland"
+            }
+         ]
+      },
+      {
+         "question":"What is the real name of this football player?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"30",
+         "rightAnswer":"Francisco Roman",
+         "answers":[
+            {
+               "1":"Francisco Alcaser",
+               "2":"Francisco Roman",
+               "3":"Francisco Punal"
+            }
+         ]
+      },
+      {
+         "question":"Who is it?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"31",
+         "rightAnswer":"Cobi Braynt",
+         "answers":[
+            {
+               "1":"Lebron James",
+               "2":"Cobi Braynt",
+               "3":"Michael Jordan"
+            }
+         ]
+      },
+      {
+         "question":"What did he do during some matches, after which he was disqualified for a long term?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"32",
+         "rightAnswer":"He bit players",
+         "answers":[
+            {
+               "1":"He fought",
+               "2":"He howled",
+               "3":"He bit players"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this greatest athlete?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"49",
+         "rightAnswer":"Michael Phelps",
+         "answers":[
+            {
+               "1":"John Smith",
+               "2":"Michael Phelps",
+               "3":"Dzhek Williams"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of the greatest figure skater?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"50",
+         "rightAnswer":"Evgeny Plushenko",
+         "answers":[
+            {
+               "1":"Stephane Lambiel",
+               "2":"Alexey Yagudin",
+               "3":"Evgeny Plushenko"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of the boxer?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"510",
+         "rightAnswer":"Vladimir Klitschko",
+         "answers":[
+            {
+               "1":"Badr Hari",
+               "2":"Vitaly Klitschko",
+               "3":"Vladimir Klitschko"
+            }
+         ]
+      },
+      {
+         "question":"What kind of sport is shown in the picture?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"520",
+         "rightAnswer":"Hockey",
+         "answers":[
+            {
+               "1":"Hockey",
+               "2":"Curling",
+               "3":"Figure skating"
+            }
+         ]
+      },
+      {
+         "question":"What kind of sport is shown in the picture?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"530",
+         "rightAnswer":"Curling",
+         "answers":[
+            {
+               "1":"Hockey",
+               "2":"Figure skating",
+               "3":"Curling"
+            }
+         ]
+      },
+      {
+         "question":"What kind of sport is shown in the picture?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"540",
+         "rightAnswer":"Babminton",
+         "answers":[
+            {
+               "1":"Tennis",
+               "2":"Babminton",
+               "3":"Table tennis"
+            }
+         ]
+      },
+      {
+         "question":"What kind of sport is shown in the picture?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"550",
+         "rightAnswer":"Badr Hari",
+         "answers":[
+            {
+               "1":"Mata Hari",
+               "2":"Badr Hari",
+               "3":"Huang Mata"
+            }
+         ]
+      },
+      {
+         "question":"What kind of sport is shown in the picture?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"560",
+         "rightAnswer":"Billiards",
+         "answers":[
+            {
+               "1":"Table tennis",
+               "2":"Bowling",
+               "3":"Billiards"
+            }
+         ]
+      },
+      {
+         "question":"What kind of sport is shown in the picture?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"570",
+         "rightAnswer":"Rugby",
+         "answers":[
+            {
+               "1":"Rugby",
+               "2":"Derby",
+               "3":"Volleyball"
+            }
+         ]
+      },
+      {
+         "question":"What kind of sport is shown in the picture?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"580",
+         "rightAnswer":"Fencing",
+         "answers":[
+            {
+               "1":"Fight of Jedis",
+               "2":"Fencing",
+               "3":"Sparring"
+            }
+         ]
+      },
+      {
+         "question":"What kind of sport is shown in the picture?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"590",
+         "rightAnswer":"Formula One",
+         "answers":[
+            {
+               "1":"Formula One",
+               "2":"Motorsport",
+               "3":"Rally"
+            }
+         ]
+      },
+      {
+         "question":"What kind of sport is shown in the picture?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"600",
+         "rightAnswer":"Cycling",
+         "answers":[
+            {
+               "1":"Bicycle track",
+               "2":"Cycling",
+               "3":"Bicycle race"
+            }
+         ]
+      },
+      {
+         "question":"What kind of sport is shown in the picture?",
+         "category":"sport",
+         "isImage":true,
+         "imagePath":"610",
+         "rightAnswer":"Sports poker",
+         "answers":[
+            {
+               "1":"Sports poker",
+               "2":"Chess",
+               "3":"Billiards"
+            }
+         ]
+      }
+   ]
+}

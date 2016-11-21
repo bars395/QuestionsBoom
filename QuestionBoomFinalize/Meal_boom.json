@@ -1,0 +1,666 @@
+{
+    "Questions":
+    [
+{
+	   "question":"Ежедневно рестораны «Макдоналдс» в России обслуживают более...",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"51",
+	   "rightAnswer": "950 000 посетителей",
+	   "answers": [ {
+			  "1":"790 000посетителей",
+			  "2":"950 000 посетителей",
+			  "3":"2500 000 посетителей"
+			}
+			]
+	 },
+{
+	   "question":"Как называется яблочный пирог?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Шарлотка",
+	   "answers": [ {
+			  "1":"Шарлатанка",
+			  "2":"Шарлотка",
+			  "3":"Шараповка"
+			}
+			]
+	 },
+{
+	   "question":"Какое слово в переводе означает \"поцелуй\"?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Безе",
+	   "answers": [ {
+			  "1":"Эклер",
+			  "2":"Суфле",
+			  "3":"Безе"
+			}
+			]
+	 },
+{
+	   "question":"Что традиционно является начинкой рождественского гуся?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Яблоко",
+	   "answers": [ {
+			  "1":"Яблоко",
+			  "2":"Апельсин",
+			  "3":"Вишня"
+			}
+			]
+	 },
+{
+	   "question":"С чем из этого сравнивают лучшее мясо?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Мрамор",
+	   "answers": [ {
+			  "1":"Мрамор",
+			  "2":"Гранит",
+			  "3":"Шпат"
+			}
+			]
+	 },
+{
+	   "question":"В производстве какого алкогольного напитка используется сахарный тростник?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Кашаса",
+	   "answers": [ {
+			  "1":"Текила",
+			  "2":"Кашаса",
+			  "3":"Граппа"
+			}
+			]
+	 },
+{
+	   "question":"Какое из этих вин наибольшей выдержки?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Коллекционное",
+	   "answers": [ {
+			  "1":"Марочное",
+			  "2":"Выдержанное",
+			  "3":"Коллекционное"
+			}
+			]
+	 },
+{
+	   "question":" Что из перечисленного является сыром?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Сулугуни",
+	   "answers": [ {
+			  "1":"Сулугуни",
+			  "2":"Мацони",
+			  "3":"Сациви"
+			}
+			]
+	 },
+{
+	   "question":"Что из перечисленного является кондитерским изделием ?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "ром-баба",
+	   "answers": [ {
+			  "1":"ром-дядя",
+			  "2":"ром-мама",
+			  "3":"ром-баба"
+			}
+			]
+	 },
+{
+	   "question":"Какой кухне принадлежит блюдо \"форшмак\"?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Еврейской",
+	   "answers": [ {
+			  "1":"Грузинской",
+			  "2":"Китайской",
+			  "3":"Еврейской"
+			}
+			]
+	 },
+{
+	   "question":"Как называются молодые стебли кориандра, используемые как приправа?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Кинза",
+	   "answers": [ {
+			  "1":"Каперсы",
+			  "2":"Кинза",
+			  "3":"Крокус"
+			}
+			]
+	 },
+{
+	   "question":"Прототипом шоколада послужил ацтекский напиток \"чоколатль\". Что являлось обязательным компонентом этого напитка?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Острый перец",
+	   "answers": [ {
+			  "1":"Острый перец",
+			  "2":"Корица",
+			  "3":"Мёд"
+			}
+			]
+	 },
+{
+	   "question":"Аромат какого напитка обычно описывается словом \"букет\"?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Вино",
+	   "answers": [ {
+			  "1":"Водка",
+			  "2":"Вино",
+			  "3":"Пиво"
+			}
+			]
+	 },
+{
+	   "question":"Какой напиток получают из сахарного тростника?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Ром",
+	   "answers": [ {
+			  "1":"Джин",
+			  "2":"Коньяк",
+			  "3":"Ром"
+			}
+			]
+	 },
+{
+	   "question":"Кто изобрел напиток мате?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Инки",
+	   "answers": [ {
+			  "1":"Инки",
+			  "2":"Аргентинцы",
+			  "3":"Китайцы"
+			}
+			]
+	 },
+{
+	   "question":"Что в дословном переводе с немецкого языка означает слово «бутерброд»?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Хлеб с маслом",
+	   "answers": [ {
+			  "1":"Режь и ешь",
+			  "2":"Ленивая хозяйка",
+			  "3":"Хлеб с маслом"
+			}
+			]
+	 },
+{
+	   "question":"Что подадут в ресторане, если вы закажете фуа-гра?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Гусиную печень",
+	   "answers": [ {
+			  "1":"Гусиную печень",
+			  "2":"Баранину на косточке",
+			  "3":"Сыр"
+			}
+			]
+	 },
+{
+	   "question":"Что из перечисленного не является бутербродом?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Тарталетки",
+	   "answers": [ {
+			  "1":"Сэндвичи",
+			  "2":"Тарталетки",
+			  "3":"Канапе"
+			}
+			]
+	 },
+{
+	   "question":"Что из перечисленного является шоколадным батончиком?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "\"Марс\"",
+	   "answers": [ {
+			  "1":"\"Меркурий\"",
+			  "2":"\"Венера\"",
+			  "3":"\"Марс\""
+			}
+			]
+	 },
+{
+	   "question":"100 г какого из этих продуктов содержит больше калорий?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Сливочное масло",
+	   "answers": [ {
+			  "1":"Хлеб",
+			  "2":"Сливочное масло",
+			  "3":"Картофель"
+			}
+			]
+	 },
+{
+	   "question":"Что из этого является рыбным супом?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "буйабес",
+	   "answers": [ {
+			  "1":"консоме",
+			  "2":"жюльен",
+			  "3":"буйабес"
+			}
+			]
+	 },
+{
+	   "question":"Какой из этих сортов виски является бурбоном?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "«Jim Beam»",
+	   "answers": [ {
+			  "1":"«Jim Beam»",
+			  "2":"«Johnnie Walker»",
+			  "3":"«Long John»"
+			}
+			]
+	 },
+{
+	   "question":"Какой бытовой прибор используют хозяйки в Гонолулу, для того чтобы сделать мясо осьминога более нежным?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Стиральная машина",
+	   "answers": [ {
+			  "1":"Утюг",
+			  "2":"Стиральная машина",
+			  "3":"Фен"
+			}
+			]
+	 },
+{
+	   "question":"Из какой вырезки англичане традиционно готовят бифштекс?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Из говяжьей",
+	   "answers": [ {
+			  "1":"Из свиной",
+			  "2":"Из бараньей",
+			  "3":"Из говяжьей"
+			}
+			]
+	 },
+{
+	   "question":"Из чего в Италии готовят ризотто?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Рис",
+	   "answers": [ {
+			  "1":"Пшено",
+			  "2":"Рис",
+			  "3":"Макароны"
+			}
+			]
+	 },
+{
+	   "question":"Какое цитрусовое используется при приготовлении коктейля мохито?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Лайм",
+	   "answers": [ {
+			  "1":"Апельсин",
+			  "2":"Лайм",
+			  "3":"Лимон"
+			}
+			]
+	 },
+{
+	   "question":"Вопрос: Какого сорта шампанского не бывает?",
+	   "category":"Food and drinks",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Полубрют",
+	   "answers": [ {
+			  "1":"Полусладкое",
+			  "2":"Полубрют",
+			  "3":"Полусухое"
+			}
+			]
+	 },
+{
+	   "question":"Как называет влажное полотенце, которое подают японцы перед едой?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"52",
+	   "rightAnswer": "Осимори",
+	   "answers": [ {
+			  "1":"Кусияки",
+			  "2":"Осимори",
+			  "3":"Натто"
+			}
+			]
+	 },
+{
+	   "question":"Из какой страны происходит фалафель?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"54",
+	   "rightAnswer": "Египет",
+	   "answers": [ {
+			  "1":"Египет",
+			  "2":"Греция",
+			  "3":"Израиль"
+			}
+			]
+	 },
+{
+	   "question":"Традиционная закрытая пицца кальцоне является визитной карточкой региона...",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"55",
+	   "rightAnswer": "Апулия",
+	   "answers": [ {
+			  "1":"Эмилия-Романья",
+			  "2":"Пьемонт",
+			  "3":"Апулия"
+			}
+			]
+	 },
+{
+	   "question":"Из какого растения изготовляют текилу?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"56",
+	   "rightAnswer": "Голубая агава",
+	   "answers": [ {
+			  "1":"Фейхоа",
+			  "2":"Кактус",
+			  "3":"Голубая агава"
+			}
+			]
+	 },
+{
+	   "question":" В какой стране появился этот десерт?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"57",
+	   "rightAnswer": "Франция",
+	   "answers": [ {
+			  "1":"Италия",
+			  "2":"Испания",
+			  "3":"Франция"
+			}
+			]
+	 },
+{
+	   "question":"Как называется этот сыр?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"58",
+	   "rightAnswer": "Сыр камамбер",
+	   "answers": [ {
+			  "1":"Сыр австрийский",
+			  "2":"Чизкейк",
+			  "3":"Сыр камамбер"
+			}
+			]
+	 },
+{
+	   "question":"Как правильно будет называться этот фаст-фуд, учитывая ингредиенты на картинке?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"60",
+	   "rightAnswer": "Двойной Чизбургер",
+	   "answers": [ {
+			  "1":"Бургер",
+			  "2":"Двойной Чизбургер",
+			  "3":"Чизкейк"
+			}
+			]
+	 },
+{
+	   "question":"Что это?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"61",
+	   "rightAnswer": "Безе",
+	   "answers": [ {
+			  "1":"Итальянский чеснок",
+			  "2":"Безе",
+			  "3":"Чизкейк"
+			}
+			]
+	 },
+{
+	   "question":"Когда чаще всего едят это блюдо?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"62",
+	   "rightAnswer": "Майские праздники",
+	   "answers": [ {
+			  "1":"Майские праздники",
+			  "2":"На 1 января",
+			  "3":"На Пасху"
+			}
+			]
+	 },
+{
+	   "question":"В какой стране появилось это блюдо?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"63",
+	   "rightAnswer": "Италия",
+	   "answers": [ {
+			  "1":"Испания",
+			  "2":"Мексика",
+			  "3":"Италия"
+			}
+			]
+	 },
+{
+	   "question":"Где появились первые чизкейки?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"64",
+	   "rightAnswer": "Древняя Греция",
+	   "answers": [ {
+			  "1":"Древняя Греция",
+			  "2":"Нью-Йорк(США)",
+			  "3":"Барселона(Испания)"
+			}
+			]
+	 },
+{
+    "question": "Это морское существо часто готовят в хороших ресторанах, как оно называется?",
+    "category": "Food and drinks",
+    "isImage": true,
+    "imagePath": "650",
+    "rightAnswer": "Лобстер",
+    "answers": [{
+     "1": "Краб",
+     "2": "Креветка",
+     "3": "Лобстер"
+   }
+   ]
+  },
+{
+    "question": "Как называются эти морские существа?",
+    "category": "Food and drinks",
+    "isImage": true,
+    "imagePath": "660",
+    "rightAnswer": "Креветки",
+    "answers": [{
+     "1": "Крабы",
+     "2": "Лобстеры",
+     "3": "Креветки"
+   }
+   ]
+  },
+{
+	   "question":"Какое название носит это блюдо?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"670",
+	   "rightAnswer": "Суши",
+	   "answers": [ {
+			  "1":"Пицца",
+			  "2":"Суши",
+			  "3":"Паэлья"
+			}
+			]
+	 },
+{
+	   "question":"В какой стране впервые появилось это блюдо?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"670",
+	   "rightAnswer": "Япония",
+	   "answers": [ {
+			  "1":"Япония",
+			  "2":"Китай",
+			  "3":"Таиланд"
+			}
+			]
+	 },
+{
+	   "question":"Национальным блюдом какой страны является паста?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"680",
+	   "rightAnswer": "Италия",
+	   "answers": [ {
+			  "1":"Испания",
+			  "2":"Ирландия",
+			  "3":"Италия"
+			}
+			]
+	 },
+{
+	   "question":"В какой стране паэлья является национальным блюдом?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"690",
+	   "rightAnswer": "Испания",
+	   "answers": [ {
+			  "1":"Испания",
+			  "2":"Мексика",
+			  "3":"Аргентина"
+			}
+			]
+	 },
+{
+	   "question":"Как называется этот испанский напиток?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"700",
+	   "rightAnswer": "Сангрия",
+	   "answers": [ {
+			  "1":"Мангрия",
+			  "2":"Сангрия",
+			  "3":"Тангрия"
+			}
+			]
+	 },
+{
+	   "question":"В какой стране впервые массово стали употреблять это блюдо?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"710",
+	   "rightAnswer": "США",
+	   "answers": [ {
+			  "1":"Германия",
+			  "2":"Австралия",
+			  "3":"США"
+			}
+			]
+	 },
+{
+	   "question":"Утка по-пекински. В какой стране появился такой рецепт приготовления?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"720",
+	   "rightAnswer": "Китай",
+	   "answers": [ {
+			  "1":"Япония",
+			  "2":"Китай",
+			  "3":"Таиланд"
+			}
+			]
+	 },
+{
+	   "question":"Донер-кебаб. В какой стране это блюдо является национальным?",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"730",
+	   "rightAnswer": "Турция",
+	   "answers": [ {
+			  "1":"Монголия",
+			  "2":"Турция",
+			  "3":"Армения"
+			}
+			]
+	 },
+{
+	   "question":"Венский шницель. Это национальное блюдо ... ",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"740",
+	   "rightAnswer": "Австрии",
+	   "answers": [ {
+			  "1":"Германии",
+			  "2":"Нидерландов",
+			  "3":"Австрии"
+			}
+			]
+	 },
+{
+	   "question":"Гуляш это национальное блюдо ... ",
+	   "category":"Food and drinks",
+	   "isImage":true,
+	   "imagePath":"750",
+	   "rightAnswer": "Венгрии",
+	   "answers": [ {
+			  "1":"Венгрии",
+			  "2":"Болгарии",
+			  "3":"Польши"
+			}
+			]
+	 }
+                  
+	 ]
+}
+
+
+
+
+
+
+
+
+
+

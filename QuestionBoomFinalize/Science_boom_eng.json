@@ -1,0 +1,1334 @@
+{
+   "Questions":[
+      {
+         "question":"What type of seismic activity happens in an earthquake?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"waves",
+         "answers":[
+            {
+               "1":"rays",
+               "2":"shocks",
+               "3":"waves"
+            }
+         ]
+      },
+      {
+         "question":"What event can happen when an underwater earthquake shakes the ocean floor?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"tsunami",
+         "answers":[
+            {
+               "1":"a waterspout",
+               "2":"tsunami",
+               "3":"the tide"
+            }
+         ]
+      },
+      {
+         "question":"What instrument would you use to measure how big an earthquake is?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"seismograph or seismometer",
+         "answers":[
+            {
+               "1":"spectrometer",
+               "2":"seismograph or seismometer",
+               "3":"calculator"
+            }
+         ]
+      },
+      {
+         "question":"In what type of fault do two plates move apart?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"normal",
+         "answers":[
+            {
+               "1":"reverse",
+               "2":"normal",
+               "3":"fracture"
+            }
+         ]
+      },
+      {
+         "question":"What is a dangerous event that is likely to occur on the side of a mountain during an earthquake?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"landside",
+         "answers":[
+            {
+               "1":"landside",
+               "2":"tsunami",
+               "3":"liquefaction"
+            }
+         ]
+      },
+      {
+         "question":"What do you call small tremors that follow a big earthquake?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"aftershocks",
+         "answers":[
+            {
+               "1":"aftershocks",
+               "2":"eruptions",
+               "3":"tectonic plates"
+            }
+         ]
+      },
+      {
+         "question":"What is the best scale to measure an earthquake?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"the Richter scale",
+         "answers":[
+            {
+               "1":"a manual scale",
+               "2":"the geological time scale",
+               "3":"the Richter scale"
+            }
+         ]
+      },
+      {
+         "question":"The three types of boundaries between the Earth's plates are what?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"divergent, convergent, and transform",
+         "answers":[
+            {
+               "1":"divergent, convergent, and transform",
+               "2":"rift valley, ocean ridge, and fault",
+               "3":"continent, trench, and magnetic field"
+            }
+         ]
+      },
+      {
+         "question":"What is a major fault in California?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"the San Andreas fault",
+         "answers":[
+            {
+               "1":"the New Madrid fault",
+               "2":"the San Andreas fault",
+               "3":"the Deseado fault"
+            }
+         ]
+      },
+      {
+         "question":"What is the independent variable?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"the variable that you purposely manipulate",
+         "answers":[
+            {
+               "1":"the variable that is being observed",
+               "2":"the variable that is not changed",
+               "3":"the variable that you purposely manipulate"
+            }
+         ]
+      },
+      {
+         "question":"What is the controlled variable?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"the variable that is not changed",
+         "answers":[
+            {
+               "1":"the variable that is not changed",
+               "2":"the variable that is being observed",
+               "3":"the variable that you purposely manipulate"
+            }
+         ]
+      },
+      {
+         "question":"How many controls can you have in an experiment?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"as many as you would like",
+         "answers":[
+            {
+               "1":"0",
+               "2":"1",
+               "3":"as many as you would like"
+            }
+         ]
+      },
+      {
+         "question":"Momentum is a measure of the motion of a body equal to the product of its mass and velocity.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"True",
+         "answers":[
+            {
+               "1":"True",
+               "2":"False",
+               "3":"I dont know"
+            }
+         ]
+      },
+      {
+         "question":"Momentum is a conserved quantity.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"True",
+         "answers":[
+            {
+               "1":"I dont know",
+               "2":"False",
+               "3":"True"
+            }
+         ]
+      },
+      {
+         "question":"The amount of momentum that any object has is dependent on which of the following quantities? Check all that apply.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"velocity",
+         "answers":[
+            {
+               "1":"weight",
+               "2":"velocity",
+               "3":"mass"
+            }
+         ]
+      },
+      {
+         "question":"Is the following statement about impulse, true or false? Impulse is defined as the average force times the time interval.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"True",
+         "answers":[
+            {
+               "1":"I dont know",
+               "2":"False",
+               "3":"True"
+            }
+         ]
+      },
+      {
+         "question":"Is this equation correct? Impulse = (force)(time)",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"True",
+         "answers":[
+            {
+               "1":"True",
+               "2":"False",
+               "3":"I dont know"
+            }
+         ]
+      },
+      {
+         "question":"Which of the following would you do in order to get the largest possible impulse?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"both A and B",
+         "answers":[
+            {
+               "1":"apply the force for the longest time possible",
+               "2":"apply the largest possible force",
+               "3":"both A and B"
+            }
+         ]
+      },
+      {
+         "question":"Tides are caused by the pull of what objects?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Both Sun and moon",
+         "answers":[
+            {
+               "1":"Sun",
+               "2":"Both Sun and moon",
+               "3":"Neither Sun nor moon"
+            }
+         ]
+      },
+      {
+         "question":"How many tidal variations are there?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"2",
+         "answers":[
+            {
+               "1":"3",
+               "2":"2",
+               "3":"1"
+            }
+         ]
+      },
+      {
+         "question":"For spring tides, what must be the angular alignment between the Earth, Sun and moon?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"180 degrees",
+         "answers":[
+            {
+               "1":"90 degrees",
+               "2":"45 degrees",
+               "3":"180 degrees"
+            }
+         ]
+      },
+      {
+         "question":"For neap tides, what must the angular alignment be between the Sun and Earth relative to the moon?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"90 degrees",
+         "answers":[
+            {
+               "1":"90 degrees",
+               "2":"180 degrees",
+               "3":"45 degrees"
+            }
+         ]
+      },
+      {
+         "question":"What is a hurricane?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"A storm that forms at sea and strikes land",
+         "answers":[
+            {
+               "1":"A lightning storm",
+               "2":"A large funnel that forms from the sky",
+               "3":"A storm that forms at sea and strikes land"
+            }
+         ]
+      },
+      {
+         "question":"The eye of a storm happens at the center of a hurricane or tornado. What is it like inside the eye?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"calm",
+         "answers":[
+            {
+               "1":"foggy",
+               "2":"stormy",
+               "3":"calm"
+            }
+         ]
+      },
+      {
+         "question":"Another name for a hurricane is what?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Typhoon",
+         "answers":[
+            {
+               "1":"Tornado",
+               "2":"Typhoon",
+               "3":"Thunderstorm"
+            }
+         ]
+      },
+      {
+         "question":"When rain suddenly turns cold it can turn into chunks of ice before it falls to the ground. What is this called?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"hail",
+         "answers":[
+            {
+               "1":"snow",
+               "2":"sleet",
+               "3":"hail"
+            }
+         ]
+      },
+      {
+         "question":"How many thunderstorms are there in the world every year?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"16 million",
+         "answers":[
+            {
+               "1":"16 million",
+               "2":"5 million",
+               "3":"10 million"
+            }
+         ]
+      },
+      {
+         "question":"A downdraft is a cool wind that what?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Blows down from the sky to the earth",
+         "answers":[
+            {
+               "1":"Blows down from the sky to the earth",
+               "2":"Blows up from the earth to the sky",
+               "3":"Blows across the mountains"
+            }
+         ]
+      },
+      {
+         "question":"Lightning can be very dangerous when it strikes. How many people are killed or injured every year by lightning?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"50 to 100",
+         "answers":[
+            {
+               "1":"50 to 100",
+               "2":"100 to 150",
+               "3":"over 150"
+            }
+         ]
+      },
+      {
+         "question":"In an average year, how many tornadoes happen in the United States?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"950 to 1500",
+         "answers":[
+            {
+               "1":"over 1500",
+               "2":"950 to 1500",
+               "3":"under 400"
+            }
+         ]
+      },
+      {
+         "question":"Masses of air are constantly in motion around the earth. When two masses meet or collide, what do we call it?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"a front",
+         "answers":[
+            {
+               "1":"a front",
+               "2":"a chill zone",
+               "3":"a backlash"
+            }
+         ]
+      },
+      {
+         "question":"A snowstorm that is so strong you cannot see anything, is called what?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"a whiteout",
+         "answers":[
+            {
+               "1":"a chillzone",
+               "2":"a blind storm",
+               "3":"a whiteout"
+            }
+         ]
+      },
+      {
+         "question":"By what factors are biomes defined/classified? Check all that apply",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"climate / plant structures",
+         "answers":[
+            {
+               "1":"climate / plant structures",
+               "2":"genetic similarities",
+               "3":"plant structures"
+            }
+         ]
+      },
+      {
+         "question":"There are TWO fundamental classifications of biomes. They are: 1. Terrestrial (land) biomes and 2. ___________________",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"aquatic biomes",
+         "answers":[
+            {
+               "1":"aquatic biomes",
+               "2":"Amphibious biomes",
+               "3":"None of the above"
+            }
+         ]
+      },
+      {
+         "question":"Do biomes change and move throughout the years?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"yes",
+         "answers":[
+            {
+               "1":"yes",
+               "2":"no",
+               "3":"idont know"
+            }
+         ]
+      },
+      {
+         "question":"There are two types of aquatic biomes: ____________________ and __________________ Check the two below.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"marine biome / freshwater biome",
+         "answers":[
+            {
+               "1":"marine biome / freshwater biome",
+               "2":"deep sea biome",
+               "3":"freshwater biome"
+            }
+         ]
+      },
+      {
+         "question":"There are 4 major terrestrial (land) biomes. Check the two that apply. 1. Desert 2. Forest 3. ____________ 4. ____________",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Grassland",
+         "answers":[
+            {
+               "1":"Flatland",
+               "2":"Grassland",
+               "3":"Prarieland"
+            }
+         ]
+      },
+      {
+         "question":"Which biome is the most diverse biotic community in the world?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"forest",
+         "answers":[
+            {
+               "1":"grassland",
+               "2":"marine",
+               "3":"forest"
+            }
+         ]
+      },
+      {
+         "question":"The desert biomes cover approximately what fraction of the Earth's surface?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"1/5",
+         "answers":[
+            {
+               "1":"1/5",
+               "2":"1/2",
+               "3":"1/3"
+            }
+         ]
+      },
+      {
+         "question":"Tundra is the coldest of all the biomes. Which of the following are characteristics of tundra biomes? Check all that apply.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"high biotic diversity",
+         "answers":[
+            {
+               "1":"extremely cold climate",
+               "2":"high biotic diversity",
+               "3":"limitation of drainage"
+            }
+         ]
+      },
+      {
+         "question":"Work is being done only when a force is _______________ an object.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"moving",
+         "answers":[
+            {
+               "1":"with",
+               "2":"moving",
+               "3":"next to"
+            }
+         ]
+      },
+      {
+         "question":"Work is done when a force moves an object a certain ______________ .",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"distance",
+         "answers":[
+            {
+               "1":"distance",
+               "2":"energy",
+               "3":"temperature"
+            }
+         ]
+      },
+      {
+         "question":"When a moving object has the energy of motion it has this type of energy.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"kinetic energy",
+         "answers":[
+            {
+               "1":"high energy",
+               "2":"potential energy",
+               "3":"kinetic energy"
+            }
+         ]
+      },
+      {
+         "question":"True or False? Stored energy with the future ability to do work is called potential energy.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"True",
+         "answers":[
+            {
+               "1":"True",
+               "2":"False",
+               "3":"none"
+            }
+         ]
+      },
+      {
+         "question":"Which is NOT a form of energy?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"temperature energy",
+         "answers":[
+            {
+               "1":"light energy",
+               "2":"temperature energy",
+               "3":"mechanical energy"
+            }
+         ]
+      },
+      {
+         "question":"When kinetic energy is transferred from one marble to another, the second marble picks up what?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"kinetic energy",
+         "answers":[
+            {
+               "1":"electrical energy",
+               "2":"potential energy",
+               "3":"kinetic energy"
+            }
+         ]
+      },
+      {
+         "question":"What happens when energy is transferred?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"it changes form",
+         "answers":[
+            {
+               "1":"it changes form",
+               "2":"it loses form",
+               "3":"it gains energy"
+            }
+         ]
+      },
+      {
+         "question":"Chemical energy is converted to electrical energy in a ______________ .",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"battery",
+         "answers":[
+            {
+               "1":"light bulb",
+               "2":"toaster",
+               "3":"battery"
+            }
+         ]
+      },
+      {
+         "question":"What occurs when energy passes from one object to another?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"transformation",
+         "answers":[
+            {
+               "1":"potential energy",
+               "2":"kinetic energy",
+               "3":"transformation"
+            }
+         ]
+      },
+      {
+         "question":"What kind of scientist might match DNA samples to reunite a long lost child with his family?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Forensic science technician",
+         "answers":[
+            {
+               "1":"Geneticist",
+               "2":"Forensic science technician",
+               "3":"Chemist"
+            }
+         ]
+      },
+      {
+         "question":"In which science career might you track employee radiation exposure in the nuclear medicine wing of a hospital to ensure their safety?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Nuclear monitoring technician",
+         "answers":[
+            {
+               "1":"Nuclear monitoring technician",
+               "2":"Medical technician",
+               "3":"Nuclear engineer"
+            }
+         ]
+      },
+      {
+         "question":"In which science career might you analyze water samples for pollution?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Chemical technician",
+         "answers":[
+            {
+               "1":"Food scientist",
+               "2":"Occupational health and safety specialist",
+               "3":"Chemical technician"
+            }
+         ]
+      },
+      {
+         "question":"Which of these things might a physicist do?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"all of the above",
+         "answers":[
+            {
+               "1":"all of the above",
+               "2":"Design a laser to fix people's vision problems",
+               "3":"Develop fusion energy"
+            }
+         ]
+      },
+      {
+         "question":"What kind of scientist might develop an acne medication that kills pimple-causing bacteria?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Microbiologist",
+         "answers":[
+            {
+               "1":"Microbiologist",
+               "2":"Acneologist",
+               "3":"Minibiologist"
+            }
+         ]
+      },
+      {
+         "question":"In which science career might you teach a child how to manage his or her asthma?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Respiratory therapist",
+         "answers":[
+            {
+               "1":"Optometrist",
+               "2":"Pharmacist",
+               "3":"Respiratory therapist"
+            }
+         ]
+      },
+      {
+         "question":"Which of these things might an audiologist do?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"All of the above",
+         "answers":[
+            {
+               "1":"Screen newborns for hearing loss",
+               "2":"Fit people with hearing aids",
+               "3":"All of the above"
+            }
+         ]
+      },
+      {
+         "question":"In which science career might you create a special version of a medication for an allergic person?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pharmacist",
+         "answers":[
+            {
+               "1":"Physician",
+               "2":"Pharmacist",
+               "3":"Cytotechnologist"
+            }
+         ]
+      },
+      {
+         "question":"In which science career might you adjust a patient’s spinal alignment to relieve back pain.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"chiropractor",
+         "answers":[
+            {
+               "1":"chiropractor",
+               "2":"Pathologist",
+               "3":"Bioinformatics scientist"
+            }
+         ]
+      },
+      {
+         "question":"In which career might you examine the bones of prehistoric humans to determine their diet?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Anthropologist",
+         "answers":[
+            {
+               "1":"Physician",
+               "2":"Anthropologist",
+               "3":"Dietician"
+            }
+         ]
+      },
+      {
+         "question":"Which of these things would a cardiovascular technologist not do?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Design an artificial heart",
+         "answers":[
+            {
+               "1":"Design an artificial heart",
+               "2":"Assist a surgeon in implanting a pacemaker",
+               "3":"Assist with open heart surgery"
+            }
+         ]
+      },
+      {
+         "question":"Aluminum is found where on the periodic table?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"p-block",
+         "answers":[
+            {
+               "1":"s-block",
+               "2":"p-block",
+               "3":"d-block"
+            }
+         ]
+      },
+      {
+         "question":"Which element is not used to strengthen aluminum?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"nickel",
+         "answers":[
+            {
+               "1":"nickel",
+               "2":"copper",
+               "3":"zinc"
+            }
+         ]
+      },
+      {
+         "question":"Aluminum alloys have distinct properties. Which of the following isn't one of them?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"magnetic",
+         "answers":[
+            {
+               "1":"ductile",
+               "2":"recyclable",
+               "3":"magnetic"
+            }
+         ]
+      },
+      {
+         "question":"Pure aluminum is __________.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"soft",
+         "answers":[
+            {
+               "1":"both",
+               "2":"hard",
+               "3":"soft"
+            }
+         ]
+      },
+      {
+         "question":"Why is aluminum so popular in food services?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"All of the above",
+         "answers":[
+            {
+               "1":"It's non-toxic",
+               "2":"It's inexpensive",
+               "3":"All of the above"
+            }
+         ]
+      },
+      {
+         "question":"Aluminum is the ___________ most abundant element in the earth's crust.",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"third",
+         "answers":[
+            {
+               "1":"third",
+               "2":"second",
+               "3":"fourth"
+            }
+         ]
+      },
+      {
+         "question":"How long has aluminum been produced?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"100 years",
+         "answers":[
+            {
+               "1":"100 years",
+               "2":"50 years",
+               "3":"75 years"
+            }
+         ]
+      },
+      {
+         "question":"Aluminum's ability to be sterilized makes it useful in what particular industry?",
+         "category":"science",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"medicine",
+         "answers":[
+            {
+               "1":"medicine",
+               "2":"engines",
+               "3":"transportation"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"1s",
+         "rightAnswer":"Thomas Alva Edison",
+         "answers":[
+            {
+               "1":"Alexander Fleming",
+               "2":"Thomas Alva Edison",
+               "3":"Ernest Rutherford"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"2s",
+         "rightAnswer":"Leonardo da Vinci",
+         "answers":[
+            {
+               "1":"Nicolaus Copernicus",
+               "2":"Leonardo da Vinci",
+               "3":"Rene Descartes"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"3s",
+         "rightAnswer":"Alfred Nobel",
+         "answers":[
+            {
+               "1":"Alfred Nobel",
+               "2":"Alexander Fleming",
+               "3":"Niels Bohr"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"4s",
+         "rightAnswer":"Ernest Rutherford",
+         "answers":[
+            {
+               "1":"Albert Einstein",
+               "2":"Ernest Rutherford",
+               "3":"Alfred Nobel"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"5s",
+         "rightAnswer":"Alexander Graham Bell",
+         "answers":[
+            {
+               "1":"Alexander Fleming",
+               "2":"Thomas Alva Edison",
+               "3":"Alexander Graham Bell"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"6s",
+         "rightAnswer":"Blaise Pascal",
+         "answers":[
+            {
+               "1":"Edmund Halley",
+               "2":"James Watt",
+               "3":"Blaise Pascal"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"7s",
+         "rightAnswer":"Edmund Halley",
+         "answers":[
+            {
+               "1":"James Watt",
+               "2":"Benjamin Franklin",
+               "3":"Edmund Halley"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"8s",
+         "rightAnswer":"Nikola Tesla",
+         "answers":[
+            {
+               "1":"Blaise Pascal",
+               "2":"Ernest Rutherford",
+               "3":"Nikola Tesla"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"9s",
+         "rightAnswer":"Rene Descartes",
+         "answers":[
+            {
+               "1":"Edmund Halley",
+               "2":"James Watt",
+               "3":"Rene Descartes"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"10s",
+         "rightAnswer":"Sigmund Freud",
+         "answers":[
+            {
+               "1":"Sigmund Freud",
+               "2":"Alexander Graham Bell",
+               "3":"Alexander Fleming"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"11s",
+         "rightAnswer":"Andre-Marie Ampere",
+         "answers":[
+            {
+               "1":"Andre-Marie Ampere",
+               "2":"Antoine Laurent Lavoisier",
+               "3":"Alessandro Volta"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"12s",
+         "rightAnswer":"Antoni van Leeuwenhoek",
+         "answers":[
+            {
+               "1":"Tycho Brahe",
+               "2":"Antoni van Leeuwenhoek",
+               "3":"Joseph Louis Gay-Lussac"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"13s",
+         "rightAnswer":"Christiaan Huygens",
+         "answers":[
+            {
+               "1":"Andre-Marie Ampere",
+               "2":"Carl Sagan",
+               "3":"Christiaan Huygens"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"14s",
+         "rightAnswer":"Joseph Priestley",
+         "answers":[
+            {
+               "1":"Joseph Priestley",
+               "2":"Daniel Bernoulli",
+               "3":"Alessandro Volta"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"15s",
+         "rightAnswer":"Daniel Bernoulli",
+         "answers":[
+            {
+               "1":"Daniel Bernoulli",
+               "2":"Wilhelm Konrad Roentgen",
+               "3":"Charles Babbage"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"16s",
+         "rightAnswer":"Michael Faraday",
+         "answers":[
+            {
+               "1":"Ludwig Boltzmann",
+               "2":"Alessandro Volta",
+               "3":"Michael Faraday"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"17s",
+         "rightAnswer":"Joseph Priestley",
+         "answers":[
+            {
+               "1":"Erwin Schrodinger",
+               "2":"Joseph Priestley",
+               "3":"Charles Babbage"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"18s",
+         "rightAnswer":"Charles Babbage",
+         "answers":[
+            {
+               "1":"Anton van Leeuwenhoek",
+               "2":"Ludwig Boltzmann",
+               "3":"Charles Babbage"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"19s",
+         "rightAnswer":"Carl Linnaeus",
+         "answers":[
+            {
+               "1":"Wilhelm Konrad Roentgen",
+               "2":"Tycho Brahe",
+               "3":"Carl Linnaeus"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"20s",
+         "rightAnswer":"Claude Bernard",
+         "answers":[
+            {
+               "1":"Claude Bernard",
+               "2":"Daniel Bernoulli",
+               "3":"Antoine-Henri Becquerel"
+            }
+         ]
+      },
+      {
+         "question":"What is it ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"2048",
+         "rightAnswer":"Nuclear power plant",
+         "answers":[
+            {
+               "1":"Hydroelectric power station",
+               "2":"Nuclear power plant",
+               "3":"Tank"
+            }
+         ]
+      },
+      {
+         "question":"What is it ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"2049",
+         "rightAnswer":"Large Hadron Collider",
+         "answers":[
+            {
+               "1":"Large Hadron Collider",
+               "2":"Nuclear power plant",
+               "3":"Portal to other world"
+            }
+         ]
+      },
+      {
+         "question":"What is it ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"2050",
+         "rightAnswer":"The 3D printer for the press of organs",
+         "answers":[
+            {
+               "1":"Large Hadron Collider",
+               "2":"Refrigerator for organs",
+               "3":"The 3D printer for the press of organs"
+            }
+         ]
+      },
+      {
+         "question":"What is it ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"2051",
+         "rightAnswer":"The steam engine",
+         "answers":[
+            {
+               "1":"The steam engine",
+               "2":"The nuclear engine",
+               "3":"Machine for sewing"
+            }
+         ]
+      },
+      {
+         "question":"What is it ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"2052",
+         "rightAnswer":"The first satellite",
+         "answers":[
+            {
+               "1":"The first steam engine",
+               "2":"The first rocket",
+               "3":"The first satellite"
+            }
+         ]
+      },
+      {
+         "question":"What is it ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"2053",
+         "rightAnswer":"The first electric car",
+         "answers":[
+            {
+               "1":"The first engine",
+               "2":"The first electric car",
+               "3":"The first rocket"
+            }
+         ]
+      },
+      {
+         "question":"What is it ?",
+         "category":"science",
+         "isImage":true,
+         "imagePath":"2054",
+         "rightAnswer":"Large Hadron Collider",
+         "answers":[
+            {
+               "1":"Hydroelectric power station",
+               "2":"Nuclear power plant",
+               "3":"Large Hadron Collider"
+            }
+         ]
+      }
+   ]
+}

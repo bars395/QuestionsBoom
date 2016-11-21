@@ -1,0 +1,1495 @@
+{
+	"Questions":
+		[
+{ 
+	   "question":"Самый первый рэпер, получивший Оскар.",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Эминем (Eminem)",
+	   "answers": [ {
+			  "1":"50 Cent",
+			  "2":"Эминем (Eminem)",
+			  "3":"Xzibit"
+			}
+			]
+	 },
+{
+	   "question":"В каком году родился Доктор Дре (Dr. Dre)?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "1965",
+	   "answers": [ {
+			  "1":"1979",
+			  "2":"1965",
+			  "3":"1955"
+			}
+			]
+ },
+{
+	   "question":"Какая хип-хоп группа реально существует?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "D12",
+	   "answers": [ {
+			  "1":"D22",
+			  "2":"D12",
+			  "3":"D17"
+			}
+			]
+ },
+{
+	   "question":"Кёртис Джексон - под каким псевдонимом он более известен?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "50 Cent",
+	   "answers": [ {
+			  "1":"Pitbull",
+			  "2":"50 Cent",
+			  "3":"Jay Z"
+			}
+			]
+ },
+{
+	   "question":"Какой рэп-исполнитель из перечисленных не существует или известен меньше всех?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Yutani",
+	   "answers": [ {
+			  "1":"YG",
+			  "2":"Snoop Dogg",
+			  "3":"Yutani"
+			}
+			]
+ },
+{
+	   "question":"Какого из этих исполнителей называют создателем рэпа?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Кул Герк",
+	   "answers": [ {
+			  "1":"Тупак",
+			  "2":"Кул Герк",
+			  "3":"Эминем"
+			}
+			]
+ },
+{
+	   "question":"Сколько премий Грэмми (на момент 02.2015) получил Доктор Дре (Dr. Dre)?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "7",
+	   "answers": [ {
+			  "1":"2",
+			  "2":"5",
+			  "3":"7"
+			}
+			]
+ },
+{
+	   "question":"В каком году вышел альбом Эминема Infinite?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "1996",
+	   "answers": [ {
+			  "1":"2005",
+			  "2":"1996",
+			  "3":"2002"
+			}
+			]
+ },
+{
+	   "question":"Какая из этих российских групп, играющих в жанре рок, была образована раньше остальных?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Машина времени",
+	   "answers": [ {
+			  "1":"Король и шут",
+			  "2":"Машина времени",
+			  "3":"Аквариум"
+			}
+			]
+ },
+{
+	   "question":"Какая русская рок-группа исполняет песню Welcome aboard? (Песня на русском языке).",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Бригадный подряд",
+	   "answers": [ {
+			  "1":"Пилот",
+			  "2":"Бригадный подряд",
+			  "3":"КняZz"
+			}
+			]
+ },
+{
+	   "question":"Какая из этих групп никак не относится к Михаилу Горшеневу?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Пилот ",
+	   "answers": [ {
+			  "1":"Северный флот",
+			  "2":"Пилот ",
+			  "3":"Кукрыниксы"
+			}
+			]
+ },
+{
+	   "question":"\"Говорят, у мушкетеров только на уме...\" Что нужно поставить вместо многоточия, если верить Андрею Князеву?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Вино и женский пол",
+	   "answers": [ {
+			  "1":"Вести бои",
+			  "2":"Вино и женский пол",
+			  "3":"Бои и женский пол"
+			}
+			]
+	 },
+{
+	   "question":"Кто угощал мясом своих гостей, если верить Михаилу Горшеневу и группе Король и шут?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Конюх",
+	   "answers": [ {
+			  "1":"Охотник",
+			  "2":"Конюх",
+			  "3":"Лесник"
+			}
+			]
+ },
+{
+	   "question":"Дебютный альбом группы Битлз вышел в марте 1963 года. Как он назывался?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Please Please Me",
+	   "answers": [ {
+			  "1":"With The Beatles",
+			  "2":"Please Please Me",
+			  "3":"Meet The Beatles"
+			}
+			]
+ },
+{
+	   "question":"Альбом \"Please Please Me\" был записан в сжатые сроки. Сколько времени потребовалось на его запись?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "13 часов",
+	   "answers": [ {
+			  "1":"2 месяца",
+			  "2":"13 часов",
+			  "3":"3 дня"
+			}
+			]
+ },
+{
+	   "question":"Один из ранних альбомов группы Битлз состоял в основном из песен, написанных Джоном Ленноном. Как он назывался?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "A Hard Day's Night",
+	   "answers": [ {
+			  "1":"Help!",
+			  "2":"A Hard Day's Night",
+			  "3":"Please Please Me"
+			}
+			]
+ },
+{
+	   "question":"В 1964 году Джон Леннон стал известен не только как музыкант. На каком поприще он проявил ещё одну грань своего таланта?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "литература",
+	   "answers": [ {
+			  "1":"живопись",
+			  "2":"литература",
+			  "3":"фотография"
+			}
+			]
+ },
+{
+	   "question":"Как называлась первая группа, которую собрал Джон Леннон ещё в школе?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "The Quarrymen",
+	   "answers": [ {
+			  "1":"The Animals",
+			  "2":"The Quarrymen",
+			  "3":"The Rolling Stones"
+			}
+			]
+ },
+{
+	   "question":"Одна из первых песен, написанных Ленноном и Маккартни называлась \"Two Of Us\". В каком году эта песня вышла на пластинке?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "1970",
+	   "answers": [ {
+			  "1":"1970",
+			  "2":"1975",
+			  "3":"1965"
+			}
+			]
+ },
+{
+	   "question":"Какая группа исполняет песню Crazy?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Aerosmith",
+	   "answers": [ {
+			  "1":"Queen",
+			  "2":"Aerosmith",
+			  "3":"AC\\DC"
+			}
+			]
+ },
+{
+	   "question":"Какая группа исполняет песню Let it be?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "The Beatles",
+	   "answers": [ {
+			  "1":"The Rolling Stones",
+			  "2":"The Beatles",
+			  "3":"Deep Purple"
+			}
+			]
+ },
+{
+	   "question":"Какая группа исполняет песню Hotel California?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Eagles",
+	   "answers": [ {
+			  "1":"Manowar",
+			  "2":"Eagles",
+			  "3":"Led Zeppelin"
+			}
+			]
+ },
+{
+	   "question":"Какая группа исполняет песню Nothing Else Matters?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Metallica",
+	   "answers": [ {
+			  "1":"Black Sabatth",
+			  "2":"Metallica",
+			  "3":"Manowar"
+			}
+			]
+	 },
+{
+	   "question":"Какая группа исполняет песню Smells like teen spirit?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Nirvana",
+	   "answers": [ {
+			  "1":"Ozzy Ozborne",
+			  "2":"Nirvana",
+			  "3":"Rammstein"
+			}
+			]
+ },
+{
+	   "question":"Какая группа исполняет песню Numb?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Linkin Park",
+	   "answers": [ {
+			  "1":"30 second to Mars",
+			  "2":"Linkin Park",
+			  "3":"Muse"
+			}
+			]
+ },
+{
+	   "question":"Какая группа исполняет песню Duality?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Slipknot",
+	   "answers": [ {
+			  "1":"Marilyn Manson",
+			  "2":"Slipknot",
+			  "3":"Korn"
+			}
+			]
+ },
+{
+	   "question":"Какая группа исполняет песню Feeling Good?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Muse",
+	   "answers": [ {
+			  "1":"Limp Bizkit",
+			  "2":"Green Day",
+			  "3":"Muse"
+			}
+			]
+ },
+{
+	   "question":"Как на музыкальном жаргоне барабанщики называют двойную педаль для бас-барабана?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "кардан",
+	   "answers": [ {
+			  "1":"колотушка",
+			  "2":"кардан",
+			  "3":"велосипед"
+			}
+			]
+ },
+{
+	   "question":"Какой из этих инструментов в рок-группе наряду с барабанами составляет так называемую \"ритм-секцию\" или \"ритм-группу\"?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "бас-гитара",
+	   "answers": [ {
+			  "1":"соло-гитара",
+			  "2":"бас-гитара",
+			  "3":"клавишные"
+			}
+			]
+ },
+{
+	   "question":"Как в просторечии музыканты называют малый барабан?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "рабочий",
+	   "answers": [ {
+			  "1":"том",
+			  "2":"бочка",
+			  "3":"рабочий"
+			}
+			]
+ },
+{
+	   "question":"Звук какого перкуссионного инструмента достигается НЕ при помощи удара по нему?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "шейкер",
+	   "answers": [ {
+			  "1":"шейкер",
+			  "2":"бонго",
+			  "3":"ковбелл"
+			}
+			]
+ },
+{
+	   "question":"Лидер какой из этих культовых рок-групп был профессиональным ударником?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Genesis",
+	   "answers": [ {
+			  "1":"ZZ Top",
+			  "2":"Aerosmith",
+			  "3":"Genesis"
+			}
+			]
+ },
+{
+	   "question":"Какая из этих тарелок обычно является наименьшей по диаметру и имеет самый высокий звук?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "сплэш",
+	   "answers": [ {
+			  "1":"хай-хэт",
+			  "2":"райд",
+			  "3":"сплэш"
+			}
+			]
+ },
+{
+	   "question":"В рок-группах барабанщикам нередко доверяют исполнить какую-нибудь песню. А какую из этих песен спел ударник Битлз - Ринго Старр?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Yellow Submarine",
+	   "answers": [ {
+			  "1":"Help!",
+			  "2":"Michelle",
+			  "3":"Yellow Submarine"
+			}
+			]
+	 },
+{
+	   "question":"Один из величайших барабанщиков мира по имени Майк носит фамилию, созвучную одной прекрасной профессии. Какая же у него фамилия?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Портной",
+	   "answers": [ {
+			  "1":"Плотник",
+			  "2":"Портной",
+			  "3":"Рыбак"
+			}
+			]
+ },
+{
+	   "question":"Как переводится на русский язык название группы Depeche mode?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Вестник моды",
+	   "answers": [ {
+			  "1":"Быстрая мода",
+			  "2":"Вестник моды",
+			  "3":"Вестник перемен"
+			}
+			]
+ },
+{
+	   "question":"Как менялся состав Depeche mode на протяжении времени?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "4 - 4 - 3",
+	   "answers": [ {
+			  "1":"3 - 4 - 4",
+			  "2":"4 - 4 - 3",
+			  "3":"5 - 4 - 3 - 4"
+			}
+			]
+ },
+{
+	   "question":"Самая популярная песня Depeche mode?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Enjoy the Silence",
+	   "answers": [ {
+			  "1":"Personal Jesus",
+			  "2":"Enjoy the Silence",
+			  "3":"Stripped"
+			}
+			]
+ },
+{
+	   "question":"К какому жанру относится группа Depeche mode?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Синти поп",
+	   "answers": [ {
+			  "1":"Электро поп",
+			  "2":"Синти поп",
+			  "3":"Поп"
+			}
+			]
+ },
+{
+	   "question":"В какой стране зародилась Depeche mode?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Великобритания",
+	   "answers": [ {
+			  "1":"Америка",
+			  "2":"Великобритания",
+			  "3":"Германия"
+			}
+			]
+ },
+{
+	   "question":"Первый альбом Depeche mode назывался ...",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Speak & Spell",
+	   "answers": [ {
+			  "1":"Some Great Reward",
+			  "2":"Speak & Spell",
+			  "3":"Construction Time Again"
+			}
+			]
+ },
+{
+	   "question":"Какого репера из Германии побил Роман Жиган?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Shoock",
+	   "answers": [ {
+			  "1":"Shoock",
+			  "2":"1Klas",
+			  "3":"Ginex"
+			}
+			]
+ },
+{
+	   "question":"Как называется песня Басты про город?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Ростов",
+	   "answers": [ {
+			  "1":"Москва",
+			  "2":"Ростов",
+			  "3":"Краснодар"
+			}
+			]
+	 },
+{
+	   "question":"Какую из этих песен не писал Каста?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Урбан",
+	   "answers": [ {
+			  "1":"Метла",
+			  "2":"Урбан",
+			  "3":"Закрытый космос"
+			}
+			]
+ },
+{
+	   "question":"Как называется война между реперами?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Биф",
+	   "answers": [ {
+			  "1":"Риф",
+			  "2":"Биф",
+			  "3":"Диф"
+			}
+			]
+ },
+{
+	   "question":"Какую песню написал AK-47?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Предприниматель Люба",
+	   "answers": [ {
+			  "1":"Урбан",
+			  "2":"Предприниматель Люба",
+			  "3":"Спи спокойно, страна"
+			}
+			]
+ },
+{
+	   "question":"Кто из перечисленных не рэпер?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Ленинград",
+	   "answers": [ {
+			  "1":"Тимати",
+			  "2":"Ленинград",
+			  "3":"Баста"
+			}
+			]
+ },
+{
+	   "question":"Для кого была написана песня \"Ты кто такой, давай до свидания\"?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Филипп Киркоров",
+	   "answers": [ {
+			  "1":"Виктор Королев",
+			  "2":"Алексей Воробьев",
+			  "3":"Филипп Киркоров"
+			}
+			]
+ },
+{
+	   "question":"Как называется песня, в которой есть такие строки: «Споемте, друзья, ведь завтра в поход уйдем в предрассветный туман..»?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Вечер на рейде",
+	   "answers": [ {
+			  "1":"В дальнем рейсе",
+			  "2":"Вечер на рейде",
+			  "3":"Заветный камень"
+			}
+			]
+ },
+{
+	   "question":"Поэт, автор песни «Дороги».",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Лев Ошанин",
+	   "answers": [ {
+			  "1":"Лев Ошанин",
+			  "2":"Михаил Дудин",
+			  "3":"Николай Доризо"
+			}
+			]
+ },
+{
+	   "question":"Композитор, автор музыки к песне из к/ф «Два бойца» - «Темная ночь».",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Н. Богословский",
+	   "answers": [ {
+			  "1":"Н. Богословский",
+			  "2":"И.Дунаевский",
+			  "3":"В. Соловьев-Седой"
+			}
+			]
+	 },
+{
+	   "question":"Что случилось с участником группы Дискотека Авария Олегом Жуковым?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Он умер",
+	   "answers": [ {
+			  "1":"Ничего с ним не случилось",
+			  "2":"Его арестовали пожизненно",
+			  "3":"Он умер"
+			}
+			]
+ },
+{
+	   "question":"В песне \"Америка Европа\" группы Дискотека Авария использован мотив песенки из знаменитого советского мультфильма. Из какого?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "В синем море, в белой пене",
+	   "answers": [ {
+			  "1":"Летучий корабль",
+			  "2":"Винни-Пух",
+			  "3":"В синем море, в белой пене"
+			}
+			]
+ },
+{
+	   "question":"Кто формирует бессменный состав группы \"Scorpions\"?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Р. Шенкер, К. Майне, М. Ябс",
+	   "answers": [ {
+			  "1":"Р. Шенкер, М. Шенкер, К.Майне",
+			  "2":"Р. Шенкер, К. Майне, М. Ябс",
+			  "3":"Р. Шенкер, К. Майне, Дж. Коттак"
+			}
+			]
+ },
+{
+	   "question":"Кто из состава \"Scorpions\" родился не в Ганновере?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Рудольф Шенкер",
+	   "answers": [ {
+			  "1":"Франсис Бухгольц",
+			  "2":"Рудольф Шенкер",
+			  "3":"Маттиас Ябс"
+			}
+			]
+ },
+{
+	   "question":"Барабанщик Герман Раребелл покинул группу \"Scorpions\" во время записи этого альбома. Цитата: \"Я отказываюсь играть это дерьмо\". Что это за альбом?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Pure Instinct",
+	   "answers": [ {
+			  "1":"Eye II Eye",
+			  "2":"Face The Heat",
+			  "3":"Pure Instinct"
+			}
+			]
+ },
+{
+	   "question":"В каком альбоме присутсвует песня на немецком языке \"Scorpions\"?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Eye II Eye",
+	   "answers": [ {
+			  "1":"Crazy World",
+			  "2":"Eye II Eye",
+			  "3":"Taken By Force"
+			}
+			]
+ },
+{
+	   "question":"Армин в 16 лет создал свой первый ремикс. Он решил отправить его одному известному DJ. Кто этот DJ?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Бен Либрант",
+	   "answers": [ {
+			  "1":"Бен Либрант",
+			  "2":"Бени Бенасси",
+			  "3":"Жан-Мишель Жарр"
+			}
+			]
+	 },
+{
+	   "question":"Сколько раз Армин ван Бюрен был №1 в мире в ТОП-100 DJ по версии журнала DJ Magazine?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "5",
+	   "answers": [ {
+			  "1":"7",
+			  "2":"5",
+			  "3":"2"
+			}
+			]
+ },
+{
+	   "question":"В каком году выходит в радио-эфир радио-шоу \"A State Of Trance\", которое сейчас вещается на 25 радиостанциях?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "2001",
+	   "answers": [ {
+			  "1":"2001",
+			  "2":"2004",
+			  "3":"2006"
+			}
+			]
+ },
+{
+	   "question":"Каким видом спорта Армин увлекался в детстве?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Футбол",
+	   "answers": [ {
+			  "1":"Настольный тенис",
+			  "2":"Футбол",
+			  "3":"Плавание"
+			}
+			]
+ },
+{
+	   "question":"В какой студийный альбом вошла всемирно известная и хитовая композиция \"In and Out of Love\"?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Imagine: The Remixes",
+	   "answers": [ {
+			  "1":"Imagine: The Remixes",
+			  "2":"Mirage: The Remixes",
+			  "3":"76"
+			}
+			]
+ },
+{
+	   "question":"Сколько стран посетил Армин, проводя мировой тур \"Armin Only. Mirage\" в поддержку своего альбома \"Mirage\"?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "15",
+	   "answers": [ {
+			  "1":"12",
+			  "2":"15",
+			  "3":"10"
+			}
+			]
+
+ },
+{
+	   "question":"Как назывался дебютный альбом диджея Тиесто?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "In my memory",
+	   "answers": [ {
+			  "1":"Just be",
+			  "2":"In my memory",
+			  "3":"Kaleidoscope"
+			}
+			]
+ },
+{
+	   "question":"На какие олимпийские игры пригласили выступать Тиесто",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Афины-2004",
+	   "answers": [ {
+			  "1":"Пекин-2008",
+			  "2":"Афины-2004",
+			  "3":"Турин-2006"
+			}
+			]
+ },
+{
+	   "question":"Совместно с каким музыкантом был записан сингл \"In the dark\"?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Кристиан Бёрнс",
+	   "answers": [ {
+			  "1":"Кристиан Бёрнс",
+			  "2":"Армин ван Бюрен",
+			  "3":"Йохан Гайлен"
+			}
+			]
+ },
+{
+	   "question":"Как называется радиошоу, выпущенное Тиесто?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Club life",
+	   "answers": [ {
+			  "1":"Dj Club",
+			  "2":"Club",
+			  "3":"Club life"
+			}
+			]
+ },
+{
+	   "question":"По какой причине были прерваны концерты Тиесто в Майами и Новом Орлеане в 2005 году?",
+	   "category":"music",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Из-за урагана",
+	   "answers": [ {
+			  "1":"Из-за урагана",
+			  "2":"Из-за наводнения",
+			  "3":"Из-за смерча"
+			}
+			]
+	 },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м1",
+	   "rightAnswer": "Бритни Спирс",
+	   "answers": [ {
+			  "1":"Тейлор Сфифт",
+			  "2":"Бритни Спирс",
+			  "3":"Тейлор Спирс"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м2",
+	   "rightAnswer": "Кристина Агилера",
+	   "answers": [ {
+			  "1":"Нора Джонс",
+			  "2":"Шакира",
+			  "3":"Кристина Агилера"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м3",
+	   "rightAnswer": "Шакира",
+	   "answers": [ {
+			  "1":"Шакира",
+			  "2":"Уитни Хьюстон",
+			  "3":"Нора Макклай"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м4",
+	   "rightAnswer": "Тейлор Момсен",
+	   "answers": [ {
+			  "1":"Тейлор Момсен",
+			  "2":"Джессика Альба",
+			  "3":"Джоан Ньюбер"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м5",
+	   "rightAnswer": "Мадонна",
+	   "answers": [ {
+			  "1":"Алиса Брент",
+			  "2":"Мадонна",
+			  "3":"Джинжер Брент"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м6",
+	   "rightAnswer": "Пикси Лотт",
+	   "answers": [ {
+			  "1":"Пикси Лотт",
+			  "2":"Пинк",
+			  "3":"Натали Орейро"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м7",
+	   "rightAnswer": "Рианна",
+	   "answers": [ {
+			  "1":"Джессика Альба",
+			  "2":"Рианна",
+			  "3":"Шакира"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м8",
+	   "rightAnswer": "Бейонсе",
+	   "answers": [ {
+			  "1":"Бейонсе",
+			  "2":"Рианна",
+			  "3":"Шакира"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м9",
+	   "rightAnswer": "Леди Гага",
+	   "answers": [ {
+			  "1":"Леди Гага",
+			  "2":"Алишия Кис",
+			  "3":"Нора Брюгер"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м10",
+	   "rightAnswer": "Джениффер Лопез",
+	   "answers": [ {
+			  "1":"Джениффер Лопез",
+			  "2":"Эрика",
+			  "3":"Джесика Лопез"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м11",
+	   "rightAnswer": "Эминем",
+	   "answers": [ {
+			  "1":"Эминем",
+			  "2":"Джастин Бибер",
+			  "3":"Тиесто"
+			}
+			]
+	 },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м12",
+	   "rightAnswer": "Джастин Бибер",
+	   "answers": [ {
+			  "1":"Эминем",
+			  "2":"Эгнесиас Линк",
+			  "3":"Джастин Бибер"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м13",
+	   "rightAnswer": "Элвис Пресли",
+	   "answers": [ {
+			  "1":"Элвис Пресли",
+			  "2":"Курт Кобейн",
+			  "3":"Адам Бенрико"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м14",
+	   "rightAnswer": "Джастин Тимберлейк",
+	   "answers": [ {
+			  "1":"Джастин Тимберлейк",
+			  "2":"Дрейк",
+			  "3":"Джаред Лето"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м15",
+	   "rightAnswer": "Курт Кобейн",
+	   "answers": [ {
+			  "1":"Курт Кобейн",
+			  "2":"Алэкс Банд",
+			  "3":"Элвис Пресли"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м16",
+	   "rightAnswer": "Майкл Джексон",
+	   "answers": [ {
+			  "1":"Майкл Джексон",
+			  "2":"Эдвард Лав",
+			  "3":"Дрейк"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м17",
+	   "rightAnswer": "Jay Z",
+	   "answers": [ {
+			  "1":"Джерими",
+			  "2":"50 cent",
+			  "3":"Jay Z"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м18",
+	   "rightAnswer": "Боб Дилан",
+	   "answers": [ {
+			  "1":"Боб Дилан",
+			  "2":"Элвис Пресли",
+			  "3":"Курт Кобейн"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м19",
+	   "rightAnswer": "Стинг",
+	   "answers": [ {
+			  "1":"Джордж Харисон",
+			  "2":"Курт Кобейн",
+			  "3":"Стинг"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м20",
+	   "rightAnswer": "Джордж Харрисон",
+	   "answers": [ {
+			  "1":"Джордж Харрисон",
+			  "2":"Стинг",
+			  "3":"Энрико Эгласиас"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м21",
+	   "rightAnswer": "Снуп Дог",
+	   "answers": [ {
+			  "1":"Снуп Дог",
+			  "2":"Канье Уэст",
+			  "3":"50 cent"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м22",
+	   "rightAnswer": "50 cent",
+	   "answers": [ {
+			  "1":"Snoop Dog",
+			  "2":"50 cent",
+			  "3":"Xzibit"
+			}
+			]
+	 },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м23",
+	   "rightAnswer": "Xzibit",
+	   "answers": [ {
+			  "1":"50 cent",
+			  "2":"Xzibit",
+			  "3":"Snoop Dog"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м24",
+	   "rightAnswer": "Канье Уэст",
+	   "answers": [ {
+			  "1":"Канье Уэст",
+			  "2":"50 cent",
+			  "3":"Jay Z"
+			}
+			]
+ },
+{
+	   "question":"Кто изображен на фотографии ?",
+	   "category":"music",
+	   "isImage":true,
+	   "imagePath":"м25",
+	   "rightAnswer": "Тиесто",
+	   "answers": [ {
+			  "1":"Тиесто",
+			  "2":"Мартин Гэрикс",
+			  "3":"Эминем"
+			}
+			]
+
+		 },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5000",
+         "rightAnswer": "Тимати",
+         "answers": [{
+                     "1": "Мот",
+                     "2": "Тимати",
+                     "3": "L'0ne"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5001",
+         "rightAnswer": "L'0ne",
+         "answers": [{
+                     "1": "L'0ne",
+                     "2": "Монатик",
+                     "3": "Иван Дорн"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5002",
+         "rightAnswer": "Мот",
+         "answers": [{
+                     "1": "Егор Крид",
+                     "2": "Монатик",
+                     "3": "Мот"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5003",
+         "rightAnswer": "Тина Кароль",
+         "answers": [{
+                     "1": "Ани Лорак",
+                     "2": "Тина Кароль",
+                     "3": "Анна Седакова"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5004",
+         "rightAnswer": "Ани Лорак",
+         "answers": [{
+                     "1": "Ани Лорак",
+                     "2": "Тина Кароль",
+                     "3": "Анна Седакова"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5005",
+         "rightAnswer": "Егор Крид",
+         "answers": [{
+                     "1": "Егор Крид",
+                     "2": "Монатик",
+                     "3": "Мот"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5006",
+         "rightAnswer": "Иван Дорн",
+         "answers": [{
+                     "1": "Егор Крид",
+                     "2": "Монатик",
+                     "3": "Иван Дорн"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5007",
+         "rightAnswer": "Светлана Лобода",
+         "answers": [{
+                     "1": "Светлана Лобода",
+                     "2": "Тина Кароль",
+                     "3": "Анна Седакова"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5008",
+         "rightAnswer": "Настя Каменских",
+         "answers": [{
+                     "1": "Светлана Лобода",
+                     "2": "Настя Каменских",
+                     "3": "Анна Седакова"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5009",
+         "rightAnswer": "Анна Седакова",
+         "answers": [{
+                     "1": "Светлана Лобода",
+                     "2": "Настя Каменских",
+                     "3": "Анна Седакова"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5010",
+         "rightAnswer": "Полина Гагарина",
+         "answers": [{
+                     "1": "Полина Гагарина",
+                     "2": "Настя Каменских",
+                     "3": "Анна Седакова"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5011",
+         "rightAnswer": "Джастин Тимберлейк",
+         "answers": [{
+                     "1": "Джастин Тимберлейк",
+                     "2": "Джастин Бибер",
+                     "3": "Джаред Лето"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5012",
+         "rightAnswer": "Рианна",
+         "answers": [{
+                     "1": "Бейонсе",
+                     "2": "Рианна",
+                     "3": "Дженнифер лопес"
+                     }
+                     ]
+         },{
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5013",
+         "rightAnswer": "Леди Гага",
+         "answers": [{
+                     "1": "Леди Гага",
+                     "2": "Дженнифер лопес",
+                     "3": "Бейонсе"
+                     }
+                     ]
+         },{
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5014",
+         "rightAnswer": "Дженнифер лопес",
+         "answers": [{
+                     "1": "Дженнифер лопес",
+                     "2": "Бейонсе",
+                     "3": "Рианна"
+                     }
+                     ]
+         },{
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5015",
+         "rightAnswer": "Бейонсе",
+         "answers": [{
+                     "1": "Дженнифер лопес",
+                     "2": "Бейонсе",
+                     "3": "Рианна"
+                     }
+                     ]
+         },{
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5016",
+         "rightAnswer": "Джастин Бибер",
+         "answers": [{
+                     "1": "Джастин Тимберлейк",
+                     "2": "Джастин Бибер",
+                     "3": "Джаред Лето"
+                     }
+                     ]
+         },{
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5017",
+         "rightAnswer": "Шакира",
+         "answers": [{
+                     "1": "Дженнифер лопес",
+                     "2": "Шакира",
+                     "3": "Рианна"
+                     }
+                     ]
+         },{
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5018",
+         "rightAnswer": "Скриллекс",
+         "answers": [{
+                     "1": "Стив Аоки",
+                     "2": "Скриллекс",
+                     "3": "Мартин Гэррикс"
+                     }
+                     ]
+         },{
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5019",
+         "rightAnswer": "Стив Аоки",
+         "answers": [{
+                     "1": "Стив Аоки",
+                     "2": "Скриллекс",
+                     "3": "Мартин Гэррикс"
+                     }
+                     ]
+         },
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5020",
+         "rightAnswer": "Мартин Гэррикс",
+         "answers": [{
+                     "1": "Стив Аоки",
+                     "2": "Скриллекс",
+                     "3": "Мартин Гэррикс"
+                     }
+                     ]
+         }, 
+         {
+         "question": "Кто изображен на фотографии?",
+         "category": "Music",
+         "isImage": true,
+         "imagePath":"5050",
+         "rightAnswer": "Джаред Лето",
+         "answers": [{
+                     "1": "Джастин Тимберлейк",
+                     "2": "Джаред Лето",
+                     "3": "Джастин Бибер"
+                     }
+                     ]
+         }
+         ]
+}

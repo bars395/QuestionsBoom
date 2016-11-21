@@ -1,0 +1,536 @@
+﻿{
+   "Questions":[
+      {
+         "question":"What traditionally is a stuffing for Christmas goose?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Apple",
+         "answers":[
+            {
+               "1":"Apple",
+               "2":"Orange",
+               "3":"Cherry"
+            }
+         ]
+      },
+      {
+         "question":"What is the best meat from the following?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Marble",
+         "answers":[
+            {
+               "1":"Marble",
+               "2":"Granite",
+               "3":"Gold"
+            }
+         ]
+      },
+      {
+         "question":"What alcoholic drink is the sugar cane used in?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Kashas",
+         "answers":[
+            {
+               "1":"Tequila",
+               "2":"Kashas",
+               "3":"Grappa"
+            }
+         ]
+      },
+      {
+         "question":"What wines have the greatest endurance from the following?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Collection",
+         "answers":[
+            {
+               "1":"Branded",
+               "2":"Sustained",
+               "3":"Collection"
+            }
+         ]
+      },
+      {
+         "question":"Which of the following does refer to cheese?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Suluguni",
+         "answers":[
+            {
+               "1":"Suluguni",
+               "2":"Mazzoni",
+               "3":"Sacivi"
+            }
+         ]
+      },
+      {
+         "question":"What aroma of drink is usually described with the word \"bouquet\"? ",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Wine",
+         "answers":[
+            {
+               "1":"Vodka",
+               "2":"Wine",
+               "3":"Beer"
+            }
+         ]
+      },
+      {
+         "question":"What drink is made from a sugar cane?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Rum",
+         "answers":[
+            {
+               "1":"Gin",
+               "2":"Cognac",
+               "3":"Rum"
+            }
+         ]
+      },
+      {
+         "question":"What do you get in a restaurant if you order the foie gras?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"A goose liver",
+         "answers":[
+            {
+               "1":"A goose liver",
+               "2":"Lamb",
+               "3":"Cheese"
+            }
+         ]
+      },
+      {
+         "question":"What is a chocolate bar from the following?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"\"Mars\"",
+         "answers":[
+            {
+               "1":"\"Mercury\"",
+               "2":"\"Venus\"",
+               "3":"\"Mars\""
+            }
+         ]
+      },
+      {
+         "question":"what product from the following does contain in 100g more calories?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Butter",
+         "answers":[
+            {
+               "1":"Bread",
+               "2":"Butter",
+               "3":"Potatoes"
+            }
+         ]
+      },
+      {
+         "question":"What is a fish soup from the following?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"bouillabaisse",
+         "answers":[
+            {
+               "1":"consomme",
+               "2":"julienne",
+               "3":"bouillabaisse"
+            }
+         ]
+      },
+      {
+         "question":"What does refer to bourbon whiskey from the following?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"\"Jim Beam\"",
+         "answers":[
+            {
+               "1":"\"Jim Beam\"",
+               "2":"\"Johnnie Walker\"",
+               "3":"\"Long John\""
+            }
+         ]
+      },
+      {
+         "question":"What home appliance is used by hostesses in Honolulu to make octopus meat more gentle?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Washing machine",
+         "answers":[
+            {
+               "1":"Iron",
+               "2":"Washing machine",
+               "3":"Hair dryer"
+            }
+         ]
+      },
+      {
+         "question":"What cutting do British traditionally prepare beefsteak from?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"From beef",
+         "answers":[
+            {
+               "1":"From pork",
+               "2":"From lamb",
+               "3":"From beef"
+            }
+         ]
+      },
+      {
+         "question":"From what is risotto cooked in Italy?",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Rice",
+         "answers":[
+            {
+               "1":"Millet",
+               "2":"Rice",
+               "3":"Pasta"
+            }
+         ]
+      },
+      {
+         "question":"What citrus is used for preparation cocktail \"Mojito\"? ",
+         "category":"Food and drinks",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Lime",
+         "answers":[
+            {
+               "1":"Orange",
+               "2":"Lime",
+               "3":"Lemon"
+            }
+         ]
+      },
+      {
+         "question":"How is a damp towel called  which is given Japanese before meal?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"52",
+         "rightAnswer":"Osimori",
+         "answers":[
+            {
+               "1":"Kusiyaka",
+               "2":"Osimori",
+               "3":"Natto"
+            }
+         ]
+      },
+      {
+         "question":"What country does falafel come from?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"54",
+         "rightAnswer":"Egypt",
+         "answers":[
+            {
+               "1":"Egypt",
+               "2":"Greece",
+               "3":"Israel"
+            }
+         ]
+      },
+      {
+         "question":"The traditional closed pizza \"Calzone\" appeared in the region ...",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"55",
+         "rightAnswer":"Apulia",
+         "answers":[
+            {
+               "1":"Emilia-Romagna",
+               "2":"Piedmont",
+               "3":"Apulia"
+            }
+         ]
+      },
+      {
+         "question":"From what plant is tequila produced?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"56",
+         "rightAnswer":"A blue agave",
+         "answers":[
+            {
+               "1":"Feijoa",
+               "2":"Cactus",
+               "3":"A blue agave"
+            }
+         ]
+      },
+      {
+         "question":"In what country did this dessert appear?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"57",
+         "rightAnswer":"France",
+         "answers":[
+            {
+               "1":"Italy",
+               "2":"Spain",
+               "3":"France"
+            }
+         ]
+      },
+      {
+         "question":"What kind of cheese is represented in the picture?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"58",
+         "rightAnswer":"Camembert cheese",
+         "answers":[
+            {
+               "1":"Cheese Austrian",
+               "2":"Cheesecake",
+               "3":"Camembert cheese"
+            }
+         ]
+      },
+      {
+         "question":"What is it?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"60",
+         "rightAnswer":"Double Cheeseburger",
+         "answers":[
+            {
+               "1":"Burger",
+               "2":"Double Cheeseburger",
+               "3":"Cheesecake"
+            }
+         ]
+      },
+      {
+         "question":"What is it?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"61",
+         "rightAnswer":"Meringue",
+         "answers":[
+            {
+               "1":"The Italian garlic",
+               "2":"Meringue",
+               "3":"Cheesecake"
+            }
+         ]
+      },
+      {
+         "question":"Of what country is the national dish represented in the picture?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"63",
+         "rightAnswer":"Italy",
+         "answers":[
+            {
+               "1":"Spain",
+               "2":"Mexico",
+               "3":"Italy"
+            }
+         ]
+      },
+      {
+         "question":"In what country were first cheesecakes?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"64",
+         "rightAnswer":"Ancient Greece",
+         "answers":[
+            {
+               "1":"Ancient Greece",
+               "2":"New York (USA)",
+               "3":"Barcelona (Spain)"
+            }
+         ]
+      },
+      {
+         "question":"This sea creature is often cooked at the expensive restaurants. How is it called?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"650",
+         "rightAnswer":"Lobster",
+         "answers":[
+            {
+               "1":"Crab",
+               "2":"Shrimp",
+               "3":"Lobster"
+            }
+         ]
+      },
+      {
+         "question":"How are these sea creatures called?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"660",
+         "rightAnswer":"Shrimps",
+         "answers":[
+            {
+               "1":"Crabs",
+               "2":"Lobsters",
+               "3":"Shrimps"
+            }
+         ]
+      },
+      {
+         "question":"How is it called?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"670",
+         "rightAnswer":"Sushi",
+         "answers":[
+            {
+               "1":"Pizza",
+               "2":"Sushi",
+               "3":"Paella"
+            }
+         ]
+      },
+      {
+         "question":"Sushi is the national dish of ...",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"670",
+         "rightAnswer":"Japan",
+         "answers":[
+            {
+               "1":"Japan",
+               "2":"China",
+               "3":"Thailand"
+            }
+         ]
+      },
+      {
+         "question":"Paste is the national dish of ...",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"680",
+         "rightAnswer":"Italy",
+         "answers":[
+            {
+               "1":"Spain",
+               "2":"Ireland",
+               "3":"Italy"
+            }
+         ]
+      },
+      {
+         "question":"Of what country is the paella a national dish?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"690",
+         "rightAnswer":"Spain",
+         "answers":[
+            {
+               "1":"Spain",
+               "2":"Mexico",
+               "3":"Argentina"
+            }
+         ]
+      },
+      {
+         "question":"How is this Spanish drink called?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"700",
+         "rightAnswer":"Sangria",
+         "answers":[
+            {
+               "1":"Mangriya",
+               "2":"Sangria",
+               "3":"Tangriya"
+            }
+         ]
+      },
+      {
+         "question":"In what country did people begin to cook this dish in large quantities at first?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"710",
+         "rightAnswer":"USA",
+         "answers":[
+            {
+               "1":"Germany",
+               "2":"Australia",
+               "3":"USA"
+            }
+         ]
+      },
+      {
+         "question":"Peking Duck. In what country is this dish appeared?",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"720",
+         "rightAnswer":"China",
+         "answers":[
+            {
+               "1":"Japan",
+               "2":"China",
+               "3":"Thailand"
+            }
+         ]
+      },
+      {
+         "question":"Doner-kebab is the national dish of ... ",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"730",
+         "rightAnswer":"Turkey",
+         "answers":[
+            {
+               "1":"Mongolia",
+               "2":"Turkey",
+               "3":"Armenia"
+            }
+         ]
+      },
+      {
+         "question":"Vienna schnitzel is the national dish of ...",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"740",
+         "rightAnswer":"Austria",
+         "answers":[
+            {
+               "1":"Germany",
+               "2":"Netherlands",
+               "3":"Austria"
+            }
+         ]
+      },
+      {
+         "question":"Goulash is the national dish of ...",
+         "category":"Food and drinks",
+         "isImage":true,
+         "imagePath":"750",
+         "rightAnswer":"Hungary",
+         "answers":[
+            {
+               "1":"Hungary",
+               "2":"Bulgaria",
+               "3":"Poland"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,1180 @@
+﻿{
+   "Questions":[
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"1f",
+         "rightAnswer":"Brad Pitt",
+         "answers":[
+            {
+               "1":"Josh Hartnett",
+               "2":"Brad Pitt",
+               "3":"Matt Damon"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"223",
+         "rightAnswer":"Benjamin Franklin",
+         "answers":[
+            {
+               "1":"George Washington",
+               "2":"Benjamin Franklin",
+               "3":"Abraham Lincoln"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"224",
+         "rightAnswer":"Donald Trump",
+         "answers":[
+            {
+               "1":"Barack Obama",
+               "2":"Donald Trump",
+               "3":"George Washington"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"225",
+         "rightAnswer":"Franklin Roosevelt",
+         "answers":[
+            {
+               "1":"Abraham Lincoln",
+               "2":"Franklin Roosevelt",
+               "3":"Benjamin Franklin"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"226",
+         "rightAnswer":"Hillary Clinton",
+         "answers":[
+            {
+               "1":"Angela Merkel",
+               "2":"Hillary Clinton",
+               "3":"Dilma Rousseff"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"227",
+         "rightAnswer":"Angela Merkel",
+         "answers":[
+            {
+               "1":"Angela Merkel",
+               "2":"Hillary Clinton",
+               "3":"Michelle Bachelet"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"228",
+         "rightAnswer":"Barack Obama",
+         "answers":[
+            {
+               "1":"Barack Obama",
+               "2":"Donald Trump",
+               "3":"George Washington"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"2f",
+         "rightAnswer":"Meryl Streep",
+         "answers":[
+            {
+               "1":"Helen Mirren",
+               "2":"Glenn Close",
+               "3":"Meryl Streep"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"3f",
+         "rightAnswer":"Madonna",
+         "answers":[
+            {
+               "1":"Madonna",
+               "2":"Courtney Love",
+               "3":"Sarah Jessica Parker"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"4f",
+         "rightAnswer":"Nicolas Cage",
+         "answers":[
+            {
+               "1":"Jonathan Ross",
+               "2":"David Schwimmer",
+               "3":"Nicolas Cage"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"5f",
+         "rightAnswer":"Beyonce Knowles",
+         "answers":[
+            {
+               "1":"Rihanna",
+               "2":"Beyonce Knowles",
+               "3":"Rita Ora"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"6f",
+         "rightAnswer":"Paul McCartney",
+         "answers":[
+            {
+               "1":"Paul McCartney",
+               "2":"George Harrison",
+               "3":"Ringo Starr"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"7f",
+         "rightAnswer":"Cameron Diaz",
+         "answers":[
+            {
+               "1":"Kate Hudson",
+               "2":"Uma Thurman",
+               "3":"Cameron Diaz"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"8f",
+         "rightAnswer":"David Hasselhoff",
+         "answers":[
+            {
+               "1":"David Hasselhoff",
+               "2":"Tom Cruise",
+               "3":"George Clooney"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"9f",
+         "rightAnswer":"Dakota Fanning",
+         "answers":[
+            {
+               "1":"Dakota Fanning",
+               "2":"Ariana Grande",
+               "3":"Miley Cyrus"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"10f",
+         "rightAnswer":"Ariana Grande",
+         "answers":[
+            {
+               "1":"Miley Cyrus",
+               "2":"Ariana Grande",
+               "3":"Dakota Fanning"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"11f",
+         "rightAnswer":"Miley Cyrus",
+         "answers":[
+            {
+               "1":"Ariana Grande",
+               "2":"Miley Cyrus",
+               "3":"Dakota Fanning"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"12f",
+         "rightAnswer":"Emma Roberts",
+         "answers":[
+            {
+               "1":"Emma Roberts",
+               "2":"Miley Cyrus",
+               "3":"Dakota Fanning"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"13f",
+         "rightAnswer":"Hayden Panettiere",
+         "answers":[
+            {
+               "1":"Hayden Panettiere",
+               "2":"Dakota Fanning",
+               "3":"Emma Roberts"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"14f",
+         "rightAnswer":"Emma Stone",
+         "answers":[
+            {
+               "1":"Emma Stone",
+               "2":"Emma Roberts",
+               "3":"Dakota Fanning"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"15f",
+         "rightAnswer":"Ellen Page",
+         "answers":[
+            {
+               "1":"Ellen Page",
+               "2":"Emma Roberts",
+               "3":"Dakota Fanning"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"16f",
+         "rightAnswer":"Lindsay Lohan",
+         "answers":[
+            {
+               "1":"Lindsay Lohan",
+               "2":"Emma Roberts",
+               "3":"Ellen Page"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"17f",
+         "rightAnswer":"Keira Knightley",
+         "answers":[
+            {
+               "1":"Keira Knightley",
+               "2":"Scarlett Johansson",
+               "3":"Lindsay Lohan"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"18f",
+         "rightAnswer":"Scarlett Johansson",
+         "answers":[
+            {
+               "1":"Scarlett Johansson",
+               "2":"Keira Knightley",
+               "3":"Lindsay Lohan"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"19f",
+         "rightAnswer":"Mila Kunis",
+         "answers":[
+            {
+               "1":"Mila Kunis",
+               "2":"Scarlett Johansson",
+               "3":"Keira Knightley"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"20f",
+         "rightAnswer":"Jessica Biel",
+         "answers":[
+            {
+               "1":"Jessica Biel",
+               "2":"Keira Knightley",
+               "3":"Mila Kunis"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"21f",
+         "rightAnswer":"Natalie Portman",
+         "answers":[
+            {
+               "1":"Natalie Portman",
+               "2":"Mila Kunis",
+               "3":"Jessica Biel"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"23f",
+         "rightAnswer":"Christina Ricci",
+         "answers":[
+            {
+               "1":"Christina Ricci",
+               "2":"Jessica Biel",
+               "3":"Natalie Portman"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"22f",
+         "rightAnswer":"Evangeline Lilly",
+         "answers":[
+            {
+               "1":"Evangeline Lilly",
+               "2":"Natalie Portman",
+               "3":"Christina Ricci"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"24f",
+         "rightAnswer":"Katie Holmes",
+         "answers":[
+            {
+               "1":"Katie Holmes",
+               "2":"Evangeline Lilly",
+               "3":"Christina Ricci"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"25f",
+         "rightAnswer":"Liv Tyler",
+         "answers":[
+            {
+               "1":"Liv Tyler",
+               "2":"Christina Ricci",
+               "3":"Katie Holmes"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"26f",
+         "rightAnswer":"Isla Fisher",
+         "answers":[
+            {
+               "1":"Christina Ricci",
+               "2":"Isla Fisher",
+               "3":"Katie Holmes"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"27f",
+         "rightAnswer":"Drew Barrymore",
+         "answers":[
+            {
+               "1":"Isla Fisher",
+               "2":"Katie Holmes",
+               "3":"Drew Barrymore"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"28f",
+         "rightAnswer":"Penelope Cruz",
+         "answers":[
+            {
+               "1":"Drew Barrymore",
+               "2":"Penelope Cruz",
+               "3":"Isla Fisher"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"29f",
+         "rightAnswer":"Kate Beckinsale",
+         "answers":[
+            {
+               "1":"Isla Fisher",
+               "2":"Penelope Cruz",
+               "3":"Kate Beckinsale"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"30f",
+         "rightAnswer":"Winona Ryder",
+         "answers":[
+            {
+               "1":"Penelope Cruz",
+               "2":"Winona Ryder",
+               "3":"Kate Beckinsale"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"31f",
+         "rightAnswer":"Heather Graham",
+         "answers":[
+            {
+               "1":"Winona Ryder",
+               "2":"Kate Beckinsale",
+               "3":"Heather Graham"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"32f",
+         "rightAnswer":"Catherine Zeta-Jones",
+         "answers":[
+            {
+               "1":"Catherine Zeta-Jones",
+               "2":"Heather Graham",
+               "3":"Winona Ryder"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"33f",
+         "rightAnswer":"Naomi Watts",
+         "answers":[
+            {
+               "1":"Winona Ryder",
+               "2":"Naomi Watts",
+               "3":"Catherine Zeta-Jones"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"34f",
+         "rightAnswer":"Julia Roberts",
+         "answers":[
+            {
+               "1":"Catherine Zeta-Jones",
+               "2":"Naomi Watts",
+               "3":"Julia Roberts"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"35f",
+         "rightAnswer":"Halle Berry",
+         "answers":[
+            {
+               "1":"Halle Berry",
+               "2":"Julia Roberts",
+               "3":"Naomi Watts"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"36f",
+         "rightAnswer":"Brooke Shields",
+         "answers":[
+            {
+               "1":"Naomi Watts",
+               "2":"Brooke Shields",
+               "3":"Halle Berry"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"37f",
+         "rightAnswer":"Sandra Bullock",
+         "answers":[
+            {
+               "1":"Brooke Shields",
+               "2":"Sandra Bullock",
+               "3":"Halle Berry"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"38f",
+         "rightAnswer":"Phoebe Cates",
+         "answers":[
+            {
+               "1":"Brooke Shields",
+               "2":"Phoebe Cates",
+               "3":"Sandra Bullock"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"39f",
+         "rightAnswer":"Demi Moore",
+         "answers":[
+            {
+               "1":"Brooke Shields",
+               "2":"Sandra Bullock",
+               "3":"Demi Moore"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"40f",
+         "rightAnswer":"Heather Locklear",
+         "answers":[
+            {
+               "1":"Demi Moore",
+               "2":"Sandra Bullock",
+               "3":"Heather Locklear"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"41f",
+         "rightAnswer":"Daryl Hannah",
+         "answers":[
+            {
+               "1":"Sandra Bullock",
+               "2":"Daryl Hannah",
+               "3":"Heather Locklear"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"42f",
+         "rightAnswer":"Emma Thompson",
+         "answers":[
+            {
+               "1":"Heather Locklea",
+               "2":"Emma Thompson",
+               "3":"Daryl Hannah"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"43f",
+         "rightAnswer":"Sharon Stone",
+         "answers":[
+            {
+               "1":"Heather Locklea",
+               "2":"Daryl Hannah",
+               "3":"Sharon Stone"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"44f",
+         "rightAnswer":"Melanie Griffith",
+         "answers":[
+            {
+               "1":"Heather Locklea",
+               "2":"Daryl Hannah",
+               "3":"Melanie Griffith"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"45f",
+         "rightAnswer":"Carrie Fisher",
+         "answers":[
+            {
+               "1":"Heather Locklea",
+               "2":"Melanie Griffith",
+               "3":"Carrie Fisher"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"46f",
+         "rightAnswer":"Kate Mulgrew",
+         "answers":[
+            {
+               "1":"Carrie Fisher",
+               "2":"Melanie Griffith",
+               "3":"Kate Mulgrew"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"47f",
+         "rightAnswer":"Kim Basinger",
+         "answers":[
+            {
+               "1":"Kate Mulgrew",
+               "2":"Melanie Griffith",
+               "3":"Kim Basinger"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"48f",
+         "rightAnswer":"Mary Ellen Trainor",
+         "answers":[
+            {
+               "1":"Kim Basinger",
+               "2":"Melanie Griffith",
+               "3":"Mary Ellen Trainor"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"49f",
+         "rightAnswer":"Beverly D'Angelo",
+         "answers":[
+            {
+               "1":"Kim Basinger",
+               "2":"Mary Ellen Trainor",
+               "3":"Beverly D'Angelo"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"50f",
+         "rightAnswer":"Jessica Lange",
+         "answers":[
+            {
+               "1":"Mary Ellen Trainor",
+               "2":"Beverly D'Angelo",
+               "3":"Jessica Lange"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"51f",
+         "rightAnswer":"Bill Gates",
+         "answers":[
+            {
+               "1":"Bob Marley",
+               "2":"Bill Gates",
+               "3":"Tony Hawk"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"52f",
+         "rightAnswer":"Bob Marley",
+         "answers":[
+            {
+               "1":"Tony Hawk",
+               "2":"Bob Marley",
+               "3":"Andrew Wilinghton"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"53f",
+         "rightAnswer":"Tony Hawk",
+         "answers":[
+            {
+               "1":"Andrew Wilinghton",
+               "2":"Tony Hawk",
+               "3":"John Trincky"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"54f",
+         "rightAnswer":"Yasser Arafat",
+         "answers":[
+            {
+               "1":"Yasser Holiff",
+               "2":"Yasser Arafat",
+               "3":"Yasser Arabvill"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"55f",
+         "rightAnswer":"Salvador Dali",
+         "answers":[
+            {
+               "1":"John Trincky",
+               "2":"Salvador Dali",
+               "3":"Christian Humerr"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"56f",
+         "rightAnswer":"Michael Palin",
+         "answers":[
+            {
+               "1":"Salvador Dali",
+               "2":"Michael Palin",
+               "3":"Christian Humerr"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"57f",
+         "rightAnswer":"Lech Walesa",
+         "answers":[
+            {
+               "1":"Michael Palin",
+               "2":"Lech Walesa",
+               "3":"Salvador Dali"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"58f",
+         "rightAnswer":"Vince Lombardi",
+         "answers":[
+            {
+               "1":"Michael Palin",
+               "2":"Vince Lombardi",
+               "3":"Lech Walesa"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"59f",
+         "rightAnswer":"Steve McQueen",
+         "answers":[
+            {
+               "1":"Vince Lombardi",
+               "2":"Michael Palin",
+               "3":"Steve McQueen"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"60f",
+         "rightAnswer":"Kurt Vonnegut",
+         "answers":[
+            {
+               "1":"Steve McQueen",
+               "2":"Vince Lombardi",
+               "3":"Kurt Vonnegut"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"61f",
+         "rightAnswer":"David Lynch",
+         "answers":[
+            {
+               "1":"Kurt Vonnegu",
+               "2":"Steve McQueen",
+               "3":"David Lynch"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"62f",
+         "rightAnswer":"Groucho Marx",
+         "answers":[
+            {
+               "1":"Steve McQueen",
+               "2":"David Lynch",
+               "3":"Groucho Marx"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"63f",
+         "rightAnswer":"Fidel Castro",
+         "answers":[
+            {
+               "1":"Groucho Marx",
+               "2":"David Lynch",
+               "3":"Fidel Castro"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"64f",
+         "rightAnswer":"Walt Disney",
+         "answers":[
+            {
+               "1":"Fidel Castro",
+               "2":"Groucho Marx",
+               "3":"Walt Disney"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"65f",
+         "rightAnswer":"Ernest Hemingway",
+         "answers":[
+            {
+               "1":"Groucho Marx",
+               "2":"Walt Disney",
+               "3":"Ernest Hemingway"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"66f",
+         "rightAnswer":"Gene Kelly",
+         "answers":[
+            {
+               "1":"Walt Disney",
+               "2":"Ernest Hemingway",
+               "3":"Gene Kelly"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"67f",
+         "rightAnswer":"Jerry Seinfeld",
+         "answers":[
+            {
+               "1":"Ernest Hemingway",
+               "2":"Gene Kelly",
+               "3":"Jerry Seinfeld"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"68f",
+         "rightAnswer":"Mikhail Gorbachev",
+         "answers":[
+            {
+               "1":"Jerry Seinfeld",
+               "2":"Gene Kelly",
+               "3":"Mikhail Gorbachev"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"69f",
+         "rightAnswer":"Boris Becker",
+         "answers":[
+            {
+               "1":"Mikhail Gorbachev",
+               "2":"Gene Kelly",
+               "3":"Boris Becker"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"70f",
+         "rightAnswer":"Johnny Cash",
+         "answers":[
+            {
+               "1":"Jerry Seinfeld",
+               "2":"Boris Becker",
+               "3":"Johnny Cash"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"71f",
+         "rightAnswer":"Cristiano Ronaldo",
+         "answers":[
+            {
+               "1":"Johnny Cash",
+               "2":"Cristiano Ronaldo",
+               "3":"Cristian Cash"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"223",
+         "rightAnswer":"Benjamin Franklin",
+         "answers":[
+            {
+               "1":"George Washington",
+               "2":"Benjamin Franklin",
+               "3":"Abraham Lincoln"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"224",
+         "rightAnswer":"Donald Trump",
+         "answers":[
+            {
+               "1":"Barack Obama",
+               "2":"Donald Trump",
+               "3":"George Washington"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"225",
+         "rightAnswer":"Franklin Roosevelt",
+         "answers":[
+            {
+               "1":"Abraham Lincoln",
+               "2":"Franklin Roosevelt",
+               "3":"Benjamin Franklin"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"226",
+         "rightAnswer":"Hillary Clinton",
+         "answers":[
+            {
+               "1":"Angela Merkel",
+               "2":"Hillary Clinton",
+               "3":"Dilma Rousseff"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"227",
+         "rightAnswer":"Angela Merkel",
+         "answers":[
+            {
+               "1":"Angela Merkel",
+               "2":"Hillary Clinton",
+               "3":"Michelle Bachelet"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"228",
+         "rightAnswer":"Barack Obama",
+         "answers":[
+            {
+               "1":"Barack Obama",
+               "2":"Donald Trump",
+               "3":"George Washington"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"figure",
+         "isImage":true,
+         "imagePath":"72f",
+         "rightAnswer":"Bruce Lee",
+         "answers":[
+            {
+               "1":"Jackie Chan",
+               "2":"Bruce Lee",
+               "3":"John Lee"
+            }
+         ]
+      }
+   ]
+}

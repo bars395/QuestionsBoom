@@ -1,0 +1,1124 @@
+﻿{
+   "Questions":[
+      {
+         "question":"Is it true, that we can see only one side of the Moon ?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"125",
+         "rightAnswer":"True",
+         "answers":[
+            {
+               "1":"True",
+               "2":"False",
+               "3":"Unknown"
+            }
+         ]
+      },
+      {
+         "question":"What planet weighs more than the other planets and moons together in the solar system?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jupiter",
+         "answers":[
+            {
+               "1":"Saturn",
+               "2":"Jupiter",
+               "3":"Uranus"
+            }
+         ]
+      },
+      {
+         "question":"what is the most distant object from the Earth in the universe  which is visible to the naked eye?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Andromeda's galaxy",
+         "answers":[
+            {
+               "1":"Sun",
+               "2":"Moon",
+               "3":"Andromeda's galaxy"
+            }
+         ]
+      },
+      {
+         "question":"Which planet of the solar system is the largest cyclone observed on?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jupiter",
+         "answers":[
+            {
+               "1":"Neptune",
+               "2":"Saturn",
+               "3":"Jupiter"
+            }
+         ]
+      },
+      {
+         "question":"A gas cloud the \"Eagle\" contains enough alcohol in constellation to create 200 ... beer liters",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"113",
+         "rightAnswer":"septillion",
+         "answers":[
+            {
+               "1":"millions",
+               "2":"billions",
+               "3":"septillion"
+            }
+         ]
+      },
+      {
+         "question":"Look at the image and how do astronomers call it?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"114",
+         "rightAnswer":"Black hole (Quasar)",
+         "answers":[
+            {
+               "1":"Photon radiation",
+               "2":"Black hole (Quasar)",
+               "3":"Star dust"
+            }
+         ]
+      },
+      {
+         "question":"The border of a black hole from which light can't escape, is called....",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"115",
+         "rightAnswer":"Horizon of events",
+         "answers":[
+            {
+               "1":"The visual horizon",
+               "2":"Edge of singularity",
+               "3":"Horizon of events"
+            }
+         ]
+      },
+      {
+         "question":"On what planet of the Solar system is the largest canyon?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Mariner's valley on Mars",
+         "answers":[
+            {
+               "1":"Mariner's valley on Mars",
+               "2":"An anonymous canyon on the Moon",
+               "3":"Grand Canyon in the USA"
+            }
+         ]
+      },
+      {
+         "question":"What space object was cleaned from the list of planets?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pluto",
+         "answers":[
+            {
+               "1":"Uranium",
+               "2":"Mercury",
+               "3":"Pluto"
+            }
+         ]
+      },
+      {
+         "question":"On what surface planet  of the Solar system is the most high temperature?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Venus",
+         "answers":[
+            {
+               "1":"Mars",
+               "2":"Venus",
+               "3":"Pluto"
+            }
+         ]
+      },
+      {
+         "question":"On what planet of the Solar system is the highest mountain?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"On Mars. It is Olympe's volcano",
+         "answers":[
+            {
+               "1":"Earth. Mount Chomolungma",
+               "2":"The anonymous mountain on the Moon",
+               "3":"On Mars. It is Olympe's volcano"
+            }
+         ]
+      },
+      {
+         "question":"What planet, except Venus, does rotate around the Sun aside, opposite to rotation of all other planets?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Uranium",
+         "answers":[
+            {
+               "1":"Neptune",
+               "2":"Uranium",
+               "3":"Earth"
+            }
+         ]
+      },
+      {
+         "question":"Call the planet of the Solar system which has the shortest day",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jupiter",
+         "answers":[
+            {
+               "1":"Earth",
+               "2":"Mars",
+               "3":"Jupiter"
+            }
+         ]
+      },
+      {
+         "question":"On what planet of the Solar system have astronomers observed the brightest polar light?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jupiter",
+         "answers":[
+            {
+               "1":"Saturn",
+               "2":"Earth",
+               "3":"Jupiter"
+            }
+         ]
+      },
+      {
+         "question":"How are very small and very dense stars called which represent a final stage of evolution of stars ?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"White dwarfs",
+         "answers":[
+            {
+               "1":"White dwarfs",
+               "2":"Black dwarfs",
+               "3":"White satellites"
+            }
+         ]
+      },
+      {
+         "question":"What two planets of the Solar system haven't natural satellites?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Mercury and Venus",
+         "answers":[
+            {
+               "1":"Mercury and Venus",
+               "2":"Mars and Earth",
+               "3":"Jupiter and Saturn"
+            }
+         ]
+      },
+      {
+         "question":"What name have big stars?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Red giants",
+         "answers":[
+            {
+               "1":"Blue giants",
+               "2":"Black holes",
+               "3":"Red giants"
+            }
+         ]
+      },
+      {
+         "question":"What planet of the Solar system has the name of the Greek God in 760 times more in the volume of the Earth  which isn't capable to drown even in kerosene?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Saturn",
+         "answers":[
+            {
+               "1":"Neptune",
+               "2":"Uranium",
+               "3":"Saturn"
+            }
+         ]
+      },
+      {
+         "question":"On what surface of a space object are such names : sea of Tranquillity, ocean of Storms, Dream bog, lake of Death?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Moon",
+         "answers":[
+            {
+               "1":"Earth",
+               "2":"Moon",
+               "3":"Mars"
+            }
+         ]
+      },
+      {
+         "question":"How are shooting stars called scientifically ?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"A meteoric rain",
+         "answers":[
+            {
+               "1":"Not called",
+               "2":"A cometary rain",
+               "3":"A meteoric rain"
+            }
+         ]
+      },
+      {
+         "question":"Babylonians called it \"A forest bird\", Arabs — \"Chicken\". And how do we call this constellation?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Constellation of a swan",
+         "answers":[
+            {
+               "1":"Constellation of a swan",
+               "2":"Constellation of a goose",
+               "3":"Constellation of a baby bird"
+            }
+         ]
+      },
+      {
+         "question":"How much time will match be burned on the moon?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"It won't burn",
+         "answers":[
+            {
+               "1":"It won't burn",
+               "2":"Infinitely",
+               "3":"As well as on the earth"
+            }
+         ]
+      },
+      {
+         "question":"What geometric shape has our planet?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"On egg",
+         "answers":[
+            {
+               "1":"On egg",
+               "2":"On a round ball",
+               "3":"On a bagel"
+            }
+         ]
+      },
+      {
+         "question":"What is the closest planet to the sun?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Mercury",
+         "answers":[
+            {
+               "1":"Mercury",
+               "2":"Mars",
+               "3":"Venus"
+            }
+         ]
+      },
+      {
+         "question":"What is the most distant planet from the sun if we can consider it as the planet?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pluto",
+         "answers":[
+            {
+               "1":"Pluto",
+               "2":"Earth",
+               "3":"Saturn"
+            }
+         ]
+      },
+      {
+         "question":"What is the smallest planet of the Solar system if we can consider it as the planet?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pluto",
+         "answers":[
+            {
+               "1":"Pluto",
+               "2":"Earth",
+               "3":"Mars"
+            }
+         ]
+      },
+      {
+         "question":"What is the biggest planet of the Solar system?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jupiter",
+         "answers":[
+            {
+               "1":"Earth",
+               "2":"Saturn",
+               "3":"Jupiter"
+            }
+         ]
+      },
+      {
+         "question":"What star is the closest to the earth?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Sun",
+         "answers":[
+            {
+               "1":"Sun",
+               "2":"Moon",
+               "3":"Andromeda"
+            }
+         ]
+      },
+      {
+         "question":"If you send the container from the Earth weighing 120 kg to the Moon, how many people will be able to transfer this freight?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"two or more",
+         "answers":[
+            {
+               "1":"seven or more",
+               "2":"five or more",
+               "3":"two or more"
+            }
+         ]
+      },
+      {
+         "question":"What is the form of any liquid in zero gravity?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Sphere",
+         "answers":[
+            {
+               "1":"Sphere",
+               "2":"Any",
+               "3":"Similar on a square"
+            }
+         ]
+      },
+      {
+         "question":"How is our galaxy called?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Milky Way",
+         "answers":[
+            {
+               "1":"Milky Way",
+               "2":"A solar galaxy",
+               "3":"Prometheus"
+            }
+         ]
+      },
+      {
+         "question":"Have the  stars only one color?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"No",
+         "answers":[
+            {
+               "1":"Yes",
+               "2":"No",
+               "3":"is not known"
+            }
+         ]
+      },
+      {
+         "question":"What is the reason for the craters appearance  on the moon?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"From collisions with meteorites",
+         "answers":[
+            {
+               "1":"Eruption of volcanoes",
+               "2":"From collisions with meteorites",
+               "3":"Test of the nuclear weapon"
+            }
+         ]
+      },
+      {
+         "question":"What the chemical element does prevail as a part of the sun?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Hydrogen",
+         "answers":[
+            {
+               "1":"Oxygen",
+               "2":"Helium",
+               "3":"Hydrogen"
+            }
+         ]
+      },
+      {
+         "question":"How is the place calle where space missiles, satellites, interplanetary stations are launched?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Spaceport",
+         "answers":[
+            {
+               "1":"Spaceport",
+               "2":"Airfield",
+               "3":"Window"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of the first astronaut?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Gagarin, USSR",
+         "answers":[
+            {
+               "1":"Armstrong. USA",
+               "2":"Gagarin, USSR",
+               "3":"Tereshkova, USSR"
+            }
+         ]
+      },
+      {
+         "question":"How do we call the Chinese astronauts?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Taykonaut",
+         "answers":[
+            {
+               "1":"Astronauts",
+               "2":"Cosmonaut",
+               "3":"Taykonaut"
+            }
+         ]
+      },
+      {
+         "question":"What planet of the Solar system is called the Red planet?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Mars",
+         "answers":[
+            {
+               "1":"Venus",
+               "2":"Mars",
+               "3":"Neptune"
+            }
+         ]
+      },
+      {
+         "question":" From what country are the representatives landed  on the Moon surface ?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"USA",
+         "answers":[
+            {
+               "1":"USA",
+               "2":"Russia",
+               "3":"China"
+            }
+         ]
+      },
+      {
+         "question":"What science does study: stars, the Galaxy, the stellar sky?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Astronomy",
+         "answers":[
+            {
+               "1":"Archeology",
+               "2":"Astronomy",
+               "3":"Political science"
+            }
+         ]
+      },
+      {
+         "question":"What units is the distance between stars measured in ?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"In light years",
+         "answers":[
+            {
+               "1":"In sound speed",
+               "2":"In light years",
+               "3":"In kilometers per hour"
+            }
+         ]
+      },
+      {
+         "question":"How is the group of stars called?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Constellation",
+         "answers":[
+            {
+               "1":"Constellation",
+               "2":"Parade of planets",
+               "3":"An asteroid belt"
+            }
+         ]
+      },
+      {
+         "question":"This star is one of the brightest stars in the sky. What constellation is the star Sirius in?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"\"Canis Major\"",
+         "answers":[
+            {
+               "1":"\"Prometheus\"",
+               "2":"\"Canis Major\"",
+               "3":"\"Andromeda\""
+            }
+         ]
+      },
+      {
+         "question":"How is the loss of weight during the stay in space called?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"weightlessness",
+         "answers":[
+            {
+               "1":"Incomprehensibility",
+               "2":"weightlessness",
+               "3":"A gravitational bias"
+            }
+         ]
+      },
+      {
+         "question":"How is the astronomical device for studying of heavenly objects called?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Telescope",
+         "answers":[
+            {
+               "1":"Telescope",
+               "2":"Kaleidoscope",
+               "3":"Microscope"
+            }
+         ]
+      },
+      {
+         "question":"What object of the solar systems has lost the right to be called as the planet in 2006?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pluto",
+         "answers":[
+            {
+               "1":"Mercury",
+               "2":"Pluto",
+               "3":"Venus"
+            }
+         ]
+      },
+      {
+         "question":"What planet has a hurricane which is lasting nearly 350 years?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jupiter",
+         "answers":[
+            {
+               "1":"Saturn",
+               "2":"Mars",
+               "3":"Jupiter"
+            }
+         ]
+      },
+      {
+         "question":"How is the Star system called which includes the Sun?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Galaxy",
+         "answers":[
+            {
+               "1":"Crater",
+               "2":"Galaxy",
+               "3":"Constellation"
+            }
+         ]
+      },
+      {
+         "question":" \"The small step is for the person and a huge step - for mankind\" - What does it mean?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Disembarkation on the moon",
+         "answers":[
+            {
+               "1":"About long legs of astronafts",
+               "2":"Disembarkation in Normandy",
+               "3":"Disembarkation on the moon"
+            }
+         ]
+      },
+      {
+         "question":"If the moon appears between the Earth and the Sun, how do we call this phenomenon?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"A solar eclipse",
+         "answers":[
+            {
+               "1":"A solar eclipse",
+               "2":"Black holes",
+               "3":"A lunar eclipse"
+            }
+         ]
+      },
+      {
+         "question":"The object of the solar system consists of ice and dust",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Comet",
+         "answers":[
+            {
+               "1":"Asteroid",
+               "2":"Constellation",
+               "3":"Comet"
+            }
+         ]
+      },
+      {
+         "question":"Who gave names for the constellations?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ancient Greek astronomers",
+         "answers":[
+            {
+               "1":"The famous student of Harvard",
+               "2":"Ancient Greek astronomers",
+               "3":"People with the telescope"
+            }
+         ]
+      },
+      {
+         "question":"A gas sphere which is letting out enormous amount of heat and light is called ...",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Star",
+         "answers":[
+            {
+               "1":"Mercury",
+               "2":"Earth",
+               "3":"Star"
+            }
+         ]
+      },
+      {
+         "question":"How are the big boulders rotating around the Sun called?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Asteroids",
+         "answers":[
+            {
+               "1":"Comets",
+               "2":"Asteroids",
+               "3":"Satellites"
+            }
+         ]
+      },
+      {
+         "question":" What distance from the Earth does the space begin at?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"150 km",
+         "answers":[
+            {
+               "1":"20 km",
+               "2":"70 km",
+               "3":"150 km"
+            }
+         ]
+      },
+      {
+         "question":"What celestial objects do the ancient Greeks call \"wandering\"?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Planets",
+         "answers":[
+            {
+               "1":"Comets",
+               "2":"Planets",
+               "3":"Asteroids"
+            }
+         ]
+      },
+      {
+         "question":"What animal didn't fly to space: dog, cat, monkey, rabbit, turtle?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Rabbit",
+         "answers":[
+            {
+               "1":"Cat",
+               "2":"Turtle",
+               "3":"Rabbit"
+            }
+         ]
+      },
+      {
+         "question":"How old was the first astronaut Yu. A. Gagarin when he departed to space?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"27 years",
+         "answers":[
+            {
+               "1":"38 years",
+               "2":"27 years",
+               "3":"25 years"
+            }
+         ]
+      },
+      {
+         "question":" What year was April 12 proclaimed in as \"The day of astronautics\"?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"In 1961",
+         "answers":[
+            {
+               "1":"In 1978",
+               "2":"In 1971",
+               "3":"In 1961"
+            }
+         ]
+      },
+      {
+         "question":"How many minutes did the  flight of the first astronaut Yu. A. Gagarin proceed?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"108 minutes",
+         "answers":[
+            {
+               "1":"366 minutes",
+               "2":"277 minutes",
+               "3":"108 minutes"
+            }
+         ]
+      },
+      {
+         "question":"What science does research the Universe?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Cosmology",
+         "answers":[
+            {
+               "1":"Cosmology",
+               "2":"Astronomy",
+               "3":"Astrology"
+            }
+         ]
+      },
+      {
+         "question":"How are people called in the USA who fly to space?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Astronauts",
+         "answers":[
+            {
+               "1":"Cosmonauts",
+               "2":"Taykonauts",
+               "3":"Astronauts"
+            }
+         ]
+      },
+      {
+         "question":"Who can be met in space?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"The white dwarf",
+         "answers":[
+            {
+               "1":"The lilac elf",
+               "2":"The white dwarf",
+               "3":"The green gnome"
+            }
+         ]
+      },
+      {
+         "question":"Where can you meet the sea of rains?",
+         "category":"astronomy",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Moon",
+         "answers":[
+            {
+               "1":"Moon",
+               "2":"Mars",
+               "3":"Venus"
+            }
+         ]
+      },
+      {
+         "question":"How is this planet called?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"41",
+         "rightAnswer":"Mars",
+         "answers":[
+            {
+               "1":"Venus",
+               "2":"Mars",
+               "3":"Jupiter"
+            }
+         ]
+      },
+      {
+         "question":"How is such congestion of stars called?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"42",
+         "rightAnswer":"Galaxy",
+         "answers":[
+            {
+               "1":"A black hole",
+               "2":"Galaxy",
+               "3":"A meteoric rain"
+            }
+         ]
+      },
+      {
+         "question":"How is this valley called?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"43",
+         "rightAnswer":"Mariner's valley",
+         "answers":[
+            {
+               "1":"Mariner's valley",
+               "2":"California",
+               "3":"Grand Canyon(USA)"
+            }
+         ]
+      },
+      {
+         "question":"How is this object called?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"44",
+         "rightAnswer":"Comet",
+         "answers":[
+            {
+               "1":"Star",
+               "2":"Comet",
+               "3":"The white dwarf"
+            }
+         ]
+      },
+      {
+         "question":"Who is this man?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"46",
+         "rightAnswer":"Yury Gagarin",
+         "answers":[
+            {
+               "1":"Neil Armstrong",
+               "2":"Yury Gagarin",
+               "3":"Michael Collins"
+            }
+         ]
+      },
+      {
+         "question":"How is this phenomenon called?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"47",
+         "rightAnswer":"A solar eclipse",
+         "answers":[
+            {
+               "1":"A terrestrial eclipse",
+               "2":"A lunar eclipse",
+               "3":"A solar eclipse"
+            }
+         ]
+      },
+      {
+         "question":"How is such space travelers called?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"48",
+         "rightAnswer":"Taykonauts",
+         "answers":[
+            {
+               "1":"Taykonauts",
+               "2":"Astronauts",
+               "3":"Cosmonauts"
+            }
+         ]
+      },
+      {
+         "question":"Thanks to NASA we had an opportunity to look at this dwarf planet under absolutely new corner. And what is it?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"116",
+         "rightAnswer":"Pluto",
+         "answers":[
+            {
+               "1":"Moon",
+               "2":"Pluto",
+               "3":"Mars"
+            }
+         ]
+      },
+      {
+         "question":"What are the Saturn's Rings made Of?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"117",
+         "rightAnswer":"Ice and dust",
+         "answers":[
+            {
+               "1":"Ice and dust",
+               "2":"Huge asteroids",
+               "3":"Fragments of satellites"
+            }
+         ]
+      },
+      {
+         "question":"What is it?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"118",
+         "rightAnswer":"Shuttle",
+         "answers":[
+            {
+               "1":"Shuttle",
+               "2":"Rocket",
+               "3":"Satellite"
+            }
+         ]
+      },
+      {
+         "question":"What is it?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"120",
+         "rightAnswer":"Satellite",
+         "answers":[
+            {
+               "1":"Shuttle",
+               "2":"Radiolocator",
+               "3":"Satellite"
+            }
+         ]
+      },
+      {
+         "question":"What is it?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"119",
+         "rightAnswer":"Rocket",
+         "answers":[
+            {
+               "1":"Shuttle",
+               "2":"Rocket",
+               "3":"Satellite"
+            }
+         ]
+      },
+      {
+         "question":"What is it?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"121",
+         "rightAnswer":"Spacesuit",
+         "answers":[
+            {
+               "1":"Spacesuit",
+               "2":"Armor",
+               "3":"Diving suit"
+            }
+         ]
+      },
+      {
+         "question":"John Glenn became the first American astronaut who made the flight to the space. When did it happen?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"122",
+         "rightAnswer":"February 20, 1962",
+         "answers":[
+            {
+               "1":"February 20, 1962",
+               "2":"January 20, 1963",
+               "3":"June 20th, 1964"
+            }
+         ]
+      },
+      {
+         "question":"How is this device called?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"123",
+         "rightAnswer":"Moon rover",
+         "answers":[
+            {
+               "1":"Sport car",
+               "2":"All-terrain vehicle",
+               "3":"Moon rover"
+            }
+         ]
+      },
+      {
+         "question":"How is this planet called ?",
+         "category":"astronomy",
+         "isImage":true,
+         "imagePath":"126",
+         "rightAnswer":"Jupiter",
+         "answers":[
+            {
+               "1":"Jupiter",
+               "2":"Earth",
+               "3":"Saturn"
+            }
+         ]
+      }
+   ]
+}

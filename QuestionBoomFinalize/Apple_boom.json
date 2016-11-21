@@ -1,0 +1,853 @@
+{
+    "Questions":
+    [
+{
+	   "question":"Сколько человек основало Apple",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Три",
+	   "answers": [ {
+			  "1":"Один",
+			  "2":"Два",
+			  "3":"Три"
+			}
+			]
+	 },
+{
+	   "question":"Вставьте пропущенное имя. У Стива Джобса и Джонатана Айва одно и то же среднее имя — ...",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Пол",
+	   "answers": [ {
+			  "1":"Стив",
+			  "2":"Пол",
+			  "3":"Джон"
+			}
+			]
+	 },
+{
+	   "question":"Оригинальный Apple 1 компьютер был продан за ... ",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "$666.66",
+	   "answers": [ {
+			  "1":"$444.44",
+			  "2":"$555.55",
+			  "3":"$666.66"
+			}
+			]
+	 },
+
+{
+	   "question":"Вставьте пропущенное слово. Apple Store, который находится на Пятой авеню в Манхэттене (тот самый прозрачный куб), считается одним из самых ... достопримечательностей в мире.",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "фотографируемых",
+	   "answers": [ {
+			  "1":"фотографируемых",
+			  "2":"посещаемых",
+			  "3":"высоких"
+			}
+			]
+	 },
+
+{
+	   "question":"Стив Джобс пробовал ... и называл это одной из трех важнейших вещей, которые он делал в своей жизни.",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "ЛСД",
+	   "answers": [ {
+			  "1":"Метанфетамин",
+			  "2":"Кокс",
+			  "3":"ЛСД"
+			}
+			]
+	 },
+{
+	   "question":"Вставьте пропущенное название. До того, как основать Apple, Стив Джобс работал в ...",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Atari",
+	   "answers": [ {
+			  "1":"Atari",
+			  "2":"Starbucks",
+			  "3":"Microsoft"
+			}
+			]
+	 },
+{
+	   "question":"Вставьте пропущенное слово. Стив Джобс был ...",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Буддистом",
+	   "answers": [ {
+			  "1":"Буддистом",
+			  "2":"Неверующим",
+			  "3":"Христианином"
+			}
+			]
+	 },
+{
+	   "question":"Вставьте пропущенное имя. Родным отцом Стиву Джобсу приходится сирийский мусульманин ...",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Абдулфаттах Джандали",
+	   "answers": [ {
+			  "1":"Кульсум Абдул",
+			  "2":"Карим Абдуль-Джаббар",
+			  "3":"Абдулфаттах Джандали"
+			}
+			]
+	 },
+{
+	   "question":"Стив Джобс познакомился со Стивом Возняком, когда Джобсу было ... , а Возняку 21.",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "16",
+	   "answers": [ {
+			  "1":"14",
+			  "2":"16",
+			  "3":"18"
+			}
+			]
+	 },
+
+{
+	   "question":"Вставьте пропущенное слово. Стив Джобс отрицал свое отцовство по отношению к своему ... ребенку — Лизе Бреннан-Джобс.",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Первому",
+	   "answers": [ {
+			  "1":"Первому",
+			  "2":"Второму",
+			  "3":"Третьему"
+			}
+			]
+	 },
+
+{
+	   "question":"Свои апартаменты в Нью-Йорке, Джобс продал фронтмену ...",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "U2 Боно",
+	   "answers": [ {
+			  "1":"Биллу Гейтсу",
+			  "2":"Коммерческому банку",
+			  "3":"U2 Боно"
+			}
+			]
+	 },
+
+{
+	   "question":"Кому в 1998 году Стив Джобс предоставил в пользование свой особняк в калифорнийском Вудсайде.",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Биллу Клинтону",
+	   "answers": [ {
+			  "1":"Джонатану Айву",
+			  "2":"Майку Тайсану",
+			  "3":"Биллу Клинтону"
+			}
+			]
+	 },
+{
+	   "question":"Дата основания компании Apple",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "1 апреля",
+	   "answers": [ {
+			  "1":"1 января",
+			  "2":"1 сентября",
+			  "3":"1 апреля"
+			}
+			]
+	 },
+{
+	   "question":"Вставьте пропущенное слово. Однажды Apple утилизировала 2700 ... на одной из свалок в Юте.",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Непроданных компьютеров",
+	   "answers": [ {
+			  "1":"Непроданных компьютеров",
+			  "2":"Коробок для айфонов",
+			  "3":"Планшетов"
+			}
+			]
+	 },
+{
+	   "question":"Какой курс акций Apple был в 2001 году за 1 штуку?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Менее 8$",
+	   "answers": [ {
+			  "1":"Менее 8$",
+			  "2":"Менее 350$",
+			  "3":"Менее 700$"
+			}
+			]
+	 },
+
+{
+	   "question":"Вставьте пропущенное слово. История Apple началась не в гараже, а на ... в доме 11161 по улице Crist Drive в Лос-Альтосе.",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Кровати",
+	   "answers": [ {
+			  "1":"Чердаке",
+			  "2":"Столе в подвале",
+			  "3":"Кровати"
+			}
+			]
+	 },
+{
+	   "question":"Apple II стал самым долгоиграющим компьютером Apple. На протяжении какого времени его можно было приобрести ?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "11 лет",
+	   "answers": [ {
+			  "1":"3 года",
+			  "2":"7 лет",
+			  "3":"11 лет"
+			}
+			]
+	 },
+{
+	   "question":"Время, которое показано на всех изображениях устройств на сайте Apple, одно и то же. Какое оно для iOS-устройств",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "9:41",
+	   "answers": [ {
+			  "1":"9:41",
+			  "2":"12:00",
+			  "3":"21:45"
+			}
+			]
+	 },
+{
+	   "question":"Время, которое показано на всех изображениях устройств на сайте Apple, одно и то же. Какое оно для Mac ?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "10:50",
+	   "answers": [ {
+			  "1":"9:35",
+			  "2":"10:50",
+			  "3":"21:45"
+			}
+			]
+	 },
+
+{
+	   "question":"Режиссером знаменитой рекламы Macintosh 1984 года также снял фильмы: «Чужой» и «Гладиатор». Как его зовут ?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Ридли Скотт",
+	   "answers": [ {
+			  "1":"Зак Снайдер",
+			  "2":"Тим Бертон",
+			  "3":"Ридли Скотт"
+			}
+			]
+	 },
+
+{
+	   "question":"Какую сумму составила зарплата Стива Джобса за 2009 год?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "1$",
+	   "answers": [ {
+			  "1":"1$",
+			  "2":"5.000.000$",
+			  "3":"71.000.000.00$"
+			}
+			]
+	 },
+{
+	   "question":"Где впервые познакомился Стив Джобс со своей будущей женой ?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Стэнфорде",
+	   "answers": [ {
+			  "1":"Гарвард",
+			  "2":"Оксфорде",
+			  "3":"Стэнфорде"
+			}
+			]
+	 },
+{
+	   "question":"Кто наградил Стива Джобса Национальной медалью технологий?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Рональд Рейган",
+	   "answers": [ {
+			  "1":"Рональд Рейган",
+			  "2":"Барак Обама",
+			  "3":"Джорш Буш"
+			}
+			]
+	 },
+{
+	   "question":"Неизменным элементом гардероба Стива Джобса, была водолазка, синие джинсы 501 (их было больше сотни) и ...",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Кроссовки",
+	   "answers": [ {
+			  "1":"Туфли",
+			  "2":"Кеды",
+			  "3":"Кроссовки"
+			}
+			]
+	 },
+{
+	   "question":"В 1974 Стив Джобс отправился в путешествие поисках просветления.В какую страну он отправился?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Индию",
+	   "answers": [ {
+			  "1":"Китай",
+			  "2":"Индию",
+			  "3":"Таиланд"
+			}
+			]
+	 },
+
+{
+	   "question":"Любимой едой Стива Джобса были яблоки, но в его рационе, можно было увидеть и еще кое-что. Что это было?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Суши",
+	   "answers": [ {
+			  "1":"Пицца",
+			  "2":"Суши",
+			  "3":"Свиной стейк"
+			}
+			]
+	 },
+
+{
+	   "question":"Вставьте пропущенное слово. По мнению Аналитиков, капитализация Apple может достичь ... долларов.",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Триллиона",
+	   "answers": [ {
+			  "1":"Триллиона",
+			  "2":"5 Триллионов",
+			  "3":"10 триллионов"
+			}
+			]
+	 },
+
+{
+	   "question":"Вставьте пропущенное слово. Часто, местом парковки Стива Джобса, были места для ... в штаб-квартире Apple.",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "инвалидов",
+	   "answers": [ {
+			  "1":"охранников",
+			  "2":"коллег по компании",
+			  "3":"инвалидов"
+			}
+			]
+	 },
+{
+	   "question":"С какого года apple осуществляет розничные продажи ?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "2001 года",
+	   "answers": [ {
+			  "1":"1998 года",
+			  "2":"2000 года",
+			  "3":"2001 года"
+			}
+			]
+	 },
+{
+	   "question":"По традиции, как часто происходит обновление основных продуктов Apple?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Ежегодно",
+	   "answers": [ {
+			  "1":"Раз в месяц",
+			  "2":"Ежегодно",
+			  "3":"Раз в 3 года"
+			}
+			]
+	 },
+{
+	   "question":"По статистике, среднестатистический пользователь персонального компьютера, тратит до 50 часов в год, решая проблемы технического плана. Сколько тратит среднестатистический пользователь Mac?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "5 часов",
+	   "answers": [ {
+			  "1":"5 часов",
+			  "2":"26 часов",
+			  "3":"55 часов"
+			}
+			]
+	 },
+
+{
+	   "question":"На сколько процентов учителя и студенты, использующие Mac, продуктивнее других?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "на 44%",
+	   "answers": [ {
+			  "1":"на 15%",
+			  "2":"на 22%",
+			  "3":"на 44%"
+			}
+			]
+	 },
+
+{
+	   "question":"Что Стив Джобс раздал после первой презентации каждому из работников Apple бесплатно?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Iphone",
+	   "answers": [ {
+			  "1":"Iphone",
+			  "2":"Яблоки",
+			  "3":"Печенье"
+			}
+			]
+	 },
+{
+	   "question":"Кодовое название iPod было \"...\"",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "«Dulcimer»",
+	   "answers": [ {
+			  "1":"«Dulci»",
+			  "2":"«Dulcime»",
+			  "3":"«Dulcimer»"
+			}
+			]
+	 },
+{
+	   "question":" Gonzo, Jedi, Malibu, Peter Pan, Rosebud  and Yikes! — все это кодовые названия...",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Mac",
+	   "answers": [ {
+			  "1":"Ipod",
+			  "2":"Ipad",
+			  "3":"Mac"
+			}
+			]
+	 },
+{
+	   "question":"Что было первым изображением, которое показали на Macintosh?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Скрудж МакДак",
+	   "answers": [ {
+			  "1":"Скрудж МакДак",
+			  "2":"Стив Джобс",
+			  "3":"Нью-Йорк"
+			}
+			]
+	 },
+
+{
+	   "question":"В каком году был открыт Онлайн-магазин Apple ?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "10 ноября 1997",
+	   "answers": [ {
+			  "1":"10 ноября 1997",
+			  "2":"20 января 2001",
+			  "3":"23 марта 2002"
+			}
+			]
+	 },
+
+{
+	   "question":"В каких городах были открыты первые розничные магазины Apple?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Вирджинии и Калифорнии",
+	   "answers": [ {
+			  "1":"Вирджинии и Калифорнии",
+			  "2":"Флорида и Техас",
+			  "3":"Мичиган и Невада"
+			}
+			]
+	 },
+
+{
+	   "question":"В каком костюме пришел Стив Джобс на первую костюмированную вечеринку Apple в честь Хэллоуина?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Иисуса Христа",
+	   "answers": [ {
+			  "1":"Иисуса Христа",
+			  "2":"Будды",
+			  "3":"Годзиллы"
+			}
+			]
+	 },
+{
+	   "question":"Продолжите. Как-то раз, Стив Джобс обратился в NASA с просьбой дать ему управление над ...",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "космическим шаттлом",
+	   "answers": [ {
+			  "1":"системой компьютеров",
+			  "2":"спутником на орбите",
+			  "3":"космическим шаттлом"
+			}
+			]
+	 },
+{
+	   "question":"Для того чтобы собрать денег для запуска компании, Джобсу пришлось продать свой микроавтобус, а Возняку нечто другое. Последнее при этом в то время стоило дороже автомобиля. Что это было?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Калькулятор",
+	   "answers": [ {
+			  "1":"Дом",
+			  "2":"Яхту",
+			  "3":"Калькулятор"
+			}
+			]
+	 },
+
+{
+	   "question":"Кто был изображен на первом логотипе Apple?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"301",
+	   "rightAnswer": "Исаак Ньютон",
+	   "answers": [ {
+			  "1":"Исаак Ньютон",
+			  "2":"Леонардо Да винчи",
+			  "3":"Фернан Магеллан"
+			}
+			]
+	 },
+{
+	   "question":"Что изображено на картинке ?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"302",
+	   "rightAnswer": "Первый логотип Apple",
+	   "answers": [ {
+			  "1":"Первый логотип Apple",
+			  "2":"Второй логотип Apple",
+			  "3":"Третий логотип Apple"
+			}
+			]
+	 },
+{
+	   "question":"Это было логотипом Apple на протяжении 22 лет. В каком году его заменили одноцветным вариантом?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"303",
+	   "rightAnswer": "1998",
+	   "answers": [ {
+			  "1":"1995",
+			  "2":"1998",
+			  "3":"2001"
+			}
+			]
+	 },
+{
+	   "question":"Как зовут этого человека?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"304",
+	   "rightAnswer": "Стив Возняк",
+	   "answers": [ {
+			  "1":"Стив Возняк",
+			  "2":"Стив Джобс",
+			  "3":"Тим Кук"
+			}
+			]
+	 },
+{
+	   "question":"Как зовут этого человека?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"305",
+	   "rightAnswer": "Тим Кук",
+	   "answers": [ {
+			  "1":"Стив Возняк",
+			  "2":"Фил Шиллер",
+			  "3":"Тим Кук"
+			}
+			]
+	 },
+{
+	   "question":"Как зовут этого человека?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"306",
+	   "rightAnswer": "Стив Джобс",
+	   "answers": [ {
+			  "1":"Стив Джобс",
+			  "2":"Фил Шиллер",
+			  "3":"Тим Кук"
+			}
+			]
+	 },
+{
+	   "question":"Кто изображен на фотографии?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"307",
+	   "rightAnswer": "Стив Джобс и Стив Возняк",
+	   "answers": [ {
+			  "1":"Стив Джобс и Джон Возняк",
+			  "2":"Стив Джобс и Стив Возняк",
+			  "3":"Джон Джобс и Стив Возняк"
+			}
+			]
+	 },
+{
+	   "question":"Что это за изобретение?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"308",
+	   "rightAnswer": "Apple QuickTake 100",
+	   "answers": [ {
+			  "1":"First Ipod",
+			  "2":"Apple QuickTake 100",
+			  "3":"Macintosh"
+			}
+			]
+	 },
+{
+	   "question":"Дизайнер, директор по дизайну (CDO) компании Apple. Как зовут этого парня?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"309",
+	   "rightAnswer": "Джонни Айв",
+	   "answers": [ {
+			  "1":"Джонни Айв",
+			  "2":"Фил Шиллер",
+			  "3":"Тим Кук"
+			}
+			]
+	 },
+{
+	   "question":"Что изображено на картинке?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"310",
+	   "rightAnswer": "Новый кампус Apple",
+	   "answers": [ {
+			  "1":"Новый кампус Apple",
+			  "2":"Пентагон",
+			  "3":"Новый парк развлечений"
+			}
+			]
+	 },
+{
+	   "question":"Как называется это изобритение?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"311",
+	   "rightAnswer": "Macintosh",
+	   "answers": [ {
+			  "1":"Macintosh",
+			  "2":"Macbook air",
+			  "3":"Macbook pro"
+			}
+			]
+	 },
+{
+	   "question":"Как называется это изобритение?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"312",
+	   "rightAnswer": "Macbook",
+	   "answers": [ {
+			  "1":"Macbook",
+			  "2":"IMac",
+			  "3":"Ipod"
+			}
+			]
+	 },
+{
+	   "question":"Как называется это изобритение?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"313",
+	   "rightAnswer": "IMac",
+	   "answers": [ {
+			  "1":"Macbook Air",
+			  "2":"Macbook Pro",
+			  "3":"IMac"
+			}
+			]
+	 },
+{
+	   "question":"Как называется это изобритение?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"314",
+	   "rightAnswer": "Ipad",
+	   "answers": [ {
+			  "1":"Ipod",
+			  "2":"Ipad",
+			  "3":"Iphone"
+			}
+			]
+	 },
+{
+	   "question":"Как называется это изобритение?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"315",
+	   "rightAnswer": "Apple watch",
+	   "answers": [ {
+			  "1":"Ipod",
+			  "2":"Macintosh",
+			  "3":"Apple watch"
+			}
+			]
+	 },
+{
+	   "question":"Как называется это изобритение?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"316",
+	   "rightAnswer": "Iphone 3GS",
+	   "answers": [ {
+			  "1":"Iphone 3GS",
+			  "2":"Iphone 4S",
+			  "3":"Iphone 5S"
+			}
+			]
+	 },
+{
+	   "question":"Как называется это изобритение?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"317",
+	   "rightAnswer": "Iphone 4S",
+	   "answers": [ {
+			  "1":"Iphone 3GS",
+			  "2":"Iphone 4S",
+			  "3":"Iphone 6S"
+			}
+			]
+	 },
+{
+	   "question":"Как называется это изобритение?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"318",
+	   "rightAnswer": "Iphone 5S",
+	   "answers": [ {
+			  "1":"Iphone 4S",
+			  "2":"Iphone 5S",
+			  "3":"Iphone 6S"
+			}
+			]
+	 },
+{
+	   "question":"Как называется это изобритение?",
+	   "category":"Apple",
+	   "isImage":true,
+	   "imagePath":"319",
+	   "rightAnswer": "Iphone 6S",
+	   "answers": [ {
+			  "1":"Iphone 6S",
+			  "2":"Ipad Pro",
+			  "3":"Iphone 5S"
+			}
+			]
+	 },
+{
+	   "question":"Подсчитайте. В 2009 году компания Apple продала 40 миллионов айфонов – это значит, что в час продавалось 4853 устройства, в минуту – 76. Сколько айфонов продавалось в секунду?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "1.27 айфона",
+	   "answers": [ {
+			  "1":"0.9 айфона",
+			  "2":"1.27 айфона",
+			  "3":"2.5 айфона"
+			}
+			]
+	 },
+{
+	   "question":"Первые айфоны были выпущены в США. Когда это произошло? ",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "29 июня 2007 года",
+	   "answers": [ {
+			  "1":"21 марта 2004 года",
+			  "2":"29 июня 2007 года",
+			  "3":"31 декабря 2009 года"
+			}
+			]
+	 },
+{
+	   "question":"Какое количество аккаунтов насчитывает iTunes ?",
+	   "category":"Apple",
+	   "isImage":false,
+	   "imagePath":"",
+	   "rightAnswer": "Боллее 800 миллионов",
+	   "answers": [ {
+			  "1":"Боллее 100 миллионов",
+			  "2":"Боллее 350 миллионов",
+			  "3":"Боллее 800 миллионов"
+			}
+			]
+	 }
+                  
+	 ]
+}
+
+
+
+
+
+
+
+
+
+
+

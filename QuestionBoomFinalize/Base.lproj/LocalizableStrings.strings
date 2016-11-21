@@ -1,0 +1,108 @@
+/*
+ LocalizableStrings.strings
+ Questionsboom
+ 
+ CreatedbyКириллon10.08.16.
+ Copyright©2016Кирилл.Allrightsreserved.
+ */
+
+/*ARCADE*/
+Arcade="arcade";
+LEVEL_ONE="1Level";
+LEVEL_TWO="2Level";
+LEVEL_THREE="3Level";
+LEVEL_FOUR="4Level";
+LEVEL_FIVE="5Level";
+LEVEL_SIX="6Level";
+LEVEL_SEVEN="7Level";
+LEVEL_EIGHT="8Level";
+LEVEL_NINE="9Level";
+LEVEL_TEN="10Level";
+
+MUSIC="musicLabel";
+PLAY="play";
+SETTINGS="settings";
+SOUND="soundLabel";
+PASS="passLabel";
+
+/*SINGLEPLAY*/
+SINGLE_PLAY="singlePlay";
+APPLE_BOOM="Apple_boom";
+ASTRO_BOOM="Astro_boom";
+FIGURE_BOOM="Figure_boom";
+GENERAL_BOOM="General_boom";
+GEO_BOOM="Geo_boom";
+HISTORY_BOOM="History_boom";
+LITERATURE_BOOM="Literature_boom";
+MEAL_BOOM="Meal_boom";
+MOVIE_BOOM="Movie_boom";
+MUSIC_BOOM="Music_boom";
+NATURE_BOOM="Nature_boom";
+SCIENCE_BOOM="Science_boom";
+SPORT_BOOM="Sport_boom";
+
+/*ENDGAME*/
+COINS="coins";
+EXCELLENT="excellent";
+FAILED="failed";
+HEARTBONUS="heartBonus";
+LEVEL_BONUS="levelBonus";
+LEVEL_COMPLETED="levelCompleted";
+MEDAL_BONUS="medalBonus";
+NOT_BAD="notBad";
+SCORE="score";
+TIME="time";
+TIME_BONUS="timeBonus_rus";
+TOTAL="total_rus";
+TOTAL_COINS="totalCoins";
+WELL_DONE="wellDone";
+YOUR_TIME="yourTime";
+
+/*LEVELPURCHASE*/
+PURCHASE_NO="buttonPurchaseNo";
+PURCHASE_NO_TAPPED="buttonPurchaseNoTapped";
+PURCHASE_YES="buttonPurchaseYes";
+PURCHASE_YES_TAPPED="buttonPurchaseYesTapped";
+PURCHASE_FRAME="purchaseFrame";
+
+
+/*DATABASE*/
+
+
+Nature_boom="Nature_boom_eng";
+Figure_boom="Figure_boom_eng";
+Literature_boom="Literature_boom_eng";
+Movie_boom="Movie_boom_eng";
+Music_boom="Music_boom_eng";
+Science_boom="Science_boom_eng";
+Apple_boom="Apple_boom_eng";
+Astro_boom="Astro_boom_eng";
+General_boom="General_boom_eng";
+Geo_boom="Geo_boom_eng";
+History_boom="History_boom_eng";
+Meal_boom="Meal_boom_eng";
+Sport_boom="Sport_boom_eng";
+
+
+/*SOCIAL*/
+
+ARCADE_SOC="My score in Arcade Mode Of \"Questions boom\" is ";
+ARCADE_SOC2=" ! Can you get more?";
+SINGLE_SOC="My new record in Single Play mode in category ";
+SINGLE_SOC3=" is ";
+SINGLE_SOC2=". #QuestionsBoom";
+
+/*IAP*/
+IAPERR="Error loading In-app-purchases";
+MSG="Are you sure you want to buy ";
+OK="Buy";
+CANCEL="Cancel";
+END_PURCHASE="Thank you for purchase";
+END_FAIL_PURCHASE="Error purchasing";
+RESTORE_PURCHASE="RestoreEng";
+RESTORE_PURCHASE_LABEL="Restore";
+
+
+
+
+

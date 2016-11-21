@@ -1,0 +1,1250 @@
+﻿{
+   "Questions":[
+      {
+         "question":"Who is it in the picture?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"229",
+         "rightAnswer":"Gaius Julius Caesar",
+         "answers":[
+            {
+               "1":"Achilles",
+               "2":"Gaius Julius Caesar",
+               "3":"Peter I"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"230",
+         "rightAnswer":"Gallic warriors",
+         "answers":[
+            {
+               "1":"Roman warriors",
+               "2":"Gallic warriors",
+               "3":"Spartans"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"231",
+         "rightAnswer":"Persian warrior",
+         "answers":[
+            {
+               "1":"Viking",
+               "2":"Spartan warrior",
+               "3":"Persian warrior"
+            }
+         ]
+      },
+      {
+         "question":"Who is it in the picture?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"232",
+         "rightAnswer":"Roman warrior",
+         "answers":[
+            {
+               "1":"Roman warrior",
+               "2":"Gallic warrior",
+               "3":"Viking"
+            }
+         ]
+      },
+      {
+         "question":"What is the capital of Mesopotamia?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Babylon",
+         "answers":[
+            {
+               "1":"Sparta",
+               "2":"Babylon",
+               "3":"Athens"
+            }
+         ]
+      },
+      {
+         "question":"The first person according to the Bible was...",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Adam",
+         "answers":[
+            {
+               "1":"Khariton",
+               "2":"Eliseus",
+               "3":"Adam"
+            }
+         ]
+      },
+      {
+         "question":"The governor of the Ancient Egypt was...",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pharaoh",
+         "answers":[
+            {
+               "1":"priest",
+               "2":"grandee",
+               "3":"Pharaoh"
+            }
+         ]
+      },
+      {
+         "question":"In what country was the alphabet invented?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Phoenicia",
+         "answers":[
+            {
+               "1":"China",
+               "2":"Phoenicia",
+               "3":"Egypt"
+            }
+         ]
+      },
+      {
+         "question":"What river was \"the river of one thousand disasters\" called?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Huang He",
+         "answers":[
+            {
+               "1":"Nile",
+               "2":"Dnieper",
+               "3":"Huang He"
+            }
+         ]
+      },
+      {
+         "question":"How is one of Indian religions called?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Hinduism",
+         "answers":[
+            {
+               "1":"Ferzdzizm",
+               "2":"Kladzizm",
+               "3":"Hinduism"
+            }
+         ]
+      },
+      {
+         "question":"Guy Julius Caesar is the governor of the Ancient Greece, isn't he?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"No",
+         "answers":[
+            {
+               "1":"Yes",
+               "2":"No",
+               "3":"Not only Greece"
+            }
+         ]
+      },
+      {
+         "question":"Which king's laws are known throughout the world because of their severity?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Hammurap",
+         "answers":[
+            {
+               "1":"Hammurap",
+               "2":"Mine",
+               "3":"Ekhnaton"
+            }
+         ]
+      },
+      {
+         "question":"Where did the Greek gods live?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"on the Olympus",
+         "answers":[
+            {
+               "1":"on clouds",
+               "2":"on the island",
+               "3":"on the Olympus"
+            }
+         ]
+      },
+      {
+         "question":" What birds did save Rome?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Geese",
+         "answers":[
+            {
+               "1":"Hawks",
+               "2":"Storks",
+               "3":"Geese"
+            }
+         ]
+      },
+      {
+         "question":"Who has never been the Roman emperor from the following?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"John Paul II",
+         "answers":[
+            {
+               "1":"The Guardian of I",
+               "2":"John Paul II",
+               "3":"Vitelly"
+            }
+         ]
+      },
+      {
+         "question":"This Roman emperor was cruel. For example, he appointed horse to a position senator. What is the name of this emperor?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Kaligula",
+         "answers":[
+            {
+               "1":"Octavian Augustus",
+               "2":"Kaligula",
+               "3":"Julius Caesar"
+            }
+         ]
+      },
+      {
+         "question":"How was the highest class called in the Roman Empire?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Patricians",
+         "answers":[
+            {
+               "1":"Plebeians",
+               "2":"Aristocrats",
+               "3":"Patricians"
+            }
+         ]
+      },
+      {
+         "question":"How was the lowest class called in the Roman Empire?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Plebeians",
+         "answers":[
+            {
+               "1":"Pezana",
+               "2":"Farmers",
+               "3":"Plebeians"
+            }
+         ]
+      },
+      {
+         "question":"How did the ancient Romans deliver water to the city?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"On aqueducts",
+         "answers":[
+            {
+               "1":"Through tunnels",
+               "2":"Used wells",
+               "3":"On aqueducts"
+            }
+         ]
+      },
+      {
+         "question":"The city in the Roman Empire was destroyed by a volcanic eruption in the 79th year AD. How is it called?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pompeii",
+         "answers":[
+            {
+               "1":"Pompeii",
+               "2":"Rome",
+               "3":"Messina"
+            }
+         ]
+      },
+      {
+         "question":"Now this building represents ruins. And in the past it was the largest stadium in the Roman Empire. What is the name of this stadium?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Colosseum",
+         "answers":[
+            {
+               "1":"A great Arena",
+               "2":"Pantheon",
+               "3":"Colosseum"
+            }
+         ]
+      },
+      {
+         "question":"What religion was developed in the Roman Empire during the reign of the emperor Constantine I?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Christianity",
+         "answers":[
+            {
+               "1":"Christianity",
+               "2":"Islam",
+               "3":"Judaism"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. On January 1, 2002 the European Union entered:",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Euro cash",
+         "answers":[
+            {
+               "1":"A ban on import",
+               "2":"Troops to Afghanistan",
+               "3":"Euro cash"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. What revolution was in Ukraine in 2004?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Orange",
+         "answers":[
+            {
+               "1":"White",
+               "2":"Red",
+               "3":"Orange"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. In 2006 Montenegro got...",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Independence",
+         "answers":[
+            {
+               "1":"The huge credit",
+               "2":"Independence",
+               "3":"New territories"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. In August, 2008 as a result of war in South Ossetia, Russia recognized South Ossetia and ... as the independent republics",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Abkhazia",
+         "answers":[
+            {
+               "1":"Chechnya",
+               "2":"Abkhazia",
+               "3":"North Ossetia"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. How many percent did Barack Obama poll at presidential elections in the USA in 2008?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"53%",
+         "answers":[
+            {
+               "1":"61%",
+               "2":"53%",
+               "3":"74%"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. Is it true that Pluto is deprived of the status of the planet?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Truth",
+         "answers":[
+            {
+               "1":"Truth",
+               "2":"Lie",
+               "3":"Pluton doesn't exist"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. In what day the largest terrorist attack for all history of mankind capture was conducted by terrorists of 4 planes sent to places of a big congestion of people?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"on September 11, 2001",
+         "answers":[
+            {
+               "1":"on December 11, 2001",
+               "2":"on September 11, 2001",
+               "3":"on April 11, 2001"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. On January 1, 2002 the European Union entered.",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"banknotes and coins of euro",
+         "answers":[
+            {
+               "1":"a ban on import of goods from the USA",
+               "2":"troops to Afghanistan",
+               "3":"banknotes and coins of euro"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. What revolution was in Ukraine in 2004?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Orange",
+         "answers":[
+            {
+               "1":"White",
+               "2":"Red",
+               "3":"Orange"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. In 2006 Montenegro received...",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"independence",
+         "answers":[
+            {
+               "1":"the credit from the EU",
+               "2":"independence",
+               "3":"new territories"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. In August, 2008 as a result of war in South Ossetia, Russia recognized as the independent republics South Ossetia and...",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Abkhazia",
+         "answers":[
+            {
+               "1":"Chechnya",
+               "2":"Abkhazia",
+               "3":"North Ossetia"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. How many percent of votes Barack Obama at presidential elections in the USA in 2008 gathered?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"53%",
+         "answers":[
+            {
+               "1":"61%",
+               "2":"53%",
+               "3":"74%"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. Is it truth that Pluto was deprived of the planet status?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Truth",
+         "answers":[
+            {
+               "1":"Truth",
+               "2":"Lie",
+               "3":"Pluto doesn't exist"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century.Where were there bloody mass disorders in 2011?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"North Africa",
+         "answers":[
+            {
+               "1":"South America",
+               "2":"North Africa",
+               "3":"Western Europe"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. On May 2, 2011 it was killed...",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ousama Ben laden",
+         "answers":[
+            {
+               "1":"Saddam Hussein",
+               "2":"Ousama Ben laden",
+               "3":"Muammar Gaddafi"
+            }
+         ]
+      },
+      {
+         "question":"The facts about the XXI century. On October 31, 2011 the 7th milliard inhabitant of the Earth was born. In what country was \"the champion\" born?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Philippines",
+         "answers":[
+            {
+               "1":"China",
+               "2":"USA",
+               "3":"Philippines"
+            }
+         ]
+      },
+      {
+         "question":"When was the Western Roman Empire destroyed?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"in 476 year",
+         "answers":[
+            {
+               "1":"in 487 year",
+               "2":"in 489 year",
+               "3":"in 476 year"
+            }
+         ]
+      },
+      {
+         "question":"Who was the first emperor of the Frankish Empire?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Charles the Great",
+         "answers":[
+            {
+               "1":"Charles the Great",
+               "2":"Karl Martell",
+               "3":"Julius Caesar"
+            }
+         ]
+      },
+      {
+         "question":"How many were there crusades?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"8",
+         "answers":[
+            {
+               "1":"7",
+               "2":"8",
+               "3":"9"
+            }
+         ]
+      },
+      {
+         "question":"Who created the Sacred Roman Empire?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Otton I",
+         "answers":[
+            {
+               "1":"Eyngard",
+               "2":"Kanut Weliki",
+               "3":"Otton I"
+            }
+         ]
+      },
+      {
+         "question":"In what country was the first parliament accepted?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"England",
+         "answers":[
+            {
+               "1":"Italy",
+               "2":"France",
+               "3":"England"
+            }
+         ]
+      },
+      {
+         "question":"Who didn't enter a feudal ladder?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Peasants",
+         "answers":[
+            {
+               "1":"King",
+               "2":"Knights",
+               "3":"Peasants"
+            }
+         ]
+      },
+      {
+         "question":"Who was Roger Bacon?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Scientist",
+         "answers":[
+            {
+               "1":"Pope",
+               "2":"Scientist",
+               "3":"Bogosluzhitel"
+            }
+         ]
+      },
+      {
+         "question":"In 1943 in the middle of the World War II in Great Britain Maria Dikin's medal with inscription \"We too serve!\" was created. For whom was this award intended?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"For animals",
+         "answers":[
+            {
+               "1":"For animals",
+               "2":"For donors",
+               "3":"For juvenile children"
+            }
+         ]
+      },
+      {
+         "question":"How much time did the shortest war last?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"38 minutes",
+         "answers":[
+            {
+               "1":"1 day",
+               "2":"2 hours",
+               "3":"38 minutes"
+            }
+         ]
+      },
+      {
+         "question":"Who from the outstanding commanders advised: \"Before battle the main thing is to sleep\"?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Kutuzov",
+         "answers":[
+            {
+               "1":"Karl XII",
+               "2":"Kutuzov",
+               "3":"Napoleon Bonaparte"
+            }
+         ]
+      },
+      {
+         "question":"Is it true that once the football match was an occasion to military operations?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Truth",
+         "answers":[
+            {
+               "1":"Truth",
+               "2":"Lie",
+               "3":"There was a fight, no more"
+            }
+         ]
+      },
+      {
+         "question":"What is the reason of the Russian army defeat in the battle on the Pyana River with the mongolo-Tatar in 1377?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Russians were drunk",
+         "answers":[
+            {
+               "1":"Russians were drunk",
+               "2":"The lack of weapons",
+               "3":"Lack of experience"
+            }
+         ]
+      },
+      {
+         "question":"It is a famous Ancient Greek philosopher that he didn't leave any compositions after his death and considered that the work of the sophist teacher is similar to work of the midwife.",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Socrates",
+         "answers":[
+            {
+               "1":"Socrates",
+               "2":"Anaksagor",
+               "3":"Protagor"
+            }
+         ]
+      },
+      {
+         "question":"When did the Columbus's expedition arrive to America?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"In 1492",
+         "answers":[
+            {
+               "1":"In 1505",
+               "2":"In 1492",
+               "3":"In 1478"
+            }
+         ]
+      },
+      {
+         "question":"In the territory of what modern state did the pilgrims who arrived to America in 1620 by the ship \"Meyflauyer\" found the settlement?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Massachusetts",
+         "answers":[
+            {
+               "1":"Massachusetts",
+               "2":"New York",
+               "3":"Virginia"
+            }
+         ]
+      },
+      {
+         "question":"Designate dates of the Independence war in the USA.",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"201",
+         "rightAnswer":"1775-1783",
+         "answers":[
+            {
+               "1":"1776-1787",
+               "2":"1812-1815",
+               "3":"1775-1783"
+            }
+         ]
+      },
+      {
+         "question":"USA. How many states were there existed at the time of the Constitution adoption?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"13",
+         "answers":[
+            {
+               "1":"12",
+               "2":"13",
+               "3":"15"
+            }
+         ]
+      },
+      {
+         "question":"Who was at a wheel of the USA and France during commission of Louisiana purchase in 1803?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jefferson and Napoleon",
+         "answers":[
+            {
+               "1":"Washington and Napoleon",
+               "2":"Madison and Napoleon",
+               "3":"Jefferson and Napoleon"
+            }
+         ]
+      },
+      {
+         "question":"Who was the U.S. President during the Civil war of 1861-1865?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Abraham Lincoln",
+         "answers":[
+            {
+               "1":"Abraham Lincoln",
+               "2":"Andrew Johnson",
+               "3":"Chester Arthur"
+            }
+         ]
+      },
+      {
+         "question":"Is it true that the slavery in the USA was officially cancelled in 1861.",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Truth",
+         "answers":[
+            {
+               "1":"Truth",
+               "2":"Lie",
+               "3":"The slavery didn't exist"
+            }
+         ]
+      },
+      {
+         "question":"Designate the date of the exchange crash of the Wall Street notorious as the \"Black Tuesday\" which served as the beginning of the Great depression.",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"on October 29, 1929",
+         "answers":[
+            {
+               "1":"on September 24, 1929",
+               "2":"on May 16, 1925",
+               "3":"on October 29, 1929"
+            }
+         ]
+      },
+      {
+         "question":"What president had to retire as the result of the Watergate scandal?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Richard Nixon",
+         "answers":[
+            {
+               "1":"Richard Nixon",
+               "2":"Ronald Reagan",
+               "3":"Jimmy Carter"
+            }
+         ]
+      },
+      {
+         "question":"During the War in the Persian Gulf in 1991 the multinational forces led by the USA didn't perform the following operation:",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"\"Punishment of the desert\"",
+         "answers":[
+            {
+               "1":"\"A storm in the desert\"",
+               "2":"\"Desert board\"",
+               "3":"\"Punishment of the desert\""
+            }
+         ]
+      },
+      {
+         "question":"Who from the following person is not the Egyptian Pharaoh?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Imkhotep",
+         "answers":[
+            {
+               "1":"Imkhotep",
+               "2":"Smendes",
+               "3":"Networks"
+            }
+         ]
+      },
+      {
+         "question":"What Egyptian pyramid was constructed the first?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"A pyramid of Dzhoser",
+         "answers":[
+            {
+               "1":"Pyramid of Cheops",
+               "2":"A red pyramid",
+               "3":"A pyramid of Dzhoser"
+            }
+         ]
+      },
+      {
+         "question":"Where were the ancestors of Cleopatra?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Macedonia",
+         "answers":[
+            {
+               "1":"The top Egypt",
+               "2":"The lower Egypt",
+               "3":"Macedonia"
+            }
+         ]
+      },
+      {
+         "question":"Call the first capital of the united Egypt.",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Memphis",
+         "answers":[
+            {
+               "1":"Memphis",
+               "2":"Cairo",
+               "3":"Thebes"
+            }
+         ]
+      },
+      {
+         "question":"Who united Upper and Lower Egypt?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Menes",
+         "answers":[
+            {
+               "1":"Menes",
+               "2":"Tutmos I",
+               "3":"Amenhotep I"
+            }
+         ]
+      },
+      {
+         "question":"What does \"a gift of Nile\" mean?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Egypt",
+         "answers":[
+            {
+               "1":"Creation of a civilization",
+               "2":"Egypt",
+               "3":"Writing development"
+            }
+         ]
+      },
+      {
+         "question":"How many main \"kingdoms\" were in Ancient Egypt?",
+         "category":"history",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"5",
+         "answers":[
+            {
+               "1":"12",
+               "2":"5",
+               "3":"3"
+            }
+         ]
+      },
+      {
+         "question":"What well-known discoverer is represented in the picture?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"203",
+         "rightAnswer":"Ferdinand Magellan",
+         "answers":[
+            {
+               "1":"Ferdinand Magellan",
+               "2":"Vasco da Gama",
+               "3":"Christopher Columbus"
+            }
+         ]
+      },
+      {
+         "question":" Christopher Columbus is represented in the picture. It became famous thanks to his....",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"202",
+         "rightAnswer":"discoverer",
+         "answers":[
+            {
+               "1":"discoverer",
+               "2":"The cook at the queen of England",
+               "3":"Grand conqueror"
+            }
+         ]
+      },
+      {
+         "question":"What is the name of this person represented in the image? And what is his nationality?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"204",
+         "rightAnswer":"Vasco da Gama (Portugal)",
+         "answers":[
+            {
+               "1":"Vasco da Gama (Portugal)",
+               "2":"Christopher Columbus (Italy)",
+               "3":"Vasco da Gama (Spain)"
+            }
+         ]
+      },
+      {
+         "question":"Is it true that the pyramids are the last that remains the 7 world wonders?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"205",
+         "rightAnswer":"Yes",
+         "answers":[
+            {
+               "1":"Yes",
+               "2":"No",
+               "3":"It not the last"
+            }
+         ]
+      },
+      {
+         "question":"How is this world wonder called which was built in the VI century BC?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"206",
+         "rightAnswer":"Hanging gardens of Semiramis",
+         "answers":[
+            {
+               "1":"Hanging gardens of Semiramis",
+               "2":"A sandy pyramid of Osiris",
+               "3":"Artemis's temple in the Hilt"
+            }
+         ]
+      },
+      {
+         "question":"What world wonder is called which is represented in the picture?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"207",
+         "rightAnswer":"Zeus's statue",
+         "answers":[
+            {
+               "1":"Zeus's statue",
+               "2":"Poseidon's statue",
+               "3":"Caesar's statue "
+            }
+         ]
+      },
+      {
+         "question":"What world wonder is called which is represented in the picture?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"208",
+         "rightAnswer":"Artemis's temple",
+         "answers":[
+            {
+               "1":"Semiramis's temple",
+               "2":"Zeus's temple",
+               "3":"Artemis's temple"
+            }
+         ]
+      },
+      {
+         "question":"What world wonder is called which is represented in the picture?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"209",
+         "rightAnswer":"The mausoleum in Galikarnas",
+         "answers":[
+            {
+               "1":"Lighthouse of Alexandria",
+               "2":"The mausoleum in Galikarnas",
+               "3":"Temple of Pharaohs"
+            }
+         ]
+      },
+      {
+         "question":"What world wonder is called which is represented in the picture?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"210",
+         "rightAnswer":"Colossus of Rhodes",
+         "answers":[
+            {
+               "1":"Colossus of Rhodes",
+               "2":"A gold Colossus",
+               "3":"Keeper Olimpa"
+            }
+         ]
+      },
+      {
+         "question":"This person was the prime minister of ... in 1940 — 1945",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"212",
+         "rightAnswer":"Great Britain",
+         "answers":[
+            {
+               "1":"Great Britain",
+               "2":"USA",
+               "3":"Ireland"
+            }
+         ]
+      },
+      {
+         "question":"What country does he represent?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"213",
+         "rightAnswer":"Syria",
+         "answers":[
+            {
+               "1":"Syria",
+               "2":"Libya",
+               "3":"Egypt"
+            }
+         ]
+      },
+      {
+         "question":"When did she become the German chancellor?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"214",
+         "rightAnswer":"on May 30, 2005",
+         "answers":[
+            {
+               "1":"on June 30, 2001",
+               "2":"on January 30, 2003",
+               "3":"on May 30, 2005"
+            }
+         ]
+      },
+      {
+         "question":"When did he become the U.S. President?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"215",
+         "rightAnswer":"on January 20, 2009",
+         "answers":[
+            {
+               "1":"on January 20, 2007",
+               "2":"on January 20, 2009",
+               "3":"on January 20, 2011"
+            }
+         ]
+      },
+      {
+         "question":"When did he become the president of France?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"216",
+         "rightAnswer":"on May 15, 2012",
+         "answers":[
+            {
+               "1":"on May 15, 2012",
+               "2":"on May 25, 2013",
+               "3":"on May 27, 2014"
+            }
+         ]
+      },
+      {
+         "question":"When did the disembarkation of people to the Moon take place?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"217",
+         "rightAnswer":"1969",
+         "answers":[
+            {
+               "1":"1957",
+               "2":"1969",
+               "3":"1981"
+            }
+         ]
+      },
+      {
+         "question":"When did the American War of Independence begin?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"218",
+         "rightAnswer":"1775",
+         "answers":[
+            {
+               "1":"1775",
+               "2":"1853",
+               "3":"1891"
+            }
+         ]
+      },
+      {
+         "question":"When was the first successful cloning of a mammal?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"219",
+         "rightAnswer":"1997 year",
+         "answers":[
+            {
+               "1":"1947 year",
+               "2":"1997 year",
+               "3":"2009 year"
+            }
+         ]
+      },
+      {
+         "question":"When did Franklin Roosevelt die?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"220",
+         "rightAnswer":"on April 12, 1945",
+         "answers":[
+            {
+               "1":"on April 12, 1935",
+               "2":"on April 12, 1945",
+               "3":"on April 12, 1975"
+            }
+         ]
+      },
+      {
+         "question":"What is the nickname of this \"gift\" which ruined Troy?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"221",
+         "rightAnswer":"Trojan Horse",
+         "answers":[
+            {
+               "1":"A Spartan horse",
+               "2":"The Persian horse",
+               "3":"Trojan Horse"
+            }
+         ]
+      },
+      {
+         "question":"What historical battle was shown in the movie \"300 Spartans\"? Fight was between ...",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"222",
+         "rightAnswer":"Sparta and Persians",
+         "answers":[
+            {
+               "1":"Sparta and Persians",
+               "2":"Sparta and Greeks",
+               "3":"Sparta and Egyptians"
+            }
+         ]
+      },
+      {
+         "question":"What world wonder is represented in the picture?",
+         "category":"history",
+         "isImage":true,
+         "imagePath":"211",
+         "rightAnswer":"Lighthouse of Alexandria",
+         "answers":[
+            {
+               "1":"The Alexandria temple",
+               "2":"Lighthouse of Alexandria",
+               "3":"The Alexandria tower"
+            }
+         ]
+      }
+   ]
+}

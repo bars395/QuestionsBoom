@@ -1,0 +1,1428 @@
+{
+   "Questions":[
+      {
+         "question":"Which songwriter or songwriting team has written this song?Burning Love (Elvis Presley)",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Dennis Linde",
+         "answers":[
+            {
+               "1":"Jerry Leiber and Mike Stoller",
+               "2":"Dennis Linde",
+               "3":"Neil Diamond"
+            }
+         ]
+      },
+      {
+         "question":"Which songwriter or songwriting team has written this song?Goodbye (Mary Hopkin)",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"John Lennon and Paul McCartney",
+         "answers":[
+            {
+               "1":"Felice and Boudleaux Bryant",
+               "2":"John Lennon and Paul McCartney",
+               "3":"Gerry Goffin and Carole King"
+            }
+         ]
+      },
+      {
+         "question":"Which songwriter or songwriting team has written this song?Hey Girl (Freddie Scott)",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Gerry Goffin and Carole King",
+         "answers":[
+            {
+               "1":"Gerry Goffin and Carole King",
+               "2":"Jerry Leiber and Mike Stoller",
+               "3":"Jeff Barry, Ellie Greenwich and Phil Spector"
+            }
+         ]
+      },
+      {
+         "question":"Which songwriter or songwriting team has written this song?Saturday Night at the Movies (The Drifters)",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Barry Mann and Cynthia Weil",
+         "answers":[
+            {
+               "1":"Gerry Goffin and Carole King",
+               "2":"Barry Mann and Cynthia Weil",
+               "3":"Nickolas Ashford and Valerie Simpson"
+            }
+         ]
+      },
+      {
+         "question":"What is the title of the Eurovision Song Contest winning song performed by this act in the given year?Ell/Nikki (2011)",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Running Scared",
+         "answers":[
+            {
+               "1":"Only Teardrops",
+               "2":"Believe",
+               "3":"Running Scared"
+            }
+         ]
+      },
+      {
+         "question":"Which different songs with identical titles were US Top 40 hits for both of these artists or groups?Linda Ronstadt and Aaron Neville (1990) AND K-Ci and JoJo (1998)",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"All My Life",
+         "answers":[
+            {
+               "1":"All My Life",
+               "2":"Crazy",
+               "3":"Tell Me It's Real"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song produced by Stock Aitken and Waterman?When I Fall In Love",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Rick Astley",
+         "answers":[
+            {
+               "1":"Rick Astley",
+               "2":"Bananarama",
+               "3":"Jason Donovan"
+            }
+         ]
+      },
+      {
+         "question":"This is the birth name of which rapper?Ben Haggerty",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Macklemore",
+         "answers":[
+            {
+               "1":"Macklemore",
+               "2":"Fabolous",
+               "3":"Young Jeezy"
+            }
+         ]
+      },
+      {
+         "question":"What was the number of members of this girl group at the time of the given recording?The Bangles (Walk Like an Egyptian)",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"4",
+         "answers":[
+            {
+               "1":"5",
+               "2":"6",
+               "3":"4"
+            }
+         ]
+      },
+      {
+         "question":"Which popstar died like this in the given year?Shot by his father in 1984",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Marvin Gaye",
+         "answers":[
+            {
+               "1":"Marvin Gaye",
+               "2":"Bon Scott",
+               "3":"Jackie Wilson"
+            }
+         ]
+      },
+      {
+         "question":"This is a description of which famous record label?Introduced the first 33 rpm records in 1931. Purchased contract of Elvis Presley, who became this label's biggest star",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"RCA",
+         "answers":[
+            {
+               "1":"RSO",
+               "2":"Jive",
+               "3":"RCA"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?The Endless River",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pink Floyd",
+         "answers":[
+            {
+               "1":"Pink Floyd",
+               "2":"Ariana Grande",
+               "3":"Miranda Lambert"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?Cheek To Cheek",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Tony Bennett and Lady Gaga",
+         "answers":[
+            {
+               "1":"Barbra Streisand",
+               "2":"Tony Bennett and Lady Gaga",
+               "3":"Beck"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?Turn Blue",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"The Black Keys",
+         "answers":[
+            {
+               "1":"The Black Keys",
+               "2":"Ariana Grande",
+               "3":"Miranda Lambert"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?The Pinkprint",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Nicki Minaj",
+         "answers":[
+            {
+               "1":"Sam Smith",
+               "2":"Britney Spears",
+               "3":"Nicki Minaj"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?The Hunting Party",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Linkin Park",
+         "answers":[
+            {
+               "1":"Barbra Streisand",
+               "2":"Linkin Park",
+               "3":"Beck"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?Four",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"One Direction",
+         "answers":[
+            {
+               "1":"Ariana Grande",
+               "2":"Miranda Lambert",
+               "3":"One Direction"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?Sonic Highways",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Foo Fighters",
+         "answers":[
+            {
+               "1":"Bruce Springsteen",
+               "2":"Ariana Grande",
+               "3":"Foo Fighters"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?X",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ed Sheeran",
+         "answers":[
+            {
+               "1":"Pink Floyd",
+               "2":"Foo Fighters",
+               "3":"Ed Sheeran"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?Trigga",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Trey Songz",
+         "answers":[
+            {
+               "1":"Iggy Azalea",
+               "2":"Linkin Park",
+               "3":"Trey Songz"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Roar",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Katy Perry",
+         "answers":[
+            {
+               "1":"Miley Cyrus",
+               "2":"Lady Gaga",
+               "3":"Katy Perry"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?The Fox (What Does the Fox Say?)",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ylvis",
+         "answers":[
+            {
+               "1":"Bastille",
+               "2":"Haim",
+               "3":"Ylvis"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Feel This Moment",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pitbull and Christina Aguilera",
+         "answers":[
+            {
+               "1":"Pitbull and Christina Aguilera",
+               "2":"Selena Gomez",
+               "3":"Drake and Majid Jordan"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?We Can't Stop",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Miley Cyrus",
+         "answers":[
+            {
+               "1":"Drake and Majid Jordan",
+               "2":"Miley Cyrus",
+               "3":"Imagine Dragons"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Get Lucky",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Daft Punk and Pharrell Williams",
+         "answers":[
+            {
+               "1":"Robin Thicke, T.I. and Pharrell",
+               "2":"Daft Punk and Pharrell Williams",
+               "3":"Baauer"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Blurred Lines",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Robin Thicke, T.I. and Pharrell",
+         "answers":[
+            {
+               "1":"Rihanna and Mikky Ekko",
+               "2":"Robin Thicke, T.I. and Pharrell",
+               "3":"Lorde"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Burn",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ellie Goulding",
+         "answers":[
+            {
+               "1":"Ellie Goulding",
+               "2":"OneRepublic",
+               "3":"Bruno Mars"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?When I Was Your Man",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"OneRepublic",
+         "answers":[
+            {
+               "1":"OneRepublic",
+               "2":"Bruno Mars",
+               "3":"Pink and Nate Ruess"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Just Give Me a Reason",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pink and Nate Ruess",
+         "answers":[
+            {
+               "1":"Pink and Nate Ruess",
+               "2":"Lorde",
+               "3":"Rihanna and Mikky Ekko"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Stay With Me",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Sam Smith",
+         "answers":[
+            {
+               "1":"Nico and Vinz",
+               "2":"Sam Smith",
+               "3":"Charli XCX"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?All of Me",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"John Legend",
+         "answers":[
+            {
+               "1":"Shakira feat. Rihanna",
+               "2":"John Legend",
+               "3":"Ariana Grande feat. Iggy Azalea"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Can't Remember To Forget You",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Shakira feat. Rihanna",
+         "answers":[
+            {
+               "1":"One Direction",
+               "2":"Meghan Trainor",
+               "3":"Shakira feat. Rihanna"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Latch",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Disclosure feat. Sam Smith",
+         "answers":[
+            {
+               "1":"Ed Sheeran",
+               "2":"Coldplay",
+               "3":"Disclosure feat. Sam Smith"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Thinking Out Loud",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ed Sheeran",
+         "answers":[
+            {
+               "1":"Ed Sheeran",
+               "2":"Taylor Swift",
+               "3":"Meghan Trainor"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Rather Be",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Clean Bandit feat. Jess Glynne",
+         "answers":[
+            {
+               "1":"Clean Bandit feat. Jess Glynne",
+               "2":"Disclosure feat. Sam Smith",
+               "3":"Nicki Minaj"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Anaconda",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Nicki Minaj",
+         "answers":[
+            {
+               "1":"Magic!",
+               "2":"Idina Menzel",
+               "3":"Nicki Minaj"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Shake It Off",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Taylor Swift",
+         "answers":[
+            {
+               "1":"John Legend",
+               "2":"Taylor Swift",
+               "3":"Nico and Vinz"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Waves",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Mr. Probz",
+         "answers":[
+            {
+               "1":"Nicki Minaj",
+               "2":"Mr. Probz",
+               "3":"Ed Sheeran"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Story Of My Life",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"One Direction",
+         "answers":[
+            {
+               "1":"Taylor Swift",
+               "2":"Charli XCX",
+               "3":"One Direction"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?California Gurls",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Katy Perry Ft Snoop Dogg",
+         "answers":[
+            {
+               "1":"Michael Buble",
+               "2":"Katy Perry Ft Snoop Dogg",
+               "3":"Lady Gaga"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Rude Boy",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Rihanna",
+         "answers":[
+            {
+               "1":"Rihanna",
+               "2":"Kesha",
+               "3":"Lady Gaga"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?We No Speak Americano",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Yolanda Be Cool and DCUP",
+         "answers":[
+            {
+               "1":"Bruno Mars",
+               "2":"Yolanda Be Cool and DCUP",
+               "3":"B.O.B Ft Hayley Williams"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?The Time (Dirty Bit)",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Black Eyed Peas",
+         "answers":[
+            {
+               "1":"Black Eyed Peas",
+               "2":"Far East Movement Ft Dev and The Cataracs",
+               "3":"Bruno Mars"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Just The Way You Are",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Bruno Mars",
+         "answers":[
+            {
+               "1":"Bruno Mars",
+               "2":"Train",
+               "3":"Lady Gaga"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Love The Way You Lie",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Eminem Ft Rihanna",
+         "answers":[
+            {
+               "1":"Justin Bieber Ft Ludacris",
+               "2":"Katy Perry Ft Snoop Dogg",
+               "3":"Eminem Ft Rihanna"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Bad Romance",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Lady Gaga",
+         "answers":[
+            {
+               "1":"Lady Gaga",
+               "2":"Eminem",
+               "3":"Kesha"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Like A G6",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Far East Movement Ft Dev and The Cataracs",
+         "answers":[
+            {
+               "1":"Kesha",
+               "2":"Lady Gaga",
+               "3":"Far East Movement Ft Dev and The Cataracs"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Telephone",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Lady Gaga Ft Beyonce",
+         "answers":[
+            {
+               "1":"Lady Gaga Ft Beyonce",
+               "2":"Pink",
+               "3":"Shakira Ft Freshlyground"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Bulletproof",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"La Roux",
+         "answers":[
+            {
+               "1":"Justin Bieber Ft Ludacris",
+               "2":"Rihanna",
+               "3":"La Roux"
+            }
+         ]
+      },
+      {
+         "question":"These words are from which song?Make me your radio and turn me up when you feel low",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Stereo Hearts",
+         "answers":[
+            {
+               "1":"The Time (Dirty Bit)",
+               "2":"Stereo Hearts",
+               "3":"Born This Way"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Payphone",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Maroon 5 and Wiz Khalifa",
+         "answers":[
+            {
+               "1":"Kelly Clarkson",
+               "2":"Fun and Janelle Monae",
+               "3":"Maroon 5 and Wiz Khalifa"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Set Fire To The Rain",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Adele",
+         "answers":[
+            {
+               "1":"Carly Rae Jepsen",
+               "2":"Adele",
+               "3":"Bruno Mars"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?I Won't Give Up",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jason Mraz",
+         "answers":[
+            {
+               "1":"Jason Mraz",
+               "2":"Mumford and Sons",
+               "3":"Adele"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Somebody That I Used To Know",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Gotye and Kimbra",
+         "answers":[
+            {
+               "1":"Jason Mraz",
+               "2":"Katy Perry",
+               "3":"Gotye and Kimbra"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Where Have You Been",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Rihanna",
+         "answers":[
+            {
+               "1":"Gotye and Kimbra",
+               "2":"Ellie Goulding",
+               "3":"Rihanna"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Lights",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ellie Goulding",
+         "answers":[
+            {
+               "1":"Coldplay",
+               "2":"Train",
+               "3":"Ellie Goulding"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?The A Team",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ed Sheeran",
+         "answers":[
+            {
+               "1":"Jason Mraz",
+               "2":"Ed Sheeran",
+               "3":"Train"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Paradise",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Coldplay",
+         "answers":[
+            {
+               "1":"One Direction",
+               "2":"Jason Mraz",
+               "3":"Coldplay"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Gangnam Style",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"PSY",
+         "answers":[
+            {
+               "1":"Justin Bieber",
+               "2":"David Guetta and Sia",
+               "3":"PSY"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?I Will Wait",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Kelly Clarkson",
+         "answers":[
+            {
+               "1":"Kelly Clarkson",
+               "2":"Coldplay",
+               "3":"Mumford and Sons"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Don't Lie",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"The Black Eyed Peas",
+         "answers":[
+            {
+               "1":"Lucie Silvas",
+               "2":"Sugababes",
+               "3":"The Black Eyed Peas"
+            }
+         ]
+      },
+      {
+         "question":"This artist or band is originally (born or founded) from which country or region?Bob Sinclar",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"France",
+         "answers":[
+            {
+               "1":"France",
+               "2":"Mexico",
+               "3":"United Kingdom"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?Together Through Life",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Bob Dylan",
+         "answers":[
+            {
+               "1":"Seal",
+               "2":"Bob Dylan",
+               "3":"Paolo Nutini"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Can I Go Now?",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jennifer Love Hewitt",
+         "answers":[
+            {
+               "1":"Sertab",
+               "2":"Robbie Williams",
+               "3":"Jennifer Love Hewitt"
+            }
+         ]
+      },
+      {
+         "question":"These words are from which song?Don't be mad once you see that he want it",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Single Ladies",
+         "answers":[
+            {
+               "1":"Single Ladies",
+               "2":"Amercan Boy",
+               "3":"Paul Weller"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?Costello Music",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Fratellis",
+         "answers":[
+            {
+               "1":"Paul Weller",
+               "2":"Fratellis",
+               "3":"Oasis"
+            }
+         ]
+      },
+      {
+         "question":"This artist or band is originally (born or founded) from which country or region?Nickelback",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Canada",
+         "answers":[
+            {
+               "1":"Australia",
+               "2":"Canada",
+               "3":"USA"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Taking Chances",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Celine Dion",
+         "answers":[
+            {
+               "1":"Amy Winehouse",
+               "2":"Justin Timberlake",
+               "3":"Celine Dion"
+            }
+         ]
+      },
+      {
+         "question":"Who recorded this album?Has Been",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"William Shatner",
+         "answers":[
+            {
+               "1":"R Kelly",
+               "2":"Lucie Silvas",
+               "3":"William Shatner"
+            }
+         ]
+      },
+      {
+         "question":"Which artist or group can also be heard on this duet?Let's Go - Trick Daddy and Lil' Jon and ...?",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Twista",
+         "answers":[
+            {
+               "1":"Yung Joc",
+               "2":"Fabolous",
+               "3":"Twista"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?The Sign",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ace Of Base",
+         "answers":[
+            {
+               "1":"Ace Of Base",
+               "2":"Roxette",
+               "3":"The Cardigans"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Crush",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jennifer Paige",
+         "answers":[
+            {
+               "1":"Kim Wilde",
+               "2":"Jessica Simpson",
+               "3":"Jennifer Paige"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Crazy",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Seal",
+         "answers":[
+            {
+               "1":"R. Kelly",
+               "2":"Adamski",
+               "3":"Seal"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Bailamos",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Enrique Iglesias",
+         "answers":[
+            {
+               "1":"Enrique Iglesias",
+               "2":"Robbie Williams",
+               "3":"Ronan Keating"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Under The Bridge",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Red Hot Chili Peppers",
+         "answers":[
+            {
+               "1":"Red Hot Chili Peppers",
+               "2":"Smashing Pumpkins",
+               "3":"Live"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Ordinairy World",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Duran Duran",
+         "answers":[
+            {
+               "1":"Duran Duran",
+               "2":"Don Henley",
+               "3":"Shanice"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Life",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Des'ree",
+         "answers":[
+            {
+               "1":"Toni Braxton",
+               "2":"Des'ree",
+               "3":"Shanice"
+            }
+         ]
+      },
+      {
+         "question":"Who had a hit with this song?Un-Break My Heart",
+         "category":"music",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Toni Braxton",
+         "answers":[
+            {
+               "1":"Toni Braxton",
+               "2":"Mariah Carey",
+               "3":"Shania Twain"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"1mu",
+         "rightAnswer":"Freddie Mercury",
+         "answers":[
+            {
+               "1":"Kurt Cobain",
+               "2":"Freddie Mercury",
+               "3":"Axl Rose"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"2mu",
+         "rightAnswer":"Kurt Cobain",
+         "answers":[
+            {
+               "1":"Kurt Cobain",
+               "2":"Axl Rose",
+               "3":"Freddie Mercury"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"3mu",
+         "rightAnswer":"Bono",
+         "answers":[
+            {
+               "1":"Axl Rose",
+               "2":"Mick Jagger",
+               "3":"Bono"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"4mu",
+         "rightAnswer":"Axl Rose",
+         "answers":[
+            {
+               "1":"Axl Rose",
+               "2":"Mick Jagger",
+               "3":"Bono"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"5mu",
+         "rightAnswer":"Mick Jagger",
+         "answers":[
+            {
+               "1":"Mick Jagger",
+               "2":"Thom Yorke",
+               "3":"Axl Rose"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"6mu",
+         "rightAnswer":"Stevie Nicks",
+         "answers":[
+            {
+               "1":"Stevie Nicks",
+               "2":"Shakira",
+               "3":"Amy Winehouse"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"7mu",
+         "rightAnswer":"Thom Yorke",
+         "answers":[
+            {
+               "1":"Thom Yorke",
+               "2":"Axl Rose",
+               "3":"Mick Jagger"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"8mu",
+         "rightAnswer":"Steven Tyler",
+         "answers":[
+            {
+               "1":"Steven Tyler",
+               "2":"Ozzy Osbourne",
+               "3":"Axl Rose"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"9mu",
+         "rightAnswer":"Ozzy Osbourne",
+         "answers":[
+            {
+               "1":"Ozzy Osbourne",
+               "2":"Steven Tyler",
+               "3":"Axl Rose"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"10mu",
+         "rightAnswer":"Debbie Harry",
+         "answers":[
+            {
+               "1":"Mariah Carey",
+               "2":"Debbie Harry",
+               "3":"Celine Dion"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"11mu",
+         "rightAnswer":"Gwen Stefani",
+         "answers":[
+            {
+               "1":"Gwen Stefani",
+               "2":"Celine Dion",
+               "3":"Debbie Harry"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"12mu",
+         "rightAnswer":"David Lee Roth",
+         "answers":[
+            {
+               "1":"David Lee Roth",
+               "2":"Robert Plant",
+               "3":"Roger Daltrey"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"13mu",
+         "rightAnswer":"Robert Plant",
+         "answers":[
+            {
+               "1":"Roger Daltrey",
+               "2":"Robert Plant",
+               "3":"David Lee Roth"
+            }
+         ]
+      },
+      {
+         "question":"who is represented in the picture ?",
+         "category":"music",
+         "isImage":true,
+         "imagePath":"14mu",
+         "rightAnswer":"Ann Wilson",
+         "answers":[
+            {
+               "1":"Hilary Duff",
+               "2":"Madonna",
+               "3":"Ann Wilson"
+            }
+         ]
+      },
+                {
+                "question": "Who is represented in this photo?",
+                "category": "Music",
+                "isImage": true,
+                "imagePath":"5020",
+                "rightAnswer": "Martin Garrix",
+                "answers": [{
+                            "1": "Steve Aoki",
+                            "2": "Skrillex",
+                            "3": "Martin Garrix"
+                            }
+                            ]
+                },
+                {
+                "question": "Who is represented in this photo?",
+                "category": "Music",
+                "isImage": true,
+                "imagePath":"5011",
+                "rightAnswer": "Justin Timberlake",
+                "answers": [{
+                            "1": "Justin Timberlake",
+                            "2": "Justin Bieber",
+                            "3": "Jared Leto"
+                            }
+                            ]
+                },
+                {
+                "question": "Who is represented in this photo?",
+                "category": "Music",
+                "isImage": true,
+                "imagePath":"5012",
+                "rightAnswer": "Rihanna",
+                "answers": [{
+                            "1": "Beyoncé",
+                            "2": "Rihanna",
+                            "3": "Jennifer Lopez"
+                            }
+                            ]
+                },{
+                "question": "Who is represented in this photo?",
+                "category": "Music",
+                "isImage": true,
+                "imagePath":"5013",
+                "rightAnswer": "Lady Gaga",
+                "answers": [{
+                            "1": "Lady Gaga",
+                            "2": "Jennifer Lopez",
+                            "3": "Beyoncé"
+                            }
+                            ]
+                },{
+                "question": "Who is represented in this photo?",
+                "category": "Music",
+                "isImage": true,
+                "imagePath":"5014",
+                "rightAnswer": "Jennifer Lopez",
+                "answers": [{
+                            "1": "Jennifer Lopez",
+                            "2": "Beyoncé",
+                            "3": "Rihanna"
+                            }
+                            ]
+                },{
+                "question": "Who is represented in this photo?",
+                "category": "Music",
+                "isImage": true,
+                "imagePath":"5015",
+                "rightAnswer": "Beyoncé",
+                "answers": [{
+                            "1": "Jennifer Lopez",
+                            "2": "Beyoncé",
+                            "3": "Rihanna"
+                            }
+                            ]
+                },{
+                "question": "Who is represented in this photo?",
+                "category": "Music",
+                "isImage": true,
+                "imagePath":"5016",
+                "rightAnswer": "Justin Bieber",
+                "answers": [{
+                            "1": "Justin Timberlake",
+                            "2": "Justin Bieber",
+                            "3": "Jared Leto"
+                            }
+                            ]
+                },{
+                "question": "Who is represented in this photo?",
+                "category": "Music",
+                "isImage": true,
+                "imagePath":"5017",
+                "rightAnswer": "Shakira",
+                "answers": [{
+                            "1": "Jennifer Lopez",
+                            "2": "Shakira",
+                            "3": "Rihanna"
+                            }
+                            ]
+                },{
+                "question": "Who is represented in this photo?",
+                "category": "Music",
+                "isImage": true,
+                "imagePath":"5018",
+                "rightAnswer": "Skrillex",
+                "answers": [{
+                            "1": "Steve Aoki",
+                            "2": "Skrillex",
+                            "3": "Martin Garrix"
+                            }
+                            ]
+                },{
+                "question": "Who is represented in this photo?",
+                "category": "Music",
+                "isImage": true,
+                "imagePath":"5019",
+                "rightAnswer": "Steve Aoki",
+                "answers": [{
+                            "1": "Steve Aoki",
+                            "2": "Skrillex",
+                            "3": "Martin Garrix"
+                            }
+                            ]
+                },
+                {
+                "question": "Who is represented in this photo?",
+                "category": "Music",
+                "isImage": true,
+                "imagePath":"5050",
+                "rightAnswer": "Jared Leto",
+                "answers": [{
+                            "1": "Justin Timberlake",
+                            "2": "Jared Leto",
+                            "3": "Justin Bieber"
+                            }
+                            ]
+                }
+                ]
+}

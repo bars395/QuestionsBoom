@@ -1,0 +1,1516 @@
+{
+   "Questions":[
+      {
+         "question":"Who is the author of this work?The Great Gatsby",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"F. Scott Fitzgerald",
+         "answers":[
+            {
+               "1":"F. Scott Fitzgerald",
+               "2":"Daniel Defoe",
+               "3":"James Joyce"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Brave New World",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Aldous Huxley",
+         "answers":[
+            {
+               "1":"Jules Verne",
+               "2":"Aldous Huxley",
+               "3":"George Orwell"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Don Quixote",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Miguel De Cervantes Saaverda",
+         "answers":[
+            {
+               "1":"Alexandre Dumas",
+               "2":"William Shakespeare",
+               "3":"Miguel De Cervantes Saaverda"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Around The World In Eighty Days",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jules Verne",
+         "answers":[
+            {
+               "1":"Herman Melville",
+               "2":"Graham Greene",
+               "3":"Jules Verne"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? The Lord Of The Rings",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"J.R.R. Tolkien",
+         "answers":[
+            {
+               "1":"J.R.R. Tolkien",
+               "2":"J.K. Rowling",
+               "3":"Roald Dahl"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? The Grapes Of Wrath",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"John Steinbeck",
+         "answers":[
+            {
+               "1":"John Steinbeck",
+               "2":"Umberto Eco",
+               "3":"J.R.R. Tolkien"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Great Expectations",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Charles Dickens",
+         "answers":[
+            {
+               "1":"James Joyce",
+               "2":"Herman Melville",
+               "3":"Charles Dickens"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Gulliver's Travels",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jonathan Swift",
+         "answers":[
+            {
+               "1":"Alexandre Dumas",
+               "2":"Henry Fielding",
+               "3":"Jonathan Swift"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Sense And Sensibility",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jane Austen",
+         "answers":[
+            {
+               "1":"Charlotte Bronte",
+               "2":"Jane Austen",
+               "3":"Jonathan Swift"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? A Christmas Carol",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Charles Dickens",
+         "answers":[
+            {
+               "1":"Charles Dickens",
+               "2":"Henry Fielding",
+               "3":"F. Scott Fitzgerald"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Gone With The Wind",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Margaret Mitchell",
+         "answers":[
+            {
+               "1":"Jane Austen",
+               "2":"Jules Verne",
+               "3":"Margaret Mitchell"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Lolita",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Vladimir Nabokov",
+         "answers":[
+            {
+               "1":"James Joyce",
+               "2":"Leo Tolstoy",
+               "3":"Vladimir Nabokov"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Moby Dick",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Herman Melville",
+         "answers":[
+            {
+               "1":"Herman Melville",
+               "2":"Leo Tolstoy",
+               "3":"Jules Verne"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? The Last of The Mohicans",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"James Fenimore Cooper",
+         "answers":[
+            {
+               "1":"Jules Verne",
+               "2":"James Fenimore Cooper",
+               "3":"Mark Twain"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Romeo And Julliet",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"William Shakespeare",
+         "answers":[
+            {
+               "1":"Christopher Marlowe",
+               "2":"Jane Austen",
+               "3":"William Shakespeare"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Wuthering Heights",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Emily Bronte",
+         "answers":[
+            {
+               "1":"Emily Bronte",
+               "2":"Harriet Beecher Stowe",
+               "3":"Margaret Mitchell"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? The Three Musketeers",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Alexandre Dumas",
+         "answers":[
+            {
+               "1":"Alexandre Dumas",
+               "2":"William Shakespeare",
+               "3":"Robert L.B. Stevenson"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? War And Peace",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Leo Tolstoy",
+         "answers":[
+            {
+               "1":"Vladimir Nabokov",
+               "2":"Leo Tolstoy",
+               "3":"Boris Pasternak"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? An American Tragedy",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Theodore Dreiser",
+         "answers":[
+            {
+               "1":"Saul Bellow",
+               "2":"Theodore Dreiser",
+               "3":"George Orwell"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? The Catcher in the Rye",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"J.D.Salinger",
+         "answers":[
+            {
+               "1":"J.D.Salinger",
+               "2":"Theodore Dreiser",
+               "3":"Robert L.B. Stevenson"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? The Adventures Of Sherlock Holmes",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Sir Arthur Conan Doyle",
+         "answers":[
+            {
+               "1":"Sir Arthur Conan Doyle",
+               "2":"Rudyard Kipling",
+               "3":"Jules Verne"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Doctor Zhivago",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Boris Pasternak",
+         "answers":[
+            {
+               "1":"Vladimir Nabokov",
+               "2":"Fyodor Dostoyevsky",
+               "3":"Boris Pasternak"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Pride And Prejudice",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Jane Austen",
+         "answers":[
+            {
+               "1":"Harriet Beecher Stowe",
+               "2":"Jane Austen",
+               "3":"Emily Bronte"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Macbeth",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"William Shakespeare",
+         "answers":[
+            {
+               "1":"William Shakespeare",
+               "2":"Geoffrey Chaucer",
+               "3":"Victor Hugo"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Portrait Of A Lady",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Henry James",
+         "answers":[
+            {
+               "1":"Henry James",
+               "2":"Umberto Eco",
+               "3":"Alice Walker"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Of Mice And Men",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"John Steinbeck",
+         "answers":[
+            {
+               "1":"Charles Dickens",
+               "2":"Theodore Dreiser",
+               "3":"John Steinbeck"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Faust (I & II)",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Johann Wolfgang von Goethe",
+         "answers":[
+            {
+               "1":"Johann Wolfgang von Goethe",
+               "2":"Oscar Wilde",
+               "3":"Bertolt Brecht"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Canterbury Tales",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Geoffrey Chaucer",
+         "answers":[
+            {
+               "1":"Miguel De Cervantes Saaverda",
+               "2":"John Milton",
+               "3":"Geoffrey Chaucer"
+            }
+         ]
+      },
+      {
+         "question":"Who wrote this classic children's fiction novel? The Legend of Sleepy Hollow (1819)",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Washington Irving",
+         "answers":[
+            {
+               "1":"Washington Irving",
+               "2":"George MacDonald",
+               "3":"Lucy Maud Montgomery"
+            }
+         ]
+      },
+      {
+         "question":"What was the first published (fiction) novel of this author? Iain Banks",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"The Wasp Factory",
+         "answers":[
+            {
+               "1":"Walking on Glass",
+               "2":"The Wasp Factory",
+               "3":"The Player of Games"
+            }
+         ]
+      },
+      {
+         "question":"What was the first published (fiction) novel of this author? H.G. Wells",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"The Time Machine",
+         "answers":[
+            {
+               "1":"The Invisible Man",
+               "2":"The Time Machine",
+               "3":"The Island of Doctor Moreau"
+            }
+         ]
+      },
+      {
+         "question":"Who wrote this Booker Prize winning or nominated book? King Fisher Lives",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Julian Rathbone",
+         "answers":[
+            {
+               "1":"Julian Rathbone",
+               "2":"Susan Hill",
+               "3":"Barry England"
+            }
+         ]
+      },
+      {
+         "question":"Who wrote this Booker Prize winning or nominated book? Oscar and Lucinda",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Peter Carey",
+         "answers":[
+            {
+               "1":"Peter Carey",
+               "2":"Penelope Lively",
+               "3":"Iris Murdoch"
+            }
+         ]
+      },
+      {
+         "question":"Which adjective is missing from this book title? The ___ Garden (Frances Hodgson Burnett, 1911)",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Secret",
+         "answers":[
+            {
+               "1":"Secret",
+               "2":"Sleepy",
+               "3":"Little"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? The Sound And The Fury",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"William Faulkner",
+         "answers":[
+            {
+               "1":"William Faulkner",
+               "2":"Charles Dickens",
+               "3":"Tennessee Williams"
+            }
+         ]
+      },
+      {
+         "question":"This author lived between which of these years? Charles Dickens",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"1812-1870",
+         "answers":[
+            {
+               "1":"1912-1970",
+               "2":"1712-1770",
+               "3":"1812-1870"
+            }
+         ]
+      },
+      {
+         "question":"This is the first line from which book? Call me Ishmael",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Moby-Dick",
+         "answers":[
+            {
+               "1":"Moby-Dick",
+               "2":"The Da Vinci Code",
+               "3":"Corelli's Mandolin"
+            }
+         ]
+      },
+      {
+         "question":"This is the first line from which book? It was the best of times, it was the worst of times",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"A Tale of Two Cities",
+         "answers":[
+            {
+               "1":"A Tale of Two Cities",
+               "2":"Crime and Punishment",
+               "3":"Corelli's Mandolin"
+            }
+         ]
+      },
+      {
+         "question":"This is the first line from which book? When he was nearly thirteen, my brother Jem got his arm badly broken at the elbow",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"To Kill a Mockingbird",
+         "answers":[
+            {
+               "1":"To Kill a Mockingbird",
+               "2":"Moby-Dick",
+               "3":"Brave New World"
+            }
+         ]
+      },
+      {
+         "question":"This is the first line from which book? Someone must have slandered Josef K., for one morning, without having done anything truly wrong, he was arrested",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"The Trial",
+         "answers":[
+            {
+               "1":"Great Expectations",
+               "2":"The Trial",
+               "3":"Crime and Punishment"
+            }
+         ]
+      },
+      {
+         "question":"This is the first line from which book? I was born in the Year 1632, in the City of York, of a good Family, tho' not of that Country, my Father being a Foreigner of Bremen, who settled first at Hull",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Robinson Crusoe",
+         "answers":[
+            {
+               "1":"Don Quixote",
+               "2":"Robinson Crusoe",
+               "3":"The Catcher in the Rye"
+            }
+         ]
+      },
+      {
+         "question":"This is the first line from which book? Dr. Iannis had enjoyed a satisfactory day in which none of his patients had died or got any worse",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Corelli's Mandolin",
+         "answers":[
+            {
+               "1":"Corelli's Mandolin",
+               "2":"A Farewell to Arms",
+               "3":"The Catcher in the Rye"
+            }
+         ]
+      },
+      {
+         "question":"This is the first line from which book? You better not never tell nobody but God",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"The Color Purple",
+         "answers":[
+            {
+               "1":"The Godfather",
+               "2":"Brave New World",
+               "3":"The Color Purple"
+            }
+         ]
+      },
+      {
+         "question":"This is the first line from which book? It was love at first sight",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Catch-22",
+         "answers":[
+            {
+               "1":"Catch-22",
+               "2":"Moby-Dick",
+               "3":"Wuthering Heights"
+            }
+         ]
+      },
+      {
+         "question":"This is the first line from which book? The primroses were over",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Watership Down",
+         "answers":[
+            {
+               "1":"Watership Down",
+               "2":"The Trial",
+               "3":"Crime and Punishment"
+            }
+         ]
+      },
+      {
+         "question":"This play by William Shakespeare is mainly set in which place(s)?Henry VIII",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"London, Westminster and Kimbolton",
+         "answers":[
+            {
+               "1":"Rome and Britain",
+               "2":"London, Westminster and Kimbolton",
+               "3":"Elsinore"
+            }
+         ]
+      },
+      {
+         "question":"These are the main places mentioned in which play by Shakespeare? Angiers, St. Edmundsbury and a place near Swinstead Abbey",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"King John",
+         "answers":[
+            {
+               "1":"King John",
+               "2":"The Taming of the Shrew",
+               "3":"Love's Labours Lost"
+            }
+         ]
+      },
+      {
+         "question":"This character from a play by Shakespeare forms a couple with which of these characters? Olivia",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Sebastian",
+         "answers":[
+            {
+               "1":"Mark Antony",
+               "2":"Sebastian",
+               "3":"Lucentio"
+            }
+         ]
+      },
+      {
+         "question":"This is the opening line from which play by William Shakespeare? Two households, both alike in dignity",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Romeo and Juliet",
+         "answers":[
+            {
+               "1":"Macbeth",
+               "2":"Romeo and Juliet",
+               "3":"Timon of Athens"
+            }
+         ]
+      },
+      {
+         "question":"This character from a play by Shakespeare forms a couple with which of these characters? Thaisa",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Pericles",
+         "answers":[
+            {
+               "1":"Hector",
+               "2":"Othello",
+               "3":"Pericles"
+            }
+         ]
+      },
+      {
+         "question":"This is a quote from which play by William Shakespeare? My friends were poor, but honest.",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"All's Well That Ends Well",
+         "answers":[
+            {
+               "1":"Macbeth",
+               "2":"All's Well That Ends Well",
+               "3":"Romeo and Juliet"
+            }
+         ]
+      },
+      {
+         "question":"This play by William Shakespeare is mainly set in which place(s)? As You Like It",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"The Forest of Arden",
+         "answers":[
+            {
+               "1":"Rome",
+               "2":"London, Paris and Agincourt",
+               "3":"The Forest of Arden"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? Chronicles of Narnia - The Voyage of the Dawn Treader",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"C.S. Lewis",
+         "answers":[
+            {
+               "1":"Cormac McCarthy",
+               "2":"C.S. Lewis",
+               "3":"Kathryn Stockett"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? The Lorax",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Dr. Seuss",
+         "answers":[
+            {
+               "1":"Kathryn Stockett",
+               "2":"Dr. Seuss",
+               "3":"Sara Gruen"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? The Help",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Kathryn Stockett",
+         "answers":[
+            {
+               "1":"Cormac McCarthy",
+               "2":"Kathryn Stockett",
+               "3":"Sara Gruen"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? The Boy in the Striped Pajamas",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"John Boyne",
+         "answers":[
+            {
+               "1":"Dr. Seuss",
+               "2":"Emily Giffin",
+               "3":"John Boyne"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? Slumdog Millionaire",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Vikas Swarup",
+         "answers":[
+            {
+               "1":"J.K. Rowling",
+               "2":"Stephenie Meyer",
+               "3":"Vikas Swarup"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? The Road",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Cormac McCarthy",
+         "answers":[
+            {
+               "1":"Dr. Seuss",
+               "2":"Cormac McCarthy",
+               "3":"Emily Giffin"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? Angels and Demons",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Dan Brown",
+         "answers":[
+            {
+               "1":"Lionel Shriver",
+               "2":"Dr. Seuss",
+               "3":"Dan Brown"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? Water for Elephants",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Sara Gruen",
+         "answers":[
+            {
+               "1":"Sara Gruen",
+               "2":"Heidi Murkoff",
+               "3":"Sophie Kinsella"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? The Giver",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Lois Lowry",
+         "answers":[
+            {
+               "1":"Mara Leveritt",
+               "2":"Ron Rash",
+               "3":"Lois Lowry"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? Vampire Academy",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Richelle Mead",
+         "answers":[
+            {
+               "1":"Laura Hillenbrand",
+               "2":"Alan Snow",
+               "3":"Richelle Mead"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? Unbroken",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Laura Hillenbrand",
+         "answers":[
+            {
+               "1":"Fyodor Dostoevsky",
+               "2":"Laura Hillenbrand",
+               "3":"Richelle Mead"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? The Hundred-Foot Journey",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Richard C. Morais",
+         "answers":[
+            {
+               "1":"Lawrence Block",
+               "2":"Dean R. Koontz",
+               "3":"Richard C. Morais"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? The Double",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Fyodor Dostoevsky",
+         "answers":[
+            {
+               "1":"Fyodor Dostoevsky",
+               "2":"Joseph Finder",
+               "3":"Tim Tharp"
+            }
+         ]
+      },
+      {
+         "question":"This movie or series was based on a book by which author? The Company You Keep",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Neil Gordon",
+         "answers":[
+            {
+               "1":"Max Barry",
+               "2":"Neil Gordon",
+               "3":"Shannon Hale"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? The Old Man And The Sea",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Ernest Hemingway",
+         "answers":[
+            {
+               "1":"Ernest Hemingway",
+               "2":"Virginia Woolf",
+               "3":"Louisa May Alcott"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Life On The Mississippi",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Mark Twain",
+         "answers":[
+            {
+               "1":"John Irving",
+               "2":"James Jones",
+               "3":"Mark Twain"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Moll Flanders",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Daniel Defoe",
+         "answers":[
+            {
+               "1":"Margaret Mitchell",
+               "2":"John Milton",
+               "3":"Daniel Defoe"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? As You Like It",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"William Shakespeare",
+         "answers":[
+            {
+               "1":"Christopher Marlowe",
+               "2":"Robert L.B. Stevenson",
+               "3":"William Shakespeare"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? The World According to Garp",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"John Irving",
+         "answers":[
+            {
+               "1":"John Irving",
+               "2":"John Grisham",
+               "3":"John Steinbeck"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Crime And Punishment",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Fyodor Dostoyevsky",
+         "answers":[
+            {
+               "1":"Fyodor Dostoyevsky",
+               "2":"Leo Tolstoy",
+               "3":"Toni Morrison"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? The Sound And The Fury",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"William Faulkner",
+         "answers":[
+            {
+               "1":"Charles Dickens",
+               "2":"Tennessee Williams",
+               "3":"William Faulkner"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Jungle Book",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Rudyard Kipling",
+         "answers":[
+            {
+               "1":"Anthony Burgess",
+               "2":"Rudyard Kipling",
+               "3":"Margaret Mitchell"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? The Hound Of The Baskervilles",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Sir Arthur Conan Doyle",
+         "answers":[
+            {
+               "1":"Sir Arthur Conan Doyle",
+               "2":"J.D.Salinger",
+               "3":"John Milton"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work ?Cat On A Hot Tin Roof",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Tennessee Williams",
+         "answers":[
+            {
+               "1":"Mark Twain",
+               "2":"F. Scott Fitzgerald",
+               "3":"Tennessee Williams"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Howard's End",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"E.M. Forster",
+         "answers":[
+            {
+               "1":"J.R.R. Tolkien",
+               "2":"Virginia Woolf",
+               "3":"E.M. Forster"
+            }
+         ]
+      },
+      {
+         "question":"Who is the author of this work? Treasure Island",
+         "category":"literature",
+         "isImage":false,
+         "imagePath":"",
+         "rightAnswer":"Robert L.B. Stevenson",
+         "answers":[
+            {
+               "1":"Miguel De Cervantes Saaverda",
+               "2":"Robert L.B. Stevenson",
+               "3":"Jules Verne"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"1l",
+         "rightAnswer":"Ian McEwan",
+         "answers":[
+            {
+               "1":"Ralph Waldo Emerson",
+               "2":"Karl May",
+               "3":"Ian McEwan"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"2l",
+         "rightAnswer":"Daniel Defoe",
+         "answers":[
+            {
+               "1":"Daniel Defoe",
+               "2":"John Milton",
+               "3":"Sir Walter Scott"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"3l",
+         "rightAnswer":"Thomas Mann",
+         "answers":[
+            {
+               "1":"Aleksandr Pushkin",
+               "2":"Thomas Mann",
+               "3":"Gustave Flaubert"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"4l",
+         "rightAnswer":"Harriet Beecher Stowe",
+         "answers":[
+            {
+               "1":"Emily Bronte",
+               "2":"Virginia Woolf",
+               "3":"Harriet Beecher Stowe"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"5l",
+         "rightAnswer":"Henry Miller",
+         "answers":[
+            {
+               "1":"Thomas Hardy",
+               "2":"Henry Miller",
+               "3":"Henry James"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"6l",
+         "rightAnswer":"Gustave Flaubert",
+         "answers":[
+            {
+               "1":"Victor Hugo",
+               "2":"Marcel Proust",
+               "3":"Gustave Flaubert"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"7l",
+         "rightAnswer":"Graham Greene",
+         "answers":[
+            {
+               "1":"Norman Mailer",
+               "2":"Evelyn Waugh",
+               "3":"Graham Greene"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"8l",
+         "rightAnswer":"Ralph Waldo Emerson",
+         "answers":[
+            {
+               "1":"Ralph Waldo Emerson",
+               "2":"Sir Walter Scott",
+               "3":"Walt Whitman"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"9l",
+         "rightAnswer":"Jack London",
+         "answers":[
+            {
+               "1":"Thomas Hardy",
+               "2":"George Bernard Shaw",
+               "3":"Jack London"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"10l",
+         "rightAnswer":"E.R. Burroughs",
+         "answers":[
+            {
+               "1":"Ian McEwan",
+               "2":"Thomas Mann",
+               "3":"E.R. Burroughs"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"11l",
+         "rightAnswer":"Rudyard Kipling",
+         "answers":[
+            {
+               "1":"Rudyard Kipling",
+               "2":"Fyodor Dostoevsky",
+               "3":"Albert Camus"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"12l",
+         "rightAnswer":"William Butler Yeats",
+         "answers":[
+            {
+               "1":"Oscar Wilde",
+               "2":"D.H. Lawrence",
+               "3":"William Butler Yeats"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"13l",
+         "rightAnswer":"Anton Chekhov",
+         "answers":[
+            {
+               "1":"Fyodor Dostoevsky",
+               "2":"Anton Chekhov",
+               "3":"Aldous Huxley"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"14l",
+         "rightAnswer":"Aldous Huxley",
+         "answers":[
+            {
+               "1":"Fyodor Dostoevsky",
+               "2":"Vladimir Nabokov",
+               "3":"Aldous Huxley"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"15l",
+         "rightAnswer":"Umberto Eco",
+         "answers":[
+            {
+               "1":"Octavio Paz",
+               "2":"Umberto Eco",
+               "3":"Jorge Luis Borges"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"16l",
+         "rightAnswer":"Anne Frank",
+         "answers":[
+            {
+               "1":"Anne Rice",
+               "2":"Anne Frank",
+               "3":"Emily Dickinson"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"17l",
+         "rightAnswer":"Norman Mailer",
+         "answers":[
+            {
+               "1":"Jules Verne",
+               "2":"Norman Mailer",
+               "3":"Aldous Huxley"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"18l",
+         "rightAnswer":"John Milton",
+         "answers":[
+            {
+               "1":"John Milton",
+               "2":"Daniel Dafoe",
+               "3":"Jonathan Swift"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"19l",
+         "rightAnswer":"Albert Camus",
+         "answers":[
+            {
+               "1":"Lewis Carroll",
+               "2":"Albert Camus",
+               "3":"Anton Chekhov"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"20l",
+         "rightAnswer":"Gabriel Garcia Marquez",
+         "answers":[
+            {
+               "1":"Gabriel Garcia Marquez",
+               "2":"Jorge Luis Borges",
+               "3":"Umberto Eco"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"21l",
+         "rightAnswer":"John Steinbeck",
+         "answers":[
+            {
+               "1":"Marcel Proust",
+               "2":"Franz Kafka",
+               "3":"John Steinbeck"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"22l",
+         "rightAnswer":"Franz Kafka",
+         "answers":[
+            {
+               "1":"Roald Dahl",
+               "2":"William Faulkner",
+               "3":"Franz Kafka"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"23l",
+         "rightAnswer":"Stephen King",
+         "answers":[
+            {
+               "1":"John Steinbeck",
+               "2":"John Grisham",
+               "3":"Stephen King"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"24l",
+         "rightAnswer":"Alexandre Dumas",
+         "answers":[
+            {
+               "1":"Marcel Proust",
+               "2":"Alexandre Dumas",
+               "3":"Herman Melville"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"25l",
+         "rightAnswer":"Arthur Conan Doyle",
+         "answers":[
+            {
+               "1":"Arthur Conan Doyle",
+               "2":"James Joyce",
+               "3":"John Steinbeck"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"26l",
+         "rightAnswer":"Homer",
+         "answers":[
+            {
+               "1":"Plato",
+               "2":"Homer",
+               "3":"Sulla"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"27l",
+         "rightAnswer":"George Orwell",
+         "answers":[
+            {
+               "1":"George Orwell",
+               "2":"Marcel Proust",
+               "3":"Ernest Hemingway"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"28l",
+         "rightAnswer":"J. K. Rowling",
+         "answers":[
+            {
+               "1":"Suzanne Collins",
+               "2":"J. K. Rowling",
+               "3":"Stephenie Meyer"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"29l",
+         "rightAnswer":"Oscar Wilde",
+         "answers":[
+            {
+               "1":"Oscar Wilde",
+               "2":"H.G. Wells",
+               "3":"Francis Scott Fitzgerald"
+            }
+         ]
+      },
+      {
+         "question":"This is a picture of which famous author?",
+         "category":"literature",
+         "isImage":true,
+         "imagePath":"30l",
+         "rightAnswer":"Charlotte Bronte",
+         "answers":[
+            {
+               "1":"Virginia Woolf",
+               "2":"Charlotte Bronte",
+               "3":"George Eliot"
+            }
+         ]
+      }
+   ]
+}
